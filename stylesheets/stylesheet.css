@@ -366,7 +366,10 @@ Full-Width Styles
   background: #212121;
 }
 
-
+aside {
+	text-align: center;
+	margin: 2%;
+}
 
 /*******************************************************************************
 Small Device Styles
