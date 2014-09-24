@@ -3,8 +3,6 @@ JohanBove.info2014
 
 My personal web page: http://johanbove.info
 
-Currently hosted at [Antagonist.nl](http://www.antagonist.nl).
-
 ## License
 
 The Unlicense (aka: public domain)
