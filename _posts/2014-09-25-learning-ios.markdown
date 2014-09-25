@@ -10,7 +10,7 @@ I'm following the excellent tutorials written by fellow Belgian [Bart Jacocs](ht
 
 The company I am currently working for needs an iOS app in preparation to the HomeKit craze which is expected to happen as soon as devices come available on the market.
 
-Challenge: I have been working on Windows PC machine for about my whole career and don't have an Apple machine.
+Challenge: I have been working on Windows PC machines for about my whole career and don't have an Apple computer.
 
 Developers need to work with [Apple's Xcode](https://developer.apple.com/xcode/) for [iOS development](https://developer.apple.com/devcenter/ios/). So the company ordered a [Mac Mini](https://www.apple.com/mac-mini/) exactly for this purpose for me to work on.
 
