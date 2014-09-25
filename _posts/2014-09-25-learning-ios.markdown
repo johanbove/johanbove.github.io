@@ -35,6 +35,17 @@ So wish me luck! I'm going in.
 
 So this is the ``helloworld.m`` objective-c program I have been playing with, courtesy of [Bart's tutorial](http://code.tutsplus.com/tutorials/learning-c-a-primer--mobile-13916). This amazing code compiles to a nice ``helloworld.exe`` program which outputs the prints to the console in [Windows PowerShell](http://technet.microsoft.com/en-us/library/ee221100.aspx).
 
+``` objective-c
+// Testing a code block
+
+int main(void) {
+    // stuff
+}
+
+```
+
+The actual fenced clode block which doesn't render well (but works prefect in the Github preview):
+
 
 ``` objective-c
 /**
