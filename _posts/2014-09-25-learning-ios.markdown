@@ -4,7 +4,7 @@ title:  "Learning iOS development"
 categories: blog
 ---
 
-Why? Well, I am currently [learning](http://code.tutsplus.com/tutorials/getting-started-with-objective-c--mobile-13944) all about [Objective-C and iOS development](http://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536).
+I am currently [learning](http://code.tutsplus.com/tutorials/getting-started-with-objective-c--mobile-13944) all about [Objective-C and iOS development](http://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536).
 
 I'm following the excellent tutorials written by fellow Belgian [Bart Jacocs](http://tutsplus.com/authors/bart-jacobs).
 
