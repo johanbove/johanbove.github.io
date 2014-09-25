@@ -8,11 +8,15 @@ I am currently [learning](http://code.tutsplus.com/tutorials/getting-started-wit
 
 I'm following the excellent tutorials written by fellow Belgian [Bart Jacocs](http://tutsplus.com/authors/bart-jacobs).
 
-You might think it is strange since you need an Apple computer to do anything related with iOS. Well, the company I am currently working for needs an iOS app in preparation to the HomeKit craze which is expected to happen as soon as devices come available on the market.
+The company I am currently working for needs an iOS app in preparation to the HomeKit craze which is expected to happen as soon as devices come available on the market.
 
-Developers need to work with Apple's Xcode for iOS development, so they ordered a Mac Mini exactly for this purpose for me. I the meantime nothing stops me from learning about the new programming language, tools and everything around this using my Windows PC while waiting until the shiny new Apple gear arrives.
+Challenge: I have been working on Windows PC machine for about my whole career and don't have an Apple machine.
 
-**Note:** It is possible to start with Objective-C code on Windows by following [these instructions](http://stackoverflow.com/questions/56708/objective-c-for-windows).
+Developers need to work with [Apple's Xcode](https://developer.apple.com/xcode/) for [iOS development](https://developer.apple.com/devcenter/ios/). So the company ordered a [Mac Mini](https://www.apple.com/mac-mini/) exactly for this purpose for me to work on.
+
+While waiting until the shiny new Apple gear arrives, nothing stops me from learning about the new programming language, tools and everything around this using my Windows PC.
+
+First thing I learned: it is possible to start with Objective-C code on Windows by following [these instructions](http://stackoverflow.com/questions/56708/objective-c-for-windows).
 
 There are a whole bunch of new concepts I have to learn, since my background as a front-end web developer working in JavaScript, Java etc is very different from the Apple World of Programming. But I am certain I will be able to get going quickly because of the plethora of documentation online.
 
