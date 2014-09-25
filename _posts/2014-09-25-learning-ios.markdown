@@ -35,19 +35,7 @@ So wish me luck! I'm going in.
 
 So this is the ``helloworld.m`` objective-c program I have been playing with, courtesy of [Bart's tutorial](http://code.tutsplus.com/tutorials/learning-c-a-primer--mobile-13916). This amazing code compiles to a nice ``helloworld.exe`` program which outputs the prints to the console in [Windows PowerShell](http://technet.microsoft.com/en-us/library/ee221100.aspx).
 
-``` objective-c
-// Testing a code block
-
-int main(void) {
-    // stuff
-}
-
-```
-
-The actual fenced clode block which doesn't render well (but works prefect in the Github preview):
-
-
-``` objective-c
+{% highlight objective-c %}
 /**
  * Got Objective-C to compile on Windows thanks to this Stackoverflow post:
  * http://stackoverflow.com/questions/56708/objective-c-for-windows
@@ -129,6 +117,5 @@ int helloWorld(NSString *theName)
     NSLog(@"Hello %@! Your name is %d characters long.\n", theName, [theName length]);
     return [theName length];
 }
-```
+{% endhighlight %} 
 
-**Note:** the code block above could look a little broken. I'm trying to get this sorted.
