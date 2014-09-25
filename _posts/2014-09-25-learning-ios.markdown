@@ -25,7 +25,7 @@ The concepts I need to master in short-term, in no particular order:
 
 So wish me luck! I'm going in.
 
-**Note:** In installed [CodeBlocks](http://www.cprogramming.com/code_blocks/) on my work dev machine (DELL XPS-12 running Windows 8.1) so I can run C code, but decided I didn't really need this at this time.
+**Note:** I had installed [CodeBlocks](http://www.cprogramming.com/code_blocks/) on my work dev machine (DELL XPS-12 running Windows 8.1) so I could run C code, but decided I didn't really need this at this time.
 
 ## My first Objective-C program
 
