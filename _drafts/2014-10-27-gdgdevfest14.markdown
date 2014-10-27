@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "GDG Düsseldorf DevFest 2014"
+date:   2014-10-27 20:0000
+categories: blog
+---
+
+> Topic: GDG DevFest 2014 on October 26th, 2014 in Düsseldorf. Also, the first post written in my Cloud9.io workspace.
+
+GDG DevFest 2014 organized by the great developer community living in and around Düsseldorf.
+(Add link to the Google+ community)
+
+# Who are the people who helped organize the event?
+Randy, Jens, etc
+(Check list of speakers)
+
+# Where was it?
+GarageBilk coworking space in Bilk, Düsseldorf.
+
+# Who were the sponsors?
+Google and GrandCentrix
+
+# What were the topics discussed?
+See the GDG DevFest 2014 website for the list of speakers and presentations.
+
+# Links to the presentations
+Ask all presentors for a link to their presentations (if they want to share).
+
+# How was the venue?
+Give some impressions on GarageBilk.
+
+# How was the food?
+Describe the catering and the drinks. Quiche, coffee, fruit, refreshments, Rezul's family contributing Turkish rolls, etc.
