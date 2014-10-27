@@ -5,29 +5,46 @@ date:   2014-10-27 20:0000
 categories: blog
 ---
 
-> Topic: GDG DevFest 2014 on October 26th, 2014 in Düsseldorf. Also, the first post written in my Cloud9.io workspace.
+> *Topic:* GDG DevFest 2014 on October 26th, 2014 in Düsseldorf. Also, the first post written in my new c9.io workspace.
 
-GDG DevFest 2014 organized by the great developer community living in and around Düsseldorf.
-(Add link to the Google+ community)
+The [GDG DevFest 2014](http://www.gdg-dus.de/DevFest2014) organized by the great [GDG developer community](https://plus.google.com/u/0/107373371386267684213/) living in and around Düsseldorf.
 
-# Who are the people who helped organize the event?
+[GDG Düsseldorf on Google+](https://plus.google.com/u/0/107373371386267684213/)
+
+## Who are the people who helped organize the event?
 Randy, Jens, etc
-(Check list of speakers)
 
-# Where was it?
-GarageBilk coworking space in Bilk, Düsseldorf.
+See full [list of speakers](http://www.gdg-dus.de/DevFest2014/speakers/) and [the team](http://www.gdg-dus.de/DevFest2014/team/).
 
-# Who were the sponsors?
-Google and GrandCentrix
+## Where was it?
+[Coworking space "GarageBilk"](https://garagebilk.de/) in Bilk, Düsseldorf.
 
-# What were the topics discussed?
-See the GDG DevFest 2014 website for the list of speakers and presentations.
+## Who were the sponsors?
+[Google GDG](https://developers.google.com/groups/) and [GrandCentrix.de](http://www.grandcentrix.net/)
 
-# Links to the presentations
+## What were the topics discussed?
+See the [GDG DevFest 2014 website](http://www.gdg-dus.de/DevFest2014/schedule/) for the list of speakers and presentations.
+
+## Links to the presentations
 Ask all presentors for a link to their presentations (if they want to share).
 
-# How was the venue?
-Give some impressions on GarageBilk.
+- [Maxim Mai "App and Game Revenue Models"](http://bit.ly/1xhhyX7)
+- [Dittmar Steiner Golang](http://goo.gl/VJMx7X)
+- [Dittmar Steiner Micro Services](http://goo.gl/YswIdl)
+- [Dittmar Steiner Docker](http://goo.gl/wqnphG)
+- [Pascal Welsch Material Design](https://docs.google.com/presentation/d/1qz3lEmxLc04qnq9e4nwAFxNJlV1Qg4pBfhUZs0rdt88/edit?usp=sharing)
 
-# How was the food?
+## How was the venue?
+Give some impressions on GarageBilk...
+
+## How was the food?
 Describe the catering and the drinks. Quiche, coffee, fruit, refreshments, Rezul's family contributing Turkish rolls, etc.
+
+## Where did we do promotion and how did attendees register?
+Google+ event first, then EventBrite because of official Google sponsoring.
+
+## About the website
+Refer to the GitHub fork of the Jekyll template used.
+
+## About how we organized the team
+Refer to Google+, Trello, gitHub etc.
