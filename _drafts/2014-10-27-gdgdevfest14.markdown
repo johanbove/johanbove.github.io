@@ -26,7 +26,7 @@ See full [list of speakers](http://www.gdg-dus.de/DevFest2014/speakers/) and [th
 See the [GDG DevFest 2014 website](http://www.gdg-dus.de/DevFest2014/schedule/) for the list of speakers and presentations.
 
 ## Links to the presentations
-Ask all presentors for a link to their presentations (if they want to share).
+Here are some of the presentations shared with the attendees at the event:
 
 - [Maxim Mai "App and Game Revenue Models"](http://bit.ly/1xhhyX7)
 - [Dittmar Steiner Golang](http://goo.gl/VJMx7X)
@@ -35,16 +35,17 @@ Ask all presentors for a link to their presentations (if they want to share).
 - [Pascal Welsch Material Design](https://docs.google.com/presentation/d/1qz3lEmxLc04qnq9e4nwAFxNJlV1Qg4pBfhUZs0rdt88/edit?usp=sharing)
 
 ## How was the venue?
-Give some impressions on GarageBilk...
+The GarageBilk co-working space is a remodelled, cleaned-up garage and gas station. Lots of local small businesses and startups have their offices there.
+The GDG Düsseldorf got the whole location rented out for the full Sunday for this special occasion. There were three rooms: one big area, the smaller loungs area and a workshop meeting room.
 
 ## How was the food?
-Describe the catering and the drinks. Quiche, coffee, fruit, refreshments, Rezul's family contributing Turkish rolls, etc.
+Describe the catering and the drinks: Quiche, coffee, fruit, refreshments, Rezul's family contributing Turkish rolls, etc.
 
 ## Where did we do promotion and how did attendees register?
-Google+ event first, then EventBrite because of official Google sponsoring.
+At first there was only the Google+ event, since the event was free of charge. Later an EventBrite event was created to improve the registration process to know better how many attendees would actually show up.
 
 ## About the website
-Refer to the GitHub fork of the Jekyll template used.
+Refer to the [GitHub fork](https://github.com/GDG-Dusseldorf/DevFest2014) of the Jekyll template used, made by the Ukraine GDG group.
 
 ## About how we organized the team
-Refer to Google+, Trello, gitHub etc.
+Refer to Google+, Trello, gitHub etc. At first the tasks and todos were shared with the group within the team using Google Hangouts. Soon Jens and Johan set up a Github repository to work on the website and GDG websites. Thanks to gitHub collaborating was painless. Later Randy set up a Trello board to coordinate tasks needed to be taken care of before, during and after the event.
