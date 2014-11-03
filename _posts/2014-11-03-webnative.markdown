@@ -56,6 +56,7 @@ With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of
 - There is a ton of software available out there on the [Google Chrome Store](https://chrome.google.com/webstore).
 - Cloud9 is an awesome application; it has an excellent interface and powerfull features previously only available on Linux/Unix based machines and it all runs within Chrome without hiccups. Really impressive.
 - Google is really [backing ChromeBooks](https://www.google.com/chrome/devices/switch.html#tab=work-sheet-content) all the way and give away tons of free web-space. My 1TB Dropbox space might suffice too though.
+- Apps are always new and the latest and you don't even need to do anything for it! Just open the web app in a browser window, log in, and enjoy.
 
 ## Why I am still holding back
 
