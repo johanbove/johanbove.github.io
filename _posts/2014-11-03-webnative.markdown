@@ -83,6 +83,7 @@ All major PC hardware makers now offer a ChromeBook device. They are all similar
 - [Toshiba ChromeBook 2](http://www.businessinsider.com/toshiba-chromebook-2-review-2014-10)
 - [Acer C720 Chromebook](http://acer.com/chromebook)
 - [Lenovo Idea N20](http://www.cnet.com/products/lenovo-n20/)
+- [Acer C720P](http://www.theverge.com/2014/6/18/5817400/the-best-chromebook)
 
 ## Reading more
 
