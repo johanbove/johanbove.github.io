@@ -54,13 +54,13 @@ With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of
 - Apparently I seem to be be more focused on getting work done when I limit myself to web apps. Freedom of mind and easy of use might be responsible for this. With web apps you just don't need to worry about virusses and crashing hard-drives at all anymore.
 - I haven't been writing before as much as I did since making the switch to Web Apps. Not sure why, but the excellent writing tools available for free might help.
 - There is a ton of software available out there on the [Google Chrome Store](https://chrome.google.com/webstore).
-- Cloud9 is an awesome application; it has an excellent interface and powerfull features previously only available on Ubuntu machines. It all runs from the web browser without hiccups. Really impressive.
+- Cloud9 is an awesome application; it has an excellent interface and powerfull features previously only available on Linux/Unix based machines and it all runs within Chrome without hiccups. Really impressive.
 - Google is really [backing ChromeBooks](https://www.google.com/chrome/devices/switch.html#tab=work-sheet-content) all the way and give away tons of free web-space. My 1TB Dropbox space might suffice too though.
 
 ## Why I am still holding back
 
 - Image editing is challenging. It's a little silly, but I kinda miss good old "Paint.net"... Still looking for a decent vector based editor.
-- The password manager application is use does not have a web client (not naming it for security reasons), but I can of course still use the Android version.
+- The password manager application I use does not have a web client (not naming it for security reasons), but I can of course still use the Android version.
 - Since I don't have an actual ChromeBook, syncing files to Google Drive has not been that easy since- Chrome on Windows 8 keeps popping up Microsoft's OneDrive whenever you need to save a file locally to disk.
 - Since Windows 8.1 the full screen "metro" style or "modern" apps have a toolbar which comes down from the top of the window as soon as the mouse is withing the range and this annoying because Chrome's tabs are also very high up in the screen. Of course this issue will not happen on actual ChromeBooks.
 - A lot of the more serious web applications require paid subscriptions.
