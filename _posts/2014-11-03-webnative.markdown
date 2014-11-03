@@ -9,7 +9,7 @@ categories: blog
 
 ## The Test
 
-So you're considering ditching your Mac or PC and go totally Web Native with a ChromeBook? Well, so did I.
+You're considering ditching your Mac or PC and go totally Web Native with a ChromeBook? Well, so did I.
 The Test is still ongoing as I am writing this post using the Cloud9 web IDE, which is running on Chrome which I have set to "Windows 8" mode.
 Chrome's Windows 8 modus gives you a good feel as how it might be like using a ChromeBook comfortably knowing Windows or OSX is only an alt-tab away.
 
