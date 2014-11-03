@@ -19,7 +19,7 @@ Luckily it works great on Android so I can still use it from there, but I someti
 The combination of an Android phone seems to be key for the success of going totally Web.
 With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of applications I hardly ever need to go to the Windows desktop.
 
-All in all, I think i'll keep my current Windows laptop for another couple of months, learn some more features of Cloud9 and keep to web apps as much as I can.
+> All in all, I think i'll keep my current Windows laptop for another couple of months, learn some more features of Cloud9 and keep to web apps as much as I can.
 
 ## Finding alternative applications
 
@@ -51,11 +51,11 @@ All in all, I think i'll keep my current Windows laptop for another couple of mo
 
 ## Why I would totally make the switch
 
-- Apparently I seem to be be more focused on getting work done when I limit myself to web apps.
+- Apparently I seem to be be more focused on getting work done when I limit myself to web apps. Freedom of mind and easy of use might be responsible for this. With web apps you just don't need to worry about virusses and crashing hard-drives at all anymore.
 - I haven't been writing before as much as I did since making the switch to Web Apps. Not sure why, but the excellent writing tools available for free might help.
 - There is a ton of software available out there on the [Google Chrome Store](https://chrome.google.com/webstore).
 - Cloud9 is an awesome application; it has an excellent interface and powerfull features previously only available on Ubuntu machines. It all runs from the web browser without hiccups. Really impressive.
-- Google is really [backing ChromeBooks](https://www.google.com/chrome/devices/switch.html#tab=work-sheet-content) all the way.
+- Google is really [backing ChromeBooks](https://www.google.com/chrome/devices/switch.html#tab=work-sheet-content) all the way and give away tons of free web-space. My 1TB Dropbox space might suffice too though.
 
 ## Why I am still holding back
 
@@ -80,9 +80,7 @@ The weight and the hard-drive are currently potential motivators for me to make 
 All major PC hardware makers now offer a ChromeBook device. They are all similar, but some are standing out in terms of quality and value for money.
 
 - [Toshiba ChromeBook 2](http://www.businessinsider.com/toshiba-chromebook-2-review-2014-10)
-- [Acer C720 Chromebook](http://acer.com/chromebook).
-
-But I might stick with my current machine and upgrade it with an SSD and a new battery.
+- [Acer C720 Chromebook](http://acer.com/chromebook)
 
 ## Reading more
 
