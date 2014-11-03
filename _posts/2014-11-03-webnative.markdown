@@ -62,8 +62,8 @@ With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of
 - Image editing is challenging. It's a little silly, but I kinda miss good old "Paint.net"... Still looking for a decent vector based editor.
 - The password manager application I use does not have a web client (not naming it for security reasons), but I can of course still use the Android version.
 - Since I don't have an actual ChromeBook, syncing files to Google Drive has not been that easy since- Chrome on Windows 8 keeps popping up Microsoft's OneDrive whenever you need to save a file locally to disk.
-- Since Windows 8.1 the full screen "metro" style or "modern" apps have a toolbar which comes down from the top of the window as soon as the mouse is withing the range and this annoying because Chrome's tabs are also very high up in the screen. Of course this issue will not happen on actual ChromeBooks.
-- A lot of the more serious web applications require paid subscriptions.
+- Windows 8.1 has full screen "metro" style or "modern" apps where a toolbar comes down from the top of the window as soon as the mouse is coming too close to the top which is super annoying because Chrome's tabs are also up there in the top portion of the screen. Of course this issue will not happen on actual ChromeBooks.
+- A lot of the more serious web applications require paid monthly or yearly subscriptions. 
 - Web apps are more prone to being abandoned by the developer. If they shut down the server, you will loose access to the app and perhaps even your files. This is one of the reasons why I keep my files synced across multiple providers.
 - For the time being I only have one "workspace" in Cloud9. Still need to see how to deal with multiple applications in the free subscription model.
 - Can't watch DVD's on a ChromeBook. Only streaming video like Youtube, Netflix etc.
