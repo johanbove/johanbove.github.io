@@ -19,7 +19,7 @@ Luckily it works great on Android so I can still use it from there, but I someti
 The combination of an Android phone seems to be key for the success of going totally Web.
 With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of applications I hardly ever need to go to the Windows desktop.
 
-All in all, I think i'll stick with my current machine for another couple of months and try to get to know some more features of Cloud9 and trying to stick with web apps as much as I can.
+All in all, I think i'll keep my current Windows laptop for another couple of months, learn some more features of Cloud9 and keep to web apps as much as I can.
 
 ## Finding alternative applications
 
