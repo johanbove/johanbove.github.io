@@ -40,9 +40,9 @@ Here are some of the presentations shared with the attendees at the event:
 - [Dittmar Steiner - "Docker"](http://goo.gl/wqnphG)
 - [Pascal Welsch - "Material Design"](https://docs.google.com/presentation/d/1qz3lEmxLc04qnq9e4nwAFxNJlV1Qg4pBfhUZs0rdt88/edit?usp=sharing)
 - [Nabil Ben Said - "Android TV"](https://drive.google.com/file/d/0B3ejc9tWUOaaaGpkNXhFaXYtRkZRdi0yeEZZdEM2UkNUNjNz/view?usp=sharing)
-- [Frederik Schweiger - Building Apps For Wearables ](https://docs.google.com/presentation/d/17b5t5DWNpn_yVgaX69uQYJvx2wbkaMpH1Ox-Zqt1hpE/edit?usp=sharing)
-- [Nenad Natošević - Gradle Workshop](https://docs.google.com/presentation/d/1IBiUncsPb_cT4NMdOedWtLqz71D4V4GYl3OxcDMnxrs/edit?usp=sharing)
-- [Randy Nel Gupta - Polymer](https://docs.google.com/presentation/d/11oCQ271TBdF2xi1oSZqnYePwGQb7W5PK5JOjxFXSiJo/edit?usp=sharing)
+- [Frederik Schweiger - "Building Apps For Wearables" ](https://docs.google.com/presentation/d/17b5t5DWNpn_yVgaX69uQYJvx2wbkaMpH1Ox-Zqt1hpE/edit?usp=sharing)
+- [Nenad Natošević - "Gradle" Workshop](https://docs.google.com/presentation/d/1IBiUncsPb_cT4NMdOedWtLqz71D4V4GYl3OxcDMnxrs/edit?usp=sharing)
+- [Randy Nel Gupta - "Polymer"](https://docs.google.com/presentation/d/11oCQ271TBdF2xi1oSZqnYePwGQb7W5PK5JOjxFXSiJo/edit?usp=sharing)
 
 ### How was the venue?
 The GarageBilk co-working space is a remodelled, cleaned-up garage and gas station. Lots of local small businesses and startups have their offices there.
