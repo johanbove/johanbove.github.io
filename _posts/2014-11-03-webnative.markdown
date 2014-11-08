@@ -87,4 +87,5 @@ All major PC hardware makers now offer a ChromeBook device. They are all similar
 
 ## Reading more
 
-- [Google's Make The Switch promo](https://www.google.com/chrome/devices/switch.html#tab=work-sheet-content)
+- [Google's "Make The Switch" promo](https://www.google.com/chrome/devices/switch.html#tab=work-sheet-content)
+- ["Using a ChromeBook for Web Development" by Michael Bleigh](https://divshot.com/blog/tips/using-a-chromebook-for-web-development/)
