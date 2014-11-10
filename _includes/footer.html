@@ -24,9 +24,46 @@
 
 </footer>
 
-<!-- Google Analytics -->
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  // Show the background image nicely when it's ready
+  ;(function(d, w, undefined) {
+    "use strict";
+
+    var READYCLASSNAME = 'ready';
+
+    d.addEventListener('DOMContentLoaded', domReady, false);
+    
+    function domReady() {
+      loadBackGroundImage('.background', '/images/momentum-photo-45.jpg');
+    }
+    
+    /**
+     * @param {Object} el
+     * @param {String} url
+     * @returns void
+     */
+    function loadBackGroundImage (el, url) {
+      var backgrEl = d.querySelectorAll(el),
+          img = new Image();
+          img.backgrEl = backgrEl;
+          img.addEventListener('load', setBackgroundImage, false);
+          img.src = url;
+    }
+    
+    /**
+     * @param {Object} event
+     * @returns void
+     */ 
+    function setBackgroundImage (event) {
+      var el = event.target.backgrEl[0];
+      el.style.backgroundImage = 'url("' + this.src + '")';
+      el.classList.add(READYCLASSNAME);
+    }
+    
+  }(document, window));
+
+  // Google Analytics
+  ;(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');

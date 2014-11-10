@@ -2,7 +2,7 @@
  *  Page filling background image
  */
 .background {
-    background-image:  url("../images/momentum-photo-45.jpg");
+    //background-image:  url("");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center bottom;
@@ -12,10 +12,17 @@
     position: fixed;
     top: 0;
     left: 0;
-    opacity: .25;
-    -webkit-transform: scale(1.5);
-    -webkit-transform: skew(45, 0);
-    transform: scale(1.5);
+    opacity: 0;    // Will be set to .25 using JS on load
+    
+    -webkit-transition: all 5s ease .2s;
+    transition: all 5s ease .2s;
+    
+    &.ready {
+        opacity: .25;
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    
 }
 
 .wrapper {
