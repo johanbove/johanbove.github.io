@@ -2,7 +2,7 @@
  *  Page filling background image
  */
 .background {
-    //background-image:  url("");
+    background-color: $background-color;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center bottom;
@@ -212,6 +212,10 @@
 .page-content {
     
     padding: $spacing-unit 0;
+    
+    section {
+        position: relative;
+    }
     
     section > h3 {
         margin-top: $spacing-unit;
