@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "What's up - February 2015"
+date:   2015-02-16 14:00
+categories: blog
+---
+
+> What have I been up to in the last couple of months?
+
+## Working on a single-page web application
+
+The project is built using RequireJS modules and on top of the KnockoutJS JavaScript framework, so the whole app is developed using the Model View ViewModel pattern.
+We apply Visual Studio Online's planning tools and it's cloud code repository. Visual Studio Online was previously know as Microsoft Team Foundation Service. The JavaScript application is unit-tested using Jasmine and is run during builds using the Chutzpah Visual Studio extension. We apply NodeJS and LESS to compile the CSS code. Most images are created in SVG. We target only Internet Explorer 9 and upwards so we don't have to worry about older browsers or have to load in many shims and polyfills. The project is going strong for a year and we keep adding improvements and features.
+
+## GDG and Webworkers meetups in Düsseldorf
+
+The Google Developers group is a great bunch of mostly German "computer geeks" who like to hang out and talk about programming, web technologies and gadgets. The GDG Düsseldorf come together once a month and I volunteered to help set up the February meet up event.
+I only recently started attending the WebWorkers Düsseldorf Meetup group. The topic was "DevOps" so pretty relevant to my job. It was a well-attended event and the presentation and questions were interesting.
+
+## Bought a Surface Pro 3
+
+Deciced not to get a Chromebook because of lack of performance in the portables, but go all in with Microsoft's Surface Pro 3 ultrabook/tablet device. I got it complete with the TypeCover and the Dock and I'm a satisfied owner. It really is the all-purpose device one needs these days since it combines the best of the tablet and ultrabook features.
+
+## Reading a lot of articles
+
+So I have been collecting a lot of articles to "read later" in my Pocket account and Feedly feeds. Thanks to IFTT I add a couple of must-read feeds from other blogs.
