@@ -1,6 +1,8 @@
 # Build settings
 encoding: utf-8
-highlighter: pygments
+# pygments does not work yet from my Windows machine
+#highlighter: pygments
+highlighter: rouge
 
 # Site settings
 title: "Reflections Of My Digital Self"
