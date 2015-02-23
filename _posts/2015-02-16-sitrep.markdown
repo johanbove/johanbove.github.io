@@ -9,9 +9,9 @@ categories: blog
 
 ## Work
 
-The project I have been working on in the last year is a single-page web application built using [RequireJS](http://requirejs.org/) AMD modules on top of the [KnockoutJS JavaScript framework](http://knockoutjs.com/), so the whole app is developed using the [Model View ViewModel](http://knockoutjs.com/documentation/observables.html) pattern.
+I have been working on a single-page web application built using [RequireJS](http://requirejs.org/) AMD modules on top of the [KnockoutJS JavaScript framework](http://knockoutjs.com/). The web app is structured following the [Model View ViewModel](http://knockoutjs.com/documentation/observables.html) pattern.
 
-The team uses [Visual Studio Online](http://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)'s planning tools and Microsoft's cloud code repository. *Visual Studio Online was previously know as Microsoft Team Foundation Service.*
+Our team uses [Visual Studio Online](http://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)'s planning tools and Microsoft's cloud code repository. *Visual Studio Online was previously know as Microsoft Team Foundation Service.*
 
 The JavaScript application is unit-tested using [Jasmine](http://jasmine.github.io/) (Behaviour Driven Unit Testing) and the tests are run during builds using the [Chutzpah](https://github.com/mmanela/chutzpah) Visual Studio extension. We apply [NodeJS](http://nodejs.org/) and [LESS](http://lesscss.org/) to compile the CSS code on top of [PhantomJs](http://phantomjs.org/), a headless browser running the Webkit engine.
 
