@@ -6,7 +6,9 @@ highlighter: pygments
 # https://help.github.com/articles/emoji-on-github-pages/
 gems:
   - jemoji
-
+# markdown rendering
+kramdown:
+  input: GFM
 # Site settings
 title: "Reflections Of My Digital Self"
 email: "hello@johanbove.info"
@@ -14,8 +16,8 @@ description: "Johan is a front end web developer passionate about media and tech
 #baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://johanbove.info" # the base hostname & protocol for your site
 twitter_username: "johanbove"
-github_username:  "johanbove"
-skype_username:   "johanbove"
-linkedin_username:   "johanbove"
-googleplus_username:   "+JohanBové"
-evernote_username:      "joe-1"
+github_username: "johanbove"
+skype_username: "johanbove"
+linkedin_username: "johanbove"
+googleplus_username: "+JohanBové"
+evernote_username: "joe-1"
