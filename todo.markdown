@@ -4,6 +4,7 @@
 
 - [ ] Check out what I was trying to do with the node branch in this repository.
 - [ ] Do something with Hood.ie
+- [ ] Add Impressum page 
 
 ## Article ideas
 
