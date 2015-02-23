@@ -16,7 +16,10 @@
 
     <div class="inner">
         <div class="credits">
-            <p>Credits: Starry background photograph by <a href="http://www.davemorrowphotography.com/">Dave Morrow</a>. A <a href="http://jekyllrb.com/">Jekyll</a> site.</p>
+          <p>Credits: Starry background photograph by <a href="http://www.davemorrowphotography.com/">Dave Morrow</a>. A <a href="http://jekyllrb.com/">Jekyll</a> site.</p>
+        </div>
+        <div class="legal">
+          <p><a href="/impressum">Impressum</a></p>
         </div>
     </div>
     
@@ -28,11 +31,8 @@
   // Show the background image nicely when it's ready
   ;(function(d, w, undefined) {
     "use strict";
-
     var READYCLASSNAME = 'ready';
-
     d.addEventListener('DOMContentLoaded', domReady, false);
-    
     function domReady() {
       loadBackGroundImage('.background', '/images/momentum-photo-45.jpg');
     }
