@@ -7,9 +7,9 @@ categories: blog
 
 > What have I been up to in the last couple of months?
 
-## Working on single-page web applications
+## Work
 
-The project I have been working on in the last year is built using [RequireJS](http://requirejs.org/) AMD modules on top of the [KnockoutJS JavaScript framework](http://knockoutjs.com/), so the whole app is developed using the [Model View ViewModel](http://knockoutjs.com/documentation/observables.html) pattern.
+The project I have been working on in the last year is a single-page web application built using [RequireJS](http://requirejs.org/) AMD modules on top of the [KnockoutJS JavaScript framework](http://knockoutjs.com/), so the whole app is developed using the [Model View ViewModel](http://knockoutjs.com/documentation/observables.html) pattern.
 
 The team uses [Visual Studio Online](http://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)'s planning tools and Microsoft's cloud code repository. *Visual Studio Online was previously know as Microsoft Team Foundation Service.*
 
@@ -19,7 +19,9 @@ Most images used in the application are SVG. We target only Internet Explorer 9 
 
 The project is going strong for a year and we keep adding improvements and features.
 
-## GDG and Webworkers meetups in Düsseldorf
+## Social
+
+### GDG and Webworkers meetups in Düsseldorf
 
 The [Google Developers Group](https://developers.google.com/groups/) is a great bunch of mostly German "computer geeks" who like to hang out and talk about programming, web technologies and gadgets.
 
@@ -27,7 +29,9 @@ The [GDG Düsseldorf](http://www.gdg-dus.de) meetup happens at least once a mont
 
 I only recently started attending the [WebWorkers Düsseldorf Meetup](http://webworker-nrw.de/) group.
 
-## Got a Surface Pro 3
+## Gear
+
+### Got a Surface Pro 3
 
 Deciced not to get a Chromebook because of lack of performance in the portables, but go all in with Microsoft's [Surface Pro 3](http://www.microsoft.com/surface/en-us/products/surface-pro-3) ultrabook/tablet device. Yep, it's pricey but I believe the cost is justified. :money_with_wings:
 
@@ -39,6 +43,8 @@ In fact I've installed [Visual Studio Community 2013](http://www.visualstudio.co
 
 *Plan is to write out my experience with the device in future posts.* :grin:
 
-## Reading a lot of articles
+## Other
+
+### Reading a lot of articles
 
 So most of the time I have been collecting a lot of articles to "read later" in my [Pocket](http://getpocket.com) account and [Feedly](http://feedly.com) feeds. I integrated [IFTTT](http://ifttt.com) to add must-read feeds from other blogs and sites.
