@@ -21,4 +21,4 @@ layout: default
 
 ## Notes
 
-I moved most todo's in Trello for easier reference and privacy :-)
+I moved most todo's in Trello for easier reference and privacy :smile:
