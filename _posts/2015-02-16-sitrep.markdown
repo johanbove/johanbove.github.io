@@ -5,17 +5,17 @@ date:   2015-02-16 14:00
 categories: blog
 ---
 
-> What have I been up to in the last couple of months? Listing up the sites and tools I have been using mostly in the last months.
+> What have I been up to in the last couple of months?
 
 ## Working on single-page web applications
 
-The project is built using [RequireJS](http://requirejs.org/) AMD modules and on top of the [KnockoutJS JavaScript framework](http://knockoutjs.com/), so the whole app is developed using the Model View ViewModel pattern.
+The project I have been working on in the last year is built using [RequireJS](http://requirejs.org/) AMD modules on top of the [KnockoutJS JavaScript framework](http://knockoutjs.com/), so the whole app is developed using the [Model View ViewModel](http://knockoutjs.com/documentation/observables.html) pattern.
 
-We apply [Visual Studio Online](http://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)'s planning tools and it's cloud code repository. *Visual Studio Online was previously know as Microsoft Team Foundation Service.*
+The team uses [Visual Studio Online](http://www.visualstudio.com/en-us/products/what-is-visual-studio-online-vs.aspx)'s planning tools and Microsoft's cloud code repository. *Visual Studio Online was previously know as Microsoft Team Foundation Service.*
 
 The JavaScript application is unit-tested using [Jasmine](http://jasmine.github.io/) (Behaviour Driven Unit Testing) and the tests are run during builds using the [Chutzpah](https://github.com/mmanela/chutzpah) Visual Studio extension. We apply [NodeJS](http://nodejs.org/) and [LESS](http://lesscss.org/) to compile the CSS code on top of [PhantomJs](http://phantomjs.org/), a headless browser running the Webkit engine.
 
-Most images are created in SVG. We target only Internet Explorer 9 and upwards so we don't have to worry about older browsers or have to load in many shims and polyfills.
+Most images used in the application are SVG. We target only Internet Explorer 9 and upwards so we don't have to worry about older browsers or have to load in many shims and polyfills.
 
 The project is going strong for a year and we keep adding improvements and features.
 
@@ -25,11 +25,11 @@ The [Google Developers Group](https://developers.google.com/groups/) is a great 
 
 The [GDG Düsseldorf](http://www.gdg-dus.de) meetup happens at least once a month with a couple of bigger events during the year at Google I/O and the yearly full day DevFest.
 
-I only recently started attending the WebWorkers Düsseldorf Meetup group. The topic was "DevOps" so pretty relevant to my job. It was a well-attended event and the presentation and questions were interesting.
+I only recently started attending the [WebWorkers Düsseldorf Meetup](http://webworker-nrw.de/) group.
 
 ## Got a Surface Pro 3
 
-Deciced not to get a Chromebook because of lack of performance in the portables, but go all in with Microsoft's [Surface Pro 3](http://www.microsoft.com/surface/en-us/products/surface-pro-3) ultrabook/tablet device. Yep, it's pricey but I believe cost is justified.
+Deciced not to get a Chromebook because of lack of performance in the portables, but go all in with Microsoft's [Surface Pro 3](http://www.microsoft.com/surface/en-us/products/surface-pro-3) ultrabook/tablet device. Yep, it's pricey but I believe cost is justified. :smile:
 
 I got it complete with the TypeCover and the Dock since I'm using it mostly as the replacement to my old Dell laptop. But with the goal that I would be able to bring the machine along with me on my daily commutes, for it being so portable.
 
