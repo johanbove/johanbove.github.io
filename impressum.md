@@ -1,13 +1,13 @@
 ---
 title: Impressum
-Layout: page
+Layout: default
 ---
 
 ## Angaben gemäß § 5 TMG:
 
-Johan Bové
-Telefon: +49 15779333179
-E-Mail: me@johanbove.info
+Johan Bové 
+Telefon: +49 15779333179 
+E-Mail: me@johanbove.info 
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
