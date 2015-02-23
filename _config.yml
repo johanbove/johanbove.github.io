@@ -7,6 +7,7 @@ highlighter: pygments
 gems:
   - jemoji
 # markdown rendering
+markdown: kramdown
 kramdown:
   input: GFM
 # Site settings
