@@ -37,7 +37,7 @@ So far, I'm a satisfied owner. :+1: It really is the all-purpose device one need
 
 In fact I've installed [Visual Studio Community 2013](http://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) and am planning to use this tool as my main IDE, since using the Ultimate Edition in my daily job is pretty neat and I do like the way Microsoft is moving. Of course I am going to use the community edition only for open source and studying.
 
-*Plan is to write out my experience with the device in future posts. :grin: *
+*Plan is to write out my experience with the device in future posts.* :grin:
 
 ## Reading a lot of articles
 
