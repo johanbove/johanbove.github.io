@@ -15,7 +15,7 @@ The team uses [Visual Studio Online](http://www.visualstudio.com/en-us/products/
 
 The JavaScript application is unit-tested using [Jasmine](http://jasmine.github.io/) (Behaviour Driven Unit Testing) and the tests are run during builds using the [Chutzpah](https://github.com/mmanela/chutzpah) Visual Studio extension. We apply [NodeJS](http://nodejs.org/) and [LESS](http://lesscss.org/) to compile the CSS code on top of [PhantomJs](http://phantomjs.org/), a headless browser running the Webkit engine.
 
-Most images used in the application are SVG. We target only Internet Explorer 9 and upwards so we don't have to worry about older browsers or have to load in many shims and polyfills.
+Most images used in the application are SVG. We target only Internet Explorer 9 and upwards so we don't have to worry about older browsers or have to load in many shims and polyfills. :relaxed:
 
 The project is going strong for a year and we keep adding improvements and features.
 
@@ -29,14 +29,16 @@ I only recently started attending the [WebWorkers Düsseldorf Meetup](http://web
 
 ## Got a Surface Pro 3
 
-Deciced not to get a Chromebook because of lack of performance in the portables, but go all in with Microsoft's [Surface Pro 3](http://www.microsoft.com/surface/en-us/products/surface-pro-3) ultrabook/tablet device. Yep, it's pricey but I believe cost is justified. :smile:
+Deciced not to get a Chromebook because of lack of performance in the portables, but go all in with Microsoft's [Surface Pro 3](http://www.microsoft.com/surface/en-us/products/surface-pro-3) ultrabook/tablet device. Yep, it's pricey but I believe the cost is justified. :money_with_wings:
 
-I got it complete with the TypeCover and the Dock since I'm using it mostly as the replacement to my old Dell laptop. But with the goal that I would be able to bring the machine along with me on my daily commutes, for it being so portable.
+I got it complete with the TypeCover and the Dock since I'm using it mostly as the replacement to my old Dell laptop at home. But since it's an ultra-portable I can bring the machine along with me on my daily commutes without breaking my back.
 
-So far, I'm a satisfied owner. It really is the all-purpose device one needs these days since it combines the best of the tablet and ultrabook features. I would call it an ultra-tablet. You can say that [I love my Surface](http://www.lovemysurface.net/).
+So far, I'm a satisfied owner. :+1: It really is the all-purpose device one needs these days since it combines the best of the tablet and ultrabook features. I would call it an ultra-tablet. You can say that [I love my Surface](http://www.lovemysurface.net/).
 
 In fact I've installed [Visual Studio Community 2013](http://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) and am planning to use this tool as my main IDE, since using the Ultimate Edition in my daily job is pretty neat and I do like the way Microsoft is moving. Of course I am going to use the community edition only for open source and studying.
 
+*Plan is to write out my experience with the device in future posts. :grin: *
+
 ## Reading a lot of articles
 
-So I have been collecting a lot of articles to "read later" in my [Pocket](http://getpocket.com) account and [Feedly](http://feedly.com) feeds. Thanks to [IFTTT](http://ifttt.com) I add a couple of must-read feeds from other blogs.
+So most of the time I have been collecting a lot of articles to "read later" in my [Pocket](http://getpocket.com) account and [Feedly](http://feedly.com) feeds. I integrated [IFTTT](http://ifttt.com) to add must-read feeds from other blogs and sites.
