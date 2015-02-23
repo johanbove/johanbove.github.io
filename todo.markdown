@@ -8,7 +8,8 @@ layout: default
 
 - [ ] Check out what I was trying to do with the node branch in this repository.
 - [ ] Do something with Hood.ie
-- [x] Add Impressum page 
+- [x] Add Impressum page
+- [ ] Get GitHub Flavoured Markdown to work here
 
 ## Article ideas
 
