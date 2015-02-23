@@ -3,6 +3,9 @@ encoding: utf-8
 # pygments does not work yet from my Windows machine
 highlighter: pygments
 #highlighter: rouge
+# https://help.github.com/articles/emoji-on-github-pages/
+gems:
+  - jemoji
 
 # Site settings
 title: "Reflections Of My Digital Self"
