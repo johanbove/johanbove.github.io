@@ -10,7 +10,7 @@ Johan Bové
 Telefon: +49 15779333179  
 E-Mail: me@johanbove.info  
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Johan Bové  
 Quelle: [http://www.e-recht24.de]()
