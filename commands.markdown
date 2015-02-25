@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Starting the Jekyll Server in Cloud9:
 
     jekyll serve --host $IP --port $PORT
