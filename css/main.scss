@@ -43,6 +43,16 @@ $on-bigscreen:     1024px;
     }
 }
 
+@mixin transition($value) {
+    -webkit-transition: $value;
+    transition: $value;
+}
+
+@mixin transform($value) {
+    -webkit-transform: $value;
+        transform: $value;
+}
+
 // Import font TODO: keep this file locally!
 @import url(//fonts.googleapis.com/css?family=PT+Mono);
 

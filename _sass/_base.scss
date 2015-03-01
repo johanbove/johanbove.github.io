@@ -109,8 +109,7 @@ h4, h5, h6 {
  * Links
  */
 .page-content a, .site-footer a {
-    -webkit-transition: all 0.3s linear;
-    transition: all 0.3s linear;
+    @include transition(all 0.3s linear);
     color: rgba(243, 243, 152, 0.95);
     opacity: 0.95;
     text-decoration: none;
@@ -151,9 +150,9 @@ blockquote {
 pre,
 code {
     font-size: smaller;
+    background-color: rgba(0,0,0,0.5);
     border: 1px solid $grey-color-dark;
     border-radius: 3px;
-    background-color: #111;
     line-height: 1;
 }
 

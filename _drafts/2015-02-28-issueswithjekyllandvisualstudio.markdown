@@ -9,7 +9,7 @@ title: "Jekyll Visual Studio and UTF-8 encoding"
 
 Create a new markdown file in Visual Studio 2013 with default settings and try parsing it in Jekyll to HTML. You'll notice that when you open the post in a browser you will see some weird series of characters.
 
-![What the page looks like after rendering](/images/20150228-VisualStudioJekyllMarkdownIssue001.png)
+[![What the page looks like after rendering](/images/20150228-VisualStudioJekyllMarkdownIssue001.png)](/images/20150228-VisualStudioJekyllMarkdownIssue001.png)
 
 ## How to reproduce the issue
 
@@ -20,17 +20,17 @@ Create a new markdown file in Visual Studio 2013 with default settings and try p
 - Delete the generated HTML source code from the new file.
 - Enter the basic content of the blog post, eg.:
 
-```
+{% highlight ruby %}
 ---
 layout: post
 ---
 > Testing 001
-```
+{% endhighlight %}
 
 - Reload your blog posts page and check if the file shows up in the list of new articles.
 - Click the link to the new blog post draft and see for yourselve that somehow the post didn't render and you end up with only a HTML page with no layout etc.
 
-![How it looks like in Visual Studio](/images/20150228-VisualStudioJekyllMarkdownIssue002.png)
+[![How it looks like in Visual Studio](/images/20150228-VisualStudioJekyllMarkdownIssue002.png)](/images/20150228-VisualStudioJekyllMarkdownIssue002.png)
 
 ## Fixing Unicode encoding issue in Visual Studio Community 2013
 
@@ -38,7 +38,7 @@ So we know that Visual Studio is saving files it is saving it as Unicode (UTF-8 
 
 Just make sure that you save the files using the right unicode and you're good to go.
 
-![Save as encoding in Visual Studio wizard](/images/20150228-VisualStudioJekyllMarkdownIssue003.png)
+[![Save as encoding in Visual Studio wizard](/images/20150228-VisualStudioJekyllMarkdownIssue003.png)](/images/20150228-VisualStudioJekyllMarkdownIssue003.png)
 
 The nice people at JekyllRB warned us about this at [http://jekyllrb.com/docs/windows](http://jekyllrb.com/docs/windows).
 

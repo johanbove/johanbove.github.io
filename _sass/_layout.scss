@@ -14,13 +14,11 @@
     left: 0;
     opacity: 0;    // Will be set to .25 using JS on load
     
-    -webkit-transition: all 5s ease .2s;
-    transition: all 5s ease .2s;
+    @include transition(all 5s ease .2s);    
     
     &.ready {
         opacity: .25;
-        -webkit-transform: scale(1.5);
-        transform: scale(1.5);
+        @include transform(scale(1.5));
     }
     
 }
@@ -42,8 +40,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    -webkit-transition:  all 2s;
-    transition:  all 2s;
+    @include transition(all 2s);
     color: rgba(255,255,255,0.6);
     text-shadow: white 1px 1px 10px;
     color: rgba(255,255,255,1);
@@ -244,7 +241,6 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
 }
 
 
@@ -257,7 +253,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 38px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -269,19 +265,23 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h1 {
+        font-size: 26px;
+    }
+    
     h2 {
-        font-size: 32px;
+        font-size: 24px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 23px;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 23px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 21px;
         }
     }
 
@@ -289,6 +289,28 @@
         font-size: 20px;
 
         @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+    
+    p + h2 {
+        margin-top: $spacing-unit;
+    }
+    
+    img {
+        opacity: .75;
+        @include transition(opacity .5s);
+        &:hover {
+            opacity: 1;
+        }
+    }
+    
+}
+
+.post-list {
+    h2 {
+        font-size: 18px;
+        .post-link {
             font-size: 18px;
         }
     }
