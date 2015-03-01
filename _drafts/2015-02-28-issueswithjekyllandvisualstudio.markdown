@@ -3,15 +3,13 @@ layout: post
 title: "Jekyll Visual Studio and UTF-8 encoding"
 ---
 
-> So I had some serious issues with creating new Jekyll blog posts using Visual Studio.
+> So you want to write Jekyll blog posts using Visual Studio. Make sure you set the correct Unicode encoding!
 
-# Visual Studio messes up encoding for simple text files
+# Jekyll does not deal well with UTF-8 encoding including BOM signatures
 
-I started off with creating a new HTML file in Visual Studio 2013 and apparently this added some weird series of bytes into the file which totally screwed up Jekyll's ability to render and parse the Markdown file.
+Create a new markdown file in Visual Studio 2013 with default settings and try parsing it in Jekyll to HTML. You'll notice that when you open the post in a browser you will see some weird series of characters.
 
-As a result of this issue I'm now using Brackets again to write this post.
-
-Damn this is disappointing, since I really wanted to use Visual Studio, at least for a while, to check if I could learn more about it. Guess I just need to face the facts and admit defeat today. :disappointed: 
+![What the page looks like after rendering](/images/20150228-VisualStudioJekyllMarkdownIssue001.png)
 
 ## How to reproduce the issue
 
@@ -32,24 +30,18 @@ layout: post
 - Reload your blog posts page and check if the file shows up in the list of new articles.
 - Click the link to the new blog post draft and see for yourselve that somehow the post didn't render and you end up with only a HTML page with no layout etc.
 
-## Screenshots
-
-### What the HTML page looks like after broken rendering
-
-![What the page looks like after rendering](/images/20150228-VisualStudioJekyllMarkdownIssue001.png)
-
-### How it looks like in Visual Studio
-
 ![How it looks like in Visual Studio](/images/20150228-VisualStudioJekyllMarkdownIssue002.png)
 
-## So how do to fix this?
+## Fixing Unicode encoding issue in Visual Studio Community 2013
 
-Well you just experienced an UTF-8 encoding issue.
-
-When Visual Studio is saving files it is saving it as Unicode (UTF-8 with signature), Jekyll needs files which are encoded using UTF-8 without signature.
+So we know that Visual Studio is saving files it is saving it as Unicode (UTF-8 with signature), Jekyll needs files which are encoded using UTF-8 **without** signature.
 
 Just make sure that you save the files using the right unicode and you're good to go.
 
-This is explained in the [http://jekyllrb.com/docs/windows/]() page.
+![Save as encoding in Visual Studio wizard](/images/20150228-VisualStudioJekyllMarkdownIssue003.png)
+
+The nice people at JekyllRB warned us about this at [http://jekyllrb.com/docs/windows](http://jekyllrb.com/docs/windows).
+
+> Note: This is important with rendering the *SCSS* CSS stylesheet files as well btw! If you ever wonder why your SCSS files are not parsing correctly after making changes in Visual Studio.
 
 So better follow those guidelines!
