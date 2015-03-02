@@ -6,13 +6,13 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center bottom;
-    width: 100%;
     height: 100%;
     display: block;
-    position: fixed;
-    top: 0;
     left: 0;
     opacity: 0;    // Will be set to .25 using JS on load
+    position: fixed;
+    top: 0;
+    width: 100%;
     
     @include transition(all 5s ease .2s);    
     
@@ -35,17 +35,16 @@
 }
 
 .site-title {
+    @include transition(all 2s);
+    border: none;
+    color: rgba(255,255,255,1);
+    float: left;
     font-size: 26px;
     line-height: $spacing-unit;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
-    @include transition(all 2s);
-    color: rgba(255,255,255,0.6);
-    text-shadow: white 1px 1px 10px;
-    color: rgba(255,255,255,1);
     text-decoration: none;
-    border: none;
+    text-shadow: white 1px 1px 10px;
     
     &:focus, &:hover {
         color:  rgba(255,255,255,1);
@@ -72,8 +71,11 @@
     }
 
     .page-link {
+        border-bottom: 2px solid #fff;
         color: $text-color;
+        font-weight: bold;
         line-height: $base-line-height;
+        text-decoration: none;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -82,26 +84,26 @@
     }
 
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
+        position: absolute;
+        right: 30px;
         text-align: right;
+        top: 9px;
 
         .menu-icon {
             display: block;
             float: right;
-            width: 36px;
             height: 26px;
             line-height: 0;
             padding-top: 10px;
             text-align: center;
+            width: 36px;
 
             > svg {
-                width: 18px;
                 height: 15px;
+                width: 18px;
 
                 path {
                     fill: $grey-color-dark;
@@ -124,7 +126,32 @@
             padding: 5px 10px;
         }
     }
+    
+    @include media-query($on-palm) {
+        .page-link {
+            border: none;
+        }
+    }
+    
 }
+
+/**
+ * Avatar
+ */
+.avatar {
+    border: 5px solid rgba(0, 0, 0, .1);
+    border-radius: $spacing-unit * 2;
+    float: right;
+    margin: $spacing-unit;
+    overflow: hidden;
+    width: 100px;
+    
+     @include media-query($on-laptop) {
+        float: none;
+        margin: $spacing-unit auto;
+    }
+    
+} 
 
 /**
  * Site footer
@@ -132,13 +159,6 @@
 .site-footer {
     padding: $spacing-unit 0;
     text-align: center;
-
-    .credits {
-        font-style: italic;
-        font-size: smaller;
-        margin-top: $spacing-unit;
-    }
-    
 }
 
 .footer-heading {
@@ -153,8 +173,8 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
     color: $grey-color;
+    font-size: 15px;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -212,7 +232,6 @@
     
     section {
         position: relative;
-        margin: 5em 0;
     }
     
     section > h3 {
@@ -228,22 +247,35 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    text-align: center;
 
     > li {
-        margin-bottom: $spacing-unit;
+        clear: both;
+        display: block;
+        float: left;
+        margin-bottom: $spacing-unit / 3;
+        width: 100%;
     }
+    
+    .post-meta {
+        color: $grey-color;
+        font-size: $small-font-size;
+        float: left;
+        width: inherit;
+    }
+
+    .post-link {
+        display: block;
+        float: left;
+        margin-left: $spacing-unit / 2;
+        width: inherit;
+        border: none;
+        &:hover {
+            border: none;
+        }
+    }
+    
 }
-
-.post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
-}
-
-.post-link {
-    display: block;
-}
-
-
 
 /**
  * Posts
@@ -305,18 +337,68 @@
         }
     }
     
+    li {
+        margin-top: $spacing-unit / 3;
+    }
+    
 }
 
 .post-list {
     h2 {
         font-size: 18px;
+        float: left;
+        margin: 0;
+        width: inherit;
         .post-link {
             font-size: 18px;
+            @include media-query($on-palm) {
+                clear: left;
+                margin-left: 0;
+            }
         }
     }
 }
 
 .rss-subscribe {
+    clear: both;
     font-size: smaller;
     text-align: right;
+}
+
+/**
+ * Links
+ */
+.page-content a,
+.site-footer a {
+    @include transition(all 0.3s linear);
+    border-bottom: 2px ridge rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    text-decoration: none;
+    opacity: 0.95;
+    padding: 2px 4px;
+    
+    &:hover, &:focus {
+        border-bottom: 2px ridge rgba(243, 243, 152, 1);
+        opacity: 1;
+    }
+    
+}
+
+.social-links {
+    p {
+        margin-bottom: 0;
+        @include media-query($on-palm) {
+            margin-bottom: $spacing-unit / 3;
+        }
+    }
+    a {
+        display:inline-block;
+        margin: $spacing-unit / 3 $spacing-unit / 2;
+    }
+}
+
+.credits {
+    font-style: italic;
+    font-size: smaller;
+    margin-top: $spacing-unit;
 }

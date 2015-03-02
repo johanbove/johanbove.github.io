@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: 'PT Mono', monospace;
+$base-font-family: monospace;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.25;
@@ -52,9 +52,6 @@ $on-bigscreen:     1024px;
     -webkit-transform: $value;
         transform: $value;
 }
-
-// Import font TODO: keep this file locally!
-@import url(//fonts.googleapis.com/css?family=PT+Mono);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

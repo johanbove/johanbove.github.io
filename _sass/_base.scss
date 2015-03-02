@@ -14,12 +14,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+    background-color: $background-color;
+    color: $text-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
-    line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+    line-height: $base-line-height;
     position: relative;
 }
 
@@ -44,24 +44,6 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
-/**
- * Avatar
- */
-.avatar {
-    box-shadow: rgba(0, 0, 0, .5) 1px 2px 1px;
-    border-radius: 50px;
-    width: 100px;
-    margin: $spacing-unit auto;
-    border: 1px solid rgba(0, 0, 0, 0.5);
-    overflow: hidden;
-    float: right;
-    
-     @include media-query($on-laptop) {
-        float: none;
-    }
-    
-} 
 
 /**
  * Figures
@@ -108,15 +90,9 @@ h4, h5, h6 {
 /**
  * Links
  */
-.page-content a, .site-footer a {
-    @include transition(all 0.3s linear);
+a {
+
     color: rgba(243, 243, 152, 0.95);
-    opacity: 0.95;
-    text-decoration: none;
-    border-bottom: 2px ridge rgba(0, 0, 0, 0.5);
-    display: inline-block;
-    border-radius: 5px;
-    padding: 2px 4px;
     
     &:visited {
         color: rgba(243, 243, 152, 0.95);
@@ -124,8 +100,6 @@ h4, h5, h6 {
     
     &:hover, &:focus {
         color:  rgba(255, 255, 255, 1);
-        opacity: 1;
-        border-bottom: 2px ridge rgba(243, 243, 152, 1);
     }
     
 }
@@ -134,11 +108,11 @@ h4, h5, h6 {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color-light;
     border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    color: $grey-color-light;
     font-style: italic;
+    font-size: 18px;
+    padding-left: $spacing-unit / 2;
     > :last-child {
         margin-bottom: $spacing-unit;
     }
@@ -149,10 +123,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: smaller;
     background-color: rgba(0,0,0,0.5);
     border: 1px solid $grey-color-dark;
     border-radius: 3px;
+    font-size: smaller;
     line-height: 1;
 }
 
@@ -202,8 +176,8 @@ pre {
 
     &:after {
         content: "";
-        display: table;
         clear: both;
+        display: table;
     }
 }
 
@@ -216,9 +190,9 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
         height: 16px;
         vertical-align: middle;
+        width: 16px;
 
         path {
             fill: $grey-color;
