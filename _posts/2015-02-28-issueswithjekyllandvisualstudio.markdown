@@ -34,7 +34,7 @@ layout: post
 
 ## Fixing Unicode encoding issue in Visual Studio Community 2013
 
-So we know that Visual Studio is saving files it is saving it as Unicode (UTF-8 with signature), Jekyll needs files which are encoded using UTF-8 **without** signature.
+So Visual Studio is saving new files as Unicode (UTF-8 **with** BOM signature) by default and Jekyll needs files which are encoded using UTF-8 **without** BOM signature.
 
 Just make sure that you save the files using the right unicode and you're good to go.
 
