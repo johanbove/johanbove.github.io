@@ -309,6 +309,10 @@
         }
     }
 
+    * + h2 {
+        margin-top: $spacing-unit;   
+    }
+    
     h3 {
         font-size: 23px;
 
@@ -317,6 +321,10 @@
         }
     }
 
+    * + h3 {
+        margin-top: $spacing-unit;   
+    }
+    
     h4 {
         font-size: 20px;
 
