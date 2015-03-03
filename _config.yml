@@ -10,6 +10,9 @@ gems:
 markdown: kramdown
 kramdown:
   input: GFM
+# SASS
+sass:
+  style: :compressed
 # Site settings
 title: "Reflections Of My Digital Self"
 email: "hello@johanbove.info"
