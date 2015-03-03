@@ -63,8 +63,9 @@
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    clear: both;
+    float: left;
+    margin: 15px 0 0 0;
 
     .menu-icon {
         display: none;
@@ -91,7 +92,8 @@
         right: 30px;
         text-align: right;
         top: 9px;
-
+        z-index: 1;
+        
         .menu-icon {
             display: block;
             float: right;
