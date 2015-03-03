@@ -349,6 +349,10 @@
         margin-top: $spacing-unit / 3;
     }
     
+    * + blockquote {
+        margin-top: $spacing-unit;
+    }
+    
 }
 
 .post-list {
