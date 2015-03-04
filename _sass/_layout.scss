@@ -48,10 +48,9 @@
     
     &:focus, &:hover {
         color:  rgba(255,255,255,1);
-        text-shadow:  none;
+        text-shadow: none;
     }
     
-    &,
     &:visited {
         color: $text-color;
     }
@@ -391,7 +390,7 @@
     opacity: 0.95;
     padding: 2px 4px;
     
-    &:hover, &:focus {
+    &:hover {
         border-bottom: 2px ridge rgba(243, 243, 152, 1);
         opacity: 1;
     }
