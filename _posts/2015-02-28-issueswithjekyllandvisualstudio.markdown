@@ -42,6 +42,8 @@ Just make sure that you save the files using the right unicode and you're good t
 
 The nice people at JekyllRB warned us about this at [http://jekyllrb.com/docs/windows](http://jekyllrb.com/docs/windows).
 
+[![JekyllRB warning about having BOM in your UTF8 encoded files](/images/20150228-VisualStudioJekyllMarkdownIssue004.png)](20150228-VisualStudioJekyllMarkdownIssue004.png)
+
 > Note: This is important with rendering the *SCSS* CSS stylesheet files as well btw! If you ever wonder why your SCSS files are not parsing correctly after making changes in Visual Studio.
 
 So better follow those guidelines!
