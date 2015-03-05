@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Playing with Yaml frontmatter"
+categories: blog
+---
+
+# Playing with Yaml frontmatter
+
+> But I should probably first learn more about [Yaml Frontmatter](http://jekyllrb.com/docs/frontmatter/)
+
+- Front matter
+- Liquid Tags
+
+# What is Yaml?
+
+What happened to Clark C. Evans, maintainer of Yaml?
+
+- [http://yaml.org/]()
+
+JS-Yaml seems to be alive and kicking.
+
+- [https://github.com/nodeca/js-yaml]()
+
