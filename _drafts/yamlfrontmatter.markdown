@@ -13,11 +13,19 @@ categories: blog
 
 # What is Yaml?
 
-What happened to Clark C. Evans, maintainer of Yaml?
+## What happened to Clark C. Evans, maintainer of Yaml?
 
 - [http://yaml.org/]()
 
-JS-Yaml seems to be alive and kicking.
+## JS-Yaml seems to be alive and kicking.
 
 - [https://github.com/nodeca/js-yaml]()
 
+# The Liquid Templating engine
+
+> To check out
+
+# JekyllRB Configuration options and variables
+
+- [http://jekyllrb.com/docs/configuration/#front-matter-defaults]()
+- [http://jekyllrb.com/docs/variables/]()

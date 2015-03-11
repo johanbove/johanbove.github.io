@@ -38,3 +38,5 @@ Going for the official documents first of course: [http://expressjs.com/starter/
 
 - Building a todo-list app in Express.js
 - Building a monitoring application for weather API with alerts etc.
+
+Check back again soon!
