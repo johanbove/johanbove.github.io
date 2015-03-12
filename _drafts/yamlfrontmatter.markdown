@@ -9,7 +9,8 @@ categories: blog
 > But I should probably first learn more about [Yaml Frontmatter](http://jekyllrb.com/docs/frontmatter/)
 
 - Front matter
-- Liquid Tags
+- [Liquid Templates](https://wiki.github.com/shopify/liquid/liquid-for-designers)
+- [Collections](http://jekyllrb.com/docs/collections/)
 
 # What is Yaml?
 
