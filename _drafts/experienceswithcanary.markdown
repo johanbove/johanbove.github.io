@@ -53,7 +53,6 @@ categories: blog
 - Wished the axiometer sensor would be used in the application as well.
 - Need for access to internal log files of the devices.
 - Wifi connectivity status.
-- 
 
 ## Experience & Support
 
