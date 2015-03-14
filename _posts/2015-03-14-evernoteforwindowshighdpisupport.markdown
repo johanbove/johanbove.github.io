@@ -8,7 +8,7 @@ The experience with using Evernote on Windows 8.1 running on a Surface Pro 3 com
 
 In the latest update (see screenshot for version), the Evernote for Windows developers finally introduced better High DPI support. But it still is a pain to not being able to zoom into the editor without increasing the font size. Additionally the "Clip screenshot" functionality is still broken since it only allows to snap a portion of the screen. It does this weird screen zooming thing.
 
-So If Evernote does not want to lose out on OneNote they better make an additional big effort to make the High DPI screen experience with the Windows client into 2015, hopefully the latest when Windows 10 is released.
+So If Evernote does not want to lose out on OneNote they better make an additional big effort to make the High DPI screen experience with the Windows client better, and hopefully in time when Windows 10 is released.
 
 On the other hand, writing blog posts in the Evernote made me realize that the "context" feature actually makes sense. When writing, Evernote pops up notes that are related to what I'm writing about.
 
