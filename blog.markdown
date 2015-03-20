@@ -7,7 +7,7 @@ permalink: /blog/
 <div role="blog">
 
     <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.blog %}
       <li>
         <h2>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
