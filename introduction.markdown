@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Captivating Online Matters"
+permalink: /about/
 ---
 
 ## Perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
