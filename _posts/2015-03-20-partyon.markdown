@@ -2,6 +2,7 @@
 layout: project
 evernote: "https://www.evernote.com/shard/s21/nl/2259310/5eab809a-ec64-4bb8-88c8-54717f71ad70"
 title: "Project: PartyOn"
+permalink: /project/partyon
 category: projects
 ---
 
