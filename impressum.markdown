@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+permalink: /impressum
 ---
 
 # Impressum
