@@ -12,7 +12,7 @@ As a self-made web developer I worked on various websites and other web-based pr
     {% for post in site.categories.projects %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}{% if post.timeframe %} • {{ post.timeframe }}{% endif %}</a>
         </h2>
         {{ post.excerpt }}
       </li>
