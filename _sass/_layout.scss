@@ -278,6 +278,13 @@
     
 }
 
+*[role="projects"] .post-list {
+    margin-left: $spacing-unit;
+    p {
+        font-style: italic;
+    }
+}
+
 /**
  * Posts
  */
