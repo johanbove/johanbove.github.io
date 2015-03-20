@@ -1,20 +1,23 @@
 ---
-layout: default
+layout: page
 title: "Captivating Online Matters"
 ---
 
-# Captivating Online Matters
+## Perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
 
-Perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
+[1](http://en.wikipedia.org/wiki/Rifleman%27s_Creed) This is my introduction, there are many others like it, but this one is mine.
 
 ## My bragging rights
+
 - Married a beautiful American/Italian girl.
 - Speaks three languages fluently.
 - Rides his bicycle to work whenever he can.
-- Flosses at least five times a week.
+- Flosses at least six times a week.
 - Is capable of applying a thesaurus to seem smarter in online profile introductions.
 
 ## Favorite Quotes
+
+Smart people wrote down or said some really clever things.
 
 > “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.”
 ~ Albert Einstein
