@@ -14,7 +14,7 @@
     top: 0;
     width: 100%;
     
-    @include transition(all 5s ease .2s);    
+    @include transition(all 5s ease .2s);
     
     &.ready {
         opacity: .25;
@@ -279,9 +279,14 @@
 }
 
 *[role="projects"] .post-list {
-    margin-left: $spacing-unit;
+    margin-left: 0;
+    text-align: left;
     p {
         font-style: italic;
+    }
+    .post-link {
+        margin-left: 0;
+        padding: 0 0 $spacing-unit / 2 0;
     }
 }
 
