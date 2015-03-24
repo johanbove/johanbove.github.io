@@ -7,7 +7,7 @@ timeframe: "2004-2008"
 category: projects
 ---
 
-PartyOn was an online event calendar which I started coding back in 2004. I built it using PHP 4, a MySQL relational database, HTML and CSS. The project was excellent to teach myself how to use these technologies.
+PartyOn was an online event calendar which I started coding back in 2004. I built it using PHP 4, a MySQL relational database, HTML and CSS. The project was an excellent opportunity to teach myself how to use these technologies.
 
 It started off with the idea of creating an online calendar for the DJ Team I was part of in those days. We wanted to advertise the parties and events we would play at. I soon realized there was an opportunity for a site which actually allowed everyone to post and advertise their events on.
 
