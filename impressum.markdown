@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /impressum
+permalink: /impressum/
 ---
 
 # Impressum
@@ -8,12 +8,13 @@ permalink: /impressum
 ## Angaben gemäß § 5 TMG:
 
 Johan Bové  
-Telefon: +49 15779333179  
+Telefon: +4915779333179  
 E-Mail: me@johanbove.info  
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Johan Bové  
+
 Quelle: [http://www.e-recht24.de]()
 
 ## Haftungsausschluss:
