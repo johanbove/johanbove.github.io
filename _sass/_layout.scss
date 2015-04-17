@@ -248,7 +248,6 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-    text-align: center;
 
     > li {
         clear: both;
@@ -280,7 +279,6 @@
 
 *[role="projects"] .post-list {
     margin-left: 0;
-    text-align: left;
     p {
         font-style: italic;
     }
