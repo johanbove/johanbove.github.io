@@ -143,9 +143,10 @@
     border: 5px solid rgba(0, 0, 0, .1);
     border-radius: $spacing-unit * 2;
     float: right;
-    margin: $spacing-unit;
+    margin: -212px 0 $spacing-unit 0;
     overflow: hidden;
     width: 100px;
+    border: 2px inset rgba(255,255,255,.75);
     
      @include media-query($on-laptop) {
         float: none;
