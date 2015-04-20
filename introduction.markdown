@@ -8,6 +8,14 @@ permalink: /about/
 
 [1](http://en.wikipedia.org/wiki/Rifleman%27s_Creed) This is my introduction, there are many others like it, but this one is mine.
 
+I don't always share the coolest online content, but when I do, I do it - mostly - through [Google+](https://plus.google.com/+JohanBové)
+
+I'm fairly active in the [GDG Düsseldorf developers community](https://plus.google.com/communities/113782579160655007812), where I help organize events and presentations.
+
+This site was deliberately kept simple to keep a super [high PageSpeed score](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fblog.johanbove.info).
+
+I'm not a very graphical guy, as you might have guessed. Nonetheless I do like [cool pictures](http://1drv.ms/1Oxc4iF).
+
 ## My bragging rights
 
 - Married a beautiful American/Italian girl.
