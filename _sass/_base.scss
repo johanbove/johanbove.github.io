@@ -105,7 +105,12 @@ h4, h5, h6 {
     font-weight: 300;
 }
 
-
+/**
+ * Formatting
+ */
+strong {
+    font-weight: 600;
+}
 
 /**
  * Links
@@ -169,7 +174,17 @@ pre {
     }
 }
 
+/**
+ * Table
+ */
+th {
+    font-weight: 600;
+    color: darken($text-color, 40%);
+}
 
+td {
+    vertical-align: top;
+}
 
 /**
  * Wrapper
