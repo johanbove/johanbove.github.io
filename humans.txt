@@ -6,10 +6,10 @@
   Author: Johan Bové
   Site: http://johanbove.info
   Twitter:  @johanbove
-  Location: Europe
+  Location: Düsseldorf, Europe
 
 /* THANKS */
-  Names (& URL): Github, Adobe
+  Names (& URL): Github, Adobe, Jekyll, Microsoft
 
 /* SITE */
   Standards: HTML5, CSS3
