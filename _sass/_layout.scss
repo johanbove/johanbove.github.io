@@ -25,13 +25,20 @@
 
 .wrapper {
     position:  relative;
+    // Make it look nice
+    &.box {
+        background-color: $contentbox-color;
+        border-radius: $spacing-unit;
+        border: 1px outset #000;
+        padding: $spacing-unit;
+    }
 }
-
+    
 /**
  * Site header
  */
 .site-header {
-    margin-top:  $spacing-unit;
+    margin-top: $spacing-unit;
 }
 
 .site-title {
