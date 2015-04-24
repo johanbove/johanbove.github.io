@@ -8,7 +8,7 @@ categories: blog
 
 Happy to say that I have achieved an almost perfect Google's [PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?url=blog.johanbove.info) score for both Mobile and Desktop with the home page of my own - simple - little website: http://blog.johanbove.info.
 
-[![PageSpeed Insight score for the homepage of this site](/images/20150425-PageSpeedInsightsScore.png)](/images/20150425-PageSpeedInsightsScore.png)
+[![PageSpeed Insight score for the homepage of this site](/images/20150425-PageSpeedInsightsScore.jpg)](/images/20150425-PageSpeedInsightsScore.jpg)
 
 ## PageSpeed Mobile & Desktop Test Score card
 
@@ -18,17 +18,17 @@ The only rule I have to *consider fixing* is the "[leverage browser caching](htt
 
 Below you can find the rules I did pass with flying colors:
 
-| | # | Rule                         | Result                      | Learn more          |
-|---|--|:-----------------------------|:----------------------------|:--------------|
-| :white_check_mark: | 1. | **Avoid landing page redirects** | *Your page has no redirects.* | [avoiding landing page redirects](https://developers.google.com/speed/docs/insights/AvoidRedirects) |
-|:white_check_mark: | 2. | **Eliminate render-blocking JavaScript and CSS in above-the-fold content** | *You have no render-blocking resources.* | [removing render-blocking resources](https://developers.google.com/speed/docs/insights/BlockingJS) |
-| :white_check_mark: | 3. | **Enable compression** | *You have compression enabled.* | [enabling compression](https://developers.google.com/speed/docs/insights/EnableCompression) |
-| :white_check_mark: | 4. | **Minify CSS** | *Your CSS is minified.* | [minifying CSS](https://developers.google.com/speed/docs/insights/MinifyResources) |
-| :white_check_mark: | 5. | **Minify HTML** | *Your HTML is minified.* | [minifying HTML](https://developers.google.com/speed/docs/insights/MinifyResources) |
-| :white_check_mark: | 6. | **Minify JavaScript** | *Your JavaScript content is minified.* | [minifying JavaScript](https://developers.google.com/speed/docs/insights/MinifyResources) |
-| :white_check_mark: | 7. | **Optimize images** | *Your images are optimized.* | [optimizing images](https://developers.google.com/speed/docs/insights/OptimizeImages) |
-| :white_check_mark: | 8. | **Prioritize visible content** | *You have the above-the-fold content properly prioritized.* | [prioritizing visible content](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) |
-| :white_check_mark: | 9. | **Reduce server response time** | *Your server responded quickly.* | [server response time optimization](https://developers.google.com/speed/docs/insights/Server) |
+| | # | Rule                         | Result                      |
+|---|--|:-----------------------------|:----------------------------|
+| :white_check_mark: | 1. | **Avoid landing page redirects** | [*Your page has no redirects.*](https://developers.google.com/speed/docs/insights/AvoidRedirects) |
+|:white_check_mark: | 2. | **Eliminate render-blocking JavaScript and CSS in above-the-fold content** | [*You have no render-blocking resources.*](https://developers.google.com/speed/docs/insights/BlockingJS) |
+| :white_check_mark: | 3. | **Enable compression** | [*You have compression enabled.*](https://developers.google.com/speed/docs/insights/EnableCompression) |
+| :white_check_mark: | 4. | **Minify CSS** | [*Your CSS is minified.*](https://developers.google.com/speed/docs/insights/MinifyResources) |
+| :white_check_mark: | 5. | **Minify HTML** | [*Your HTML is minified.*](https://developers.google.com/speed/docs/insights/MinifyResources) |
+| :white_check_mark: | 6. | **Minify JavaScript** | [*Your JavaScript content is minified.*](https://developers.google.com/speed/docs/insights/MinifyResources) |
+| :white_check_mark: | 7. | **Optimize images** | [*Your images are optimized.*](https://developers.google.com/speed/docs/insights/OptimizeImages) |
+| :white_check_mark: | 8. | **Prioritize visible content** | [*You have the above-the-fold content properly prioritized.*](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) |
+| :white_check_mark: | 9. | **Reduce server response time** | [*Your server responded quickly.*](https://developers.google.com/speed/docs/insights/Server) |
 
 ## **100/100** User Experience
 
