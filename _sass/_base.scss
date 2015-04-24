@@ -16,6 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     // http://lea.verou.me/css3patterns/#carbon
     // by http://www.zencocoon.com Atle Mo (design), Sébastien Grosjean (code)
+    /*
     background:
     linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
     linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
@@ -24,7 +25,16 @@ body {
     linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
     linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
     background-color: $background-color;
-    background-size: 20px 20px;
+    background-size: 100px 200px;
+    */
+    
+    // Using Twitter as CDN ...
+    background-image: url(https://pbs.twimg.com/profile_background_images/704796077/5e0ef0d2229a91b4229abf1f52ba232f.jpeg);
+    background-position: center 40px;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-color: #0E0D02;
+    
     color: $text-color;
     font-family: $base-font-family;
     font-size: $base-font-size;

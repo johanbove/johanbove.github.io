@@ -25,11 +25,8 @@
 
 .wrapper {
     position:  relative;
-    // Make it look nice
     &.box {
         background-color: $contentbox-color;
-        border-radius: $spacing-unit;
-        border: 1px outset #000;
         padding: $spacing-unit;
     }
 }
