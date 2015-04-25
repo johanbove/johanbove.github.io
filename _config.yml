@@ -6,6 +6,8 @@ highlighter: pygments
 # https://help.github.com/articles/emoji-on-github-pages/
 gems:
   - jemoji
+  - jekyll-sitemap
+  - jekyll-press
 # markdown rendering
 markdown: kramdown
 # http://jekyllrb.com/docs/configuration/#kramdown
