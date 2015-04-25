@@ -16,7 +16,7 @@ kramdown:
 sass:
   style: :compressed
 # Site settings
-title: "Reflections Of My Digital Self"
+title: "Captivating Online Matters"
 email: "hello@johanbove.info"
 description: "Johan is a front end web developer passionate about media and technology."
 #baseurl: "/" # the subpath of your site, e.g. /blog/
