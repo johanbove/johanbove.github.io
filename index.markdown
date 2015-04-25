@@ -20,7 +20,7 @@ People I worked with have called me an expert in HTML, CSS and JavaScript. It's 
 
 Every day I browse through ship-loads of articles and tutorials to keep up with the latest trends and technologies. I keep an eye out for cool open-source projects, scouting for the best coding examples of great software design and user experience.
 
-In my professional career I worked on e-commerce web shops, CMS systems (Drupal, WordPress), streaming media and smart-home automation platforms.
+In my professional career I worked on online job boards, e-commerce web shops, CMS systems (Drupal, WordPress), streaming media and smart-home automation platforms.
 
 I am currently employed as an IT Consultant at CGI Deutschland where I am specializing in Front End Web Development.
 
