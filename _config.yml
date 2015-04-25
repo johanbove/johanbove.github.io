@@ -7,7 +7,6 @@ highlighter: pygments
 gems:
   - jemoji
   - jekyll-sitemap
-  - jekyll-press
 # markdown rendering
 markdown: kramdown
 # http://jekyllrb.com/docs/configuration/#kramdown
