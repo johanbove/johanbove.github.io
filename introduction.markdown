@@ -4,9 +4,11 @@ title: "Captivating Online Matters"
 permalink: /about/
 ---
 
-## Perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
+## I am perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
 
 [1](http://en.wikipedia.org/wiki/Rifleman%27s_Creed) This is my introduction, there are many others like it, but this one is mine.
+
+## Cool stuff
 
 I don't always share the coolest online content, but when I do, I do it - mostly - through [Google+](https://plus.google.com/+JohanBové)
 
