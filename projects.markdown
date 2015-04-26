@@ -4,7 +4,7 @@ title: "Past Projects"
 permalink: /projects/
 ---
 
-As a self-made web developer I worked on various websites and other web-based projects. Here, I'm sharing some of the more interesting ones.
+As a self-made web developer I learned a lot *on-the-job*. In this section I will share my personal mile-stone projects.
 
 <div role="projects">
 
