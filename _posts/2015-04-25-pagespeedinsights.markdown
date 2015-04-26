@@ -8,7 +8,7 @@ categories: blog
 
 Happy to say that I have achieved an almost perfect Google's [PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?url=blog.johanbove.info) score for both Mobile and Desktop with the home page of my own - simple - little website: http://blog.johanbove.info.
 
-[![PageSpeed Insight score for the homepage of this site](/images/20150425-PageSpeedInsightsScore.jpg)](/images/20150425-PageSpeedInsightsScore.jpg)
+[![PageSpeed Insight score for the homepage of this site](/images/20150425-PageSpeedInsightsScore.png)](/images/20150425-PageSpeedInsightsScore.jpg)
 
 ## PageSpeed Mobile & Desktop Test Score card
 
