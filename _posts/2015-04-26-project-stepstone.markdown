@@ -29,6 +29,8 @@ Later I moved onto Eclipse with [Aptana Web Studio IDE](http://www.aptana.com/) 
 
 During my time at StepStone I had the pleasure to work together with colleagues from Poland, Germany, Holland, France, Sweden, Denmark and Norway and I worked mostly in Brussels where I learned to speak some French.
 
+StepStone also allowed me to move to Germany, which I am still very grateful for.
+
 ## What I learned
 
 - Building semantically correct XHTML pages to optimize for maintainability, performance and search engine optimization.
