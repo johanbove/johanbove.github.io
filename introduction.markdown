@@ -28,7 +28,7 @@ I'm not a very graphical guy, as you might have guessed. Nonetheless I do like [
 
 ## Favorite Quotes
 
-Smart people wrote down or said some really clever things.
+Some very smart people wrote down and said some really clever things. Here are a couple of my favorites.
 
 > Basically [everything Prof. Stephen Hawking ever said](http://www.brainyquote.com/quotes/authors/s/stephen_hawking.html)
 
