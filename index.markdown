@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Who is Johan Bové?
+# About me
 
 ## Johan is an Information Technology professional passionate about media and the Web
 
