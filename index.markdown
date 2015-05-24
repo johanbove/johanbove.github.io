@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{%comment%}
+https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+Getting current year for calculating my age.
+{%endcomment%}
+{% assign currentyear = site.time | date:'%Y' %}
+
 # About me
 
 ## Johan is an Information Technology professional passionate about media and the Web
@@ -10,7 +16,8 @@ layout: default
 
 ## Hi! My name is Johan.
 
-I'm 35 years old and was born in Flanders, Belgium. I speak Dutch, English, German and some French. As a web professional I have gathered over fifteen years of professional experience developing websites.
+<!-- So this is totally assuming I am still alive when you read this... *darkthoughts* -->
+I'm {{ currentyear | minus:site.birthyear }} years old and was born in Flanders, Belgium. I speak Dutch, English, German and some French. As a web professional I have gathered over fifteen years of professional experience developing websites.
 
 People I worked with have called me an expert in HTML, CSS and JavaScript. I know how to build complex, scalable browser applications starting from concept to design, which - I will try to make - work perfectly on any Internet-connected device. I take special consideration for accessibility and performance.
 
