@@ -20,4 +20,4 @@ I figured I would also include the Event feed widget here, mostly to just check 
 
 [Source:](https://events.google.com/io2015/widget)
 
-<iframe src="https://events.google.com/io2015/embed" style="width:100%;height:450px" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://events.google.com/io2015/embed" style="width:100%;height:600px" frameborder="0" allowfullscreen></iframe>
