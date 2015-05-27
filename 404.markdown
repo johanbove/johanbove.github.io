@@ -3,6 +3,8 @@ layout: page
 permalink: /404.html
 ---
 
+# 404 Not Found
+
 Hi there stranger!
 
 You're looking for something which is not here.
