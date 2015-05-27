@@ -1,8 +1,12 @@
 ---
+layout: page
+title: "404 Not Found!"
 permalink: /404.html
 ---
 
-Hey! You're looking for something which is not here.
+Hi there stranger!
+
+You're looking for something which is not here.
 Sorry about that.
 
 ~ Johan
