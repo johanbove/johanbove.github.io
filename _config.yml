@@ -20,7 +20,7 @@ title: "Captivating Online Matters"
 email: "hello@johanbove.info"
 description: "Johan is a front end web developer passionate about media and technology."
 #baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://johanbove.info" # the base hostname & protocol for your site
+url: "http://blog.johanbove.info" # the base hostname & protocol for your site
 twitter_username: "johanbove"
 github_username: "johanbove"
 skype_username: "johanbove"
