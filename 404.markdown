@@ -1,0 +1,8 @@
+---
+permalink: /404.html
+---
+
+Hey! You're looking for something which is not here.
+Sorry about that.
+
+~ Johan
