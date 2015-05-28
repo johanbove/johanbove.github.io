@@ -2,7 +2,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+    {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_html | truncate: 150 }}" />
+    {% elsif page.desc %}
+    <meta name="description" content="{{ page.desc | truncate: 150 }}" />
+    {% else %}
+    <meta name="description" content="{{ site.description }}" />
+    {% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
 </head>
