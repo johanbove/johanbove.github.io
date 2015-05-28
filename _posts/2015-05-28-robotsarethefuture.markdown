@@ -8,12 +8,14 @@ Do you know how likely it is that your job will be replaced by robots in the nea
 
 Do the test at "[Will Your Job Be Done By A Machine](http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine)".
 
-Luckily it seems that my job as a web developer is not on the line, yet, as it has a 20.6% chance of being automated. Still pretty high if you think about it.
+Luckily it seems that my job as a web developer is not on the line, yet, as it has a 20.6% chance of being automated according to this analysis. Still thinking the number is pretty high...
 
 [![Information Security Analysts, Web Developers and Computer Network Architects have a
 20.6% chance of being automated.](/images/20150528-qdbui/20percentchanceofbeingautomated.png)](/images/20150528-qdbui/20percentchanceofbeingautomated.jpg)
 
-However the loomy message was lightened-up with fun animated characters depicting the evolution from us, humans to how we could evolve into robots in the future. Great artwork by [@qdbui](https://twitter.com/qdbui).
+However the loomy message was lightened-up with fun animated characters depicting the evolution from humans to fully integrate android / robots in the future.
+
+Great artwork by [@qdbui](https://twitter.com/qdbui) :star:
 
 How fun it looks when you place them next to each other. They are having a dance-party! :smirk:
 
