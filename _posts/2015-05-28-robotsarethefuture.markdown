@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Robots are the future"
+categories: blog
+---
+
+Do you know how likely it is that your job will be replaced by robots in the near future?
+
+Do the test at "[Will Your Job Be Done By A Machine](http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine)".
+
+Luckily it seems that my job as a web developer is not on the line, yet, as it has a 20.6% chance of being automated. Still pretty high if you think about it.
+
+[![Information Security Analysts, Web Developers and Computer Network Architects have a
+20.6% chance of being automated.](/images/20150528-qdbui/20percentchanceofbeingautomated.png)](/images/20150528-qdbui/20percentchanceofbeingautomated.jpg)
+
+However the loomy message was lightened-up with fun animated characters depicting the evolution from us, humans to how we could evolve into robots in the future. Great artwork by [@qdbui](https://twitter.com/qdbui).
+
+How fun it looks when you place them next to each other. They are having a dance-party! :smirk:
+
+<div class="background-light image-gallery">
+
+<img src="/images/20150528-qdbui/human-1.gif" alt="human 1">
+<img src="/images/20150528-qdbui/human-2.gif" alt="human 2">
+<img src="/images/20150528-qdbui/human-3.gif" alt="human 3">
+<img src="/images/20150528-qdbui/human-4.gif" alt="human 4">
+
+</div>
+
+
+
