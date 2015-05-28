@@ -2,6 +2,7 @@
 layout: page
 title: "Captivating Online Matters"
 permalink: /about/
+desc: "More facts about Johan"
 ---
 
 ## I am perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.

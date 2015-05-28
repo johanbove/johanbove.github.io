@@ -2,7 +2,10 @@
 layout: page
 title: Writings
 permalink: /blog/
+desc: "Thoughts and ideas by Johan"
 ---
+
+Sharing my thoughts and experiences online for everyone, including you to know about.
 
 <div role="blog">
 

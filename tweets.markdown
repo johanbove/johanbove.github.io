@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tweets
+desc: "Sharing news, videos and other things I like and more, with the occasional opinionated public tweet."
 ---
 
 <style>
@@ -9,7 +10,7 @@ title: Tweets
     }
 </style>
 
-<p>Sharing news, videos and other things I like and more, with the occasional opinionated public tweet.</p>
+Sharing news, videos and other things I like and more, with the occasional opinionated public tweet.
 
 <a class="twitter-timeline" href="https://twitter.com/johanbove"
    data-widget-id="333577388069896193"

@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /impressum/
+desc: "Legal information for Germany"
 ---
 
 # Impressum
