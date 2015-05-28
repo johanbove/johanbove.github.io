@@ -5,7 +5,7 @@ permalink: /about/
 desc: "More facts about Johan"
 ---
 
-## I am perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
+I am perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
 
 [1](http://en.wikipedia.org/wiki/Rifleman%27s_Creed) This is my introduction, there are many others like it, but this one is mine.
 
