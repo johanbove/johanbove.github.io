@@ -412,6 +412,11 @@
     
 }
 
+.page-content a[href^="/images"],
+.page-content a[href^="/images"]:hover {
+    border: none;
+}
+
 .social-links {
     p {
         margin-bottom: 0;
@@ -430,4 +435,18 @@
     font-size: smaller;
     margin-top: $spacing-unit;
     line-height: 2;
+}
+
+.background-light {
+    background-color: azure;
+}
+
+.image-gallery {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.image-gallery img {
+    opacity: 1;
+    width: 24%;
 }
