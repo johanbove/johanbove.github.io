@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to use Trello like a boss"
-categories: blog
+categories: presentations
 ---
 
 # Introduction
