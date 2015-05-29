@@ -1,4 +1,6 @@
 # www.robotstxt.org/
 # http://code.google.com/web/controlcrawlindex/
+# http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
+Disallow: /impressum
