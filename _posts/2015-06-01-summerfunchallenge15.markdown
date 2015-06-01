@@ -4,11 +4,11 @@ title: "Summer Fun Challenge 2015"
 categories: blog
 ---
 
-I helped out with organizing Google I/O Extended in Düsseldorf this year and it was really good fun!
+Organizing the 2015 Google I/O Extended in Düsseldorf was a great experience!
 
 As always the [Google's Developer Group community](https://developers.google.com/groups/) was super helpful to set up this event.
 
-We even added a special contest which ended at the Google I/O called ["Summer Fun Challenge"](https://plus.google.com/107373371386267684213/posts/4Ha7AJL8SPM).
+The [GDG Düsseldorf chapter](https://developers.google.com/groups/chapter/107373371386267684213/) team added a special contest which ended at the Google I/O called ["Summer Fun Challenge"](https://plus.google.com/107373371386267684213/posts/4Ha7AJL8SPM).
 
 Many developers and tech enthusiasts from in and around Düsseldorf joined in good spirits, even-though the classic German summer weather tried to sabotage us with a true rain storm. My Respect goes out to all of the people attending and especially to the nine brave teams / participants of this year's Summer Fun Challenge!
 
