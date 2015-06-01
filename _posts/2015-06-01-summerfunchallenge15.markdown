@@ -4,11 +4,11 @@ title: "Summer Fun Challenge 2015 Winners"
 categories: blog
 ---
 
-We had a really great time organizing the event and are very happy you all came in good spirits, even-though the classic German summer weather tried to sabotage us by forcing a lot of you to come out through a true rain storm. Respect goes out to all of you and especially to the nine brave teams / participants of our Summer Fun Challenge!
+I helped out with organizing Google I/O Extended in Düsseldorf this year and I had a really great time organizing it. We added a special contest which ended at the Google I/O called ["Summer Fun Challenge"](https://plus.google.com/107373371386267684213/posts/4Ha7AJL8SPM). I was very happy to see so many developers and tech enthusiasts from in and around Düsseldorf to to come in good spirits, even-though the classic German summer weather tried to sabotage us with a true rain storm. My Respect goes out to all of the people attending and especially to the nine brave teams / participants of this year's Summer Fun Challenge!
 
-Of the around 60 people attending the event, 47 votes were registered. Thanks to all who voted for their favorite project.
+The winners were chosen by the 60 guests attending the event. 47 votes were registered through a Google Docs form.
 
-Without further ado, here are the winners for our Summer Fun Challenge 2015:
+Here are the winners for our Summer Fun Challenge 2015:
 
 ## Design & Presentation
 
@@ -25,7 +25,6 @@ Without further ado, here are the winners for our Summer Fun Challenge 2015:
 ### 3rd place: “FREIRAUM” by Georg Bednorz (14.9% votes)
 
 - [presentation](http://de.slideshare.net/GeorgBednorz/freiraum-georg-bednorz)
-
 
 ## Code
 
