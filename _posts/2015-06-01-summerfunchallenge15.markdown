@@ -15,6 +15,7 @@ Many developers and tech enthusiasts from in and around Düsseldorf joined in go
 The winners were chosen by the 60 guests attending the event. 47 votes were registered through a Google Docs form.
 
 Things I learned during the organization of this event:
+
 - Using Google Hangouts for video conferencing is really fun and feels like we're really in the future now.
 - Google Docs forms have a "results summer" view.
 - Scrolling in Google Sheets can be optimized. Had some trouble with this during the event.
