@@ -6,7 +6,7 @@ categories: blog
 
 I helped out with organizing Google I/O Extended in Düsseldorf this year and I had a really great time organizing it. We added a special contest which ended at the Google I/O called ["Summer Fun Challenge"](https://plus.google.com/107373371386267684213/posts/4Ha7AJL8SPM).
 
-I was very happy to see so many developers and tech enthusiasts from in and around Düsseldorf to to come in good spirits, even-though the classic German summer weather tried to sabotage us with a true rain storm. My Respect goes out to all of the people attending and especially to the nine brave teams / participants of this year's Summer Fun Challenge!
+Many developers and tech enthusiasts from in and around Düsseldorf joined in good spirits, even-though the classic German summer weather tried to sabotage us with a true rain storm. My Respect goes out to all of the people attending and especially to the nine brave teams / participants of this year's Summer Fun Challenge!
 
 The winners were chosen by the 60 guests attending the event. 47 votes were registered through a Google Docs form.
 
@@ -41,7 +41,10 @@ The winners were chosen by the 60 guests attending the event. 47 votes were regi
 - [code](https://github.com/FedericoElles/opunguriru)
 - [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000)
 
+## Thanks
 
 This event would not have been possible without the support of these sponsors: Google Developer Groups, Scaratec IT, Rheinfabrik, Appsrise, HRS Hotelsearch, Grandcentrix and Simvelop.
+
+Also big thank you to the team: Ann-Katrin, Frederik, Jens, Randy, Resul and the others who helped set it up.
 
 More about GDG Düsseldorf on the Google+ page: [+gdgdusseldorf](https://plus.google.com/107373371386267684213)﻿
