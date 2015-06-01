@@ -1,8 +1,8 @@
 ---
-Layout: post
+layout: post
+title: "Summer Fun Challenge 2015 Winners"
+categories: blog
 ---
-
-## Summer Fun Challenge 2015 Winners
 
 We had a really great time organizing the event and are very happy you all came in good spirits, even-though the classic German summer weather tried to sabotage us by forcing a lot of you to come out through a true rain storm. Respect goes out to all of you and especially to the nine brave teams / participants of our Summer Fun Challenge!
 
