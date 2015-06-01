@@ -10,9 +10,9 @@ I was very happy to see so many developers and tech enthusiasts from in and arou
 
 The winners were chosen by the 60 guests attending the event. 47 votes were registered through a Google Docs form.
 
-Here are the winners for our Summer Fun Challenge 2015:
+# The winners of the Summer Fun Challenge 2015
 
-## Design & Presentation
+## Design & Presentation Track
 
 ### 1st place: “OpenGrill” by Fritz Elles & Alex Kruck-Kneip (38.3% votes)
 
@@ -28,7 +28,7 @@ Here are the winners for our Summer Fun Challenge 2015:
 
 - [presentation](http://de.slideshare.net/GeorgBednorz/freiraum-georg-bednorz)
 
-## Code
+## Code Track
 
 ### 1st place: “dim” by Frederik Schweiger (34% votes)
 
@@ -41,10 +41,7 @@ Here are the winners for our Summer Fun Challenge 2015:
 - [code](https://github.com/FedericoElles/opunguriru)
 - [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000)
 
-All first prize winners will receive their new phones as soon as they arrive!
 
-We all hope you enjoyed it as much as we did and hope to see you soon at a next GDG Düsseldorf event!
-
-This event would not have been possible without the support of our sponsors: Google Developer Groups, Scaratec IT, Rheinfabrik, Appsrise, HRS Hotelsearch, Grandcentrix and Simvelop.
+This event would not have been possible without the support of these sponsors: Google Developer Groups, Scaratec IT, Rheinfabrik, Appsrise, HRS Hotelsearch, Grandcentrix and Simvelop.
 
 More about GDG Düsseldorf on the Google+ page: [+gdgdusseldorf](https://plus.google.com/107373371386267684213)﻿
