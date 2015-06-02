@@ -1,14 +1,23 @@
 <head>
     <meta charset="utf-8">
+    <meta property="og:locale" content="{{ site.locale }}">
     <meta name="viewport" content="width=device-width">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:site_name" content="{{ site.title }}">
     {% if page.excerpt %}
+    <meta property="og:type" content="article">
     <meta name="description" content="{{ page.excerpt | strip_html | truncate: 150 }}" />
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 150 }}">
     {% elsif page.desc %}
     <meta name="description" content="{{ page.desc | truncate: 150 }}" />
+    <meta property="og:description" content="{{ page.desc | truncate: 150 }}">
     {% else %}
+    <meta property="og:type" content="website">
     <meta name="description" content="{{ site.description }}" />
+    <meta property="og:description" content="{{ site.description | truncate: 150 }}">
     {% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
 </head>
