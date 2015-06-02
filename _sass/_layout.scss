@@ -27,48 +27,89 @@
     position:  relative;
     &.box {
         background-color: $contentbox-color;
-        padding: $spacing-unit;
+        border: 1px solid #000;
+        padding: $spacing-unit / 2 $spacing-unit 0;
     }
 }
+
+/**
+ * Flexbox
+ * @see: http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+ */
+.flexcontainer {    
+ 
+    @include media-query-min($on-laptop) {
     
+        display: -webkit-flex;
+        display: flex;
+        -webkit-flex-direction: row;
+        flex-direction: row;
+        
+        .bigitem {
+           /* This will be twice as big as the small item. */
+           -webkit-flex: 2 0 0; 
+           flex: 2 0 0; 
+        }
+
+        .smallitem {
+           -webkit-flex: 1 0 0;
+           flex: 1 0 0;
+        }
+    
+    }
+}
+
+
 /**
  * Site header
  */
 .site-header {
     margin-top: $spacing-unit;
+    position: relative;
 }
 
 .site-title {
-    @include transition(all 2s);
-    border: none;
-    color: rgba(255,255,255,1);
-    float: left;
-    font-size: 26px;
-    line-height: $spacing-unit;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    text-decoration: none;
-    text-shadow: white 1px 1px 10px;
     
-    &:focus, &:hover {
-        color:  rgba(255,255,255,1);
-        text-shadow: none;
+    display: inline-block;
+    max-width: 350px;
+    position: relative;
+    
+    @include media-query-min($on-laptop) {
+        top: -$spacing-unit;
     }
     
-    &:visited {
-        color: $text-color;
-    }
+    a {
+        @include transition(all 2s);
+        border: none;
+        color: rgba(255,255,255,1);
+        float: left;
+        font-size: 26px;
+        line-height: $spacing-unit;
+        letter-spacing: -1px;
+        margin-bottom: 0;
+        text-decoration: none;
+        text-shadow: white 1px 1px 10px;
 
-     @include media-query($on-laptop) {
-        max-width: 50%;
+        &:focus, &:hover {
+            color:  rgba(255,255,255,1);
+            text-shadow: none;
+        }
+
+        &:visited {
+            color: $text-color;
+        }
+
+        @include media-query($on-laptop) {
+            max-width: 50%;
+        }
+
     }
-    
 }
 
 .site-nav {
     clear: both;
     float: left;
-    margin: 15px 0 0 0;
+    margin: 0 0 $spacing-unit / 2;
 
     .menu-icon {
         display: none;
@@ -145,16 +186,15 @@
  */
 .avatar {
     border: 5px solid rgba(0, 0, 0, .1);
+    border: 2px inset rgba(255,255,255,.75);
     border-radius: $spacing-unit * 2;
-    float: right;
-    margin-top: -296px;
+    display: inline-block;
+    margin-right: $spacing-unit;
     overflow: hidden;
     width: 100px;
-    border: 2px inset rgba(255,255,255,.75);
     
-     @include media-query($on-laptop) {
-        float: none;
-        margin: $spacing-unit auto;
+    @include media-query-min($on-laptop) {
+
     }
     
 } 
@@ -234,7 +274,7 @@
  */
 .page-content {
     
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 0;
     
     section {
         position: relative;
@@ -242,6 +282,10 @@
     
     section > h3 {
         margin-top: $spacing-unit;
+    }
+    
+    section[role="main"] > h1 {
+        color: #bababa;
     }
     
 }
@@ -449,4 +493,30 @@
 .image-gallery img {
     opacity: 1;
     width: 24%;
+}
+
+sidebar {
+    
+    margin-left: $spacing-unit * 2;
+    
+    .box {
+        padding: $spacing-unit / 3;
+        margin-bottom: $spacing-unit / 2;
+    }
+
+    .post-list > li {
+        float: none;
+        margin-bottom: $spacing-unit / 3;
+        
+        &:last-child {
+            margin-bottom: 0;
+        }
+        
+    }
+    
+    .post-list .post-link {
+        margin-left: auto;
+        float: none;
+    }
+    
 }

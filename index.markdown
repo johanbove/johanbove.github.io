@@ -1,18 +1,16 @@
 ---
-layout: default
+layout: front
 ---
 
 {%comment%}
-https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+@see: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+
 Getting current year for calculating my age.
+
 {%endcomment%}
 {% assign currentyear = site.time | date:'%Y' %}
 
-# About me
-
-## Johan is an Information Technology professional passionate about media and the Web
-
-<figure class="avatar" title="Johan in 2012"><img src="//www.gravatar.com/avatar/4554cca5bb71b81cad02162b4473a226?s=100" alt="Me, aka Johan Bové" width="100" height="100"></figure>
+# _An Information Technology professional passionate about media and the Web._
 
 ## Hi! My name is Johan.
 
