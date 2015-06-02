@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Captivating Online Matters"
+title: "About Me"
 permalink: /about/
 desc: "More facts about Johan"
 ---
