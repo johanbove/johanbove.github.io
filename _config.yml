@@ -16,6 +16,7 @@ kramdown:
 sass:
   style: :compressed
 # Site settings
+locale: "en_US"
 title: "Captivating Online Matters"
 email: "hello@johanbove.info"
 description: "Johan is a front end web developer passionate about media and technology."
