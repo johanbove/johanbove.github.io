@@ -2,6 +2,25 @@
 /*global $, console */
 $(function () {
     "use strict";
+    
+    /**
+     * @param {string} inputText
+     * @returns {string}
+     * @author Oleh Zasadnyy @ozasadnyy
+     */
+    var linkify = function (inputText) {
+        var replacedText,
+            links1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim,
+            links2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim,
+            hashtags = /#(\S*)/g,
+            profileLinks = /\B@([\w-]+)/gm;
+        replacedText = inputText.replace(links1, '<a href="$1" target="_blank">$1</a>');
+        replacedText = replacedText.replace(links2, '$1<a href="http://$2" target="_blank">$2</a>');
+        replacedText = replacedText.replace(hashtags, '<a href="https://twitter.com/search?q=%23$1" target="_blank">#$1</a>');
+        replacedText = replacedText.replace(profileLinks, '<a href="https://twitter.com/$1" target="_blank">@$1</a>');
+        return replacedText;
+    };
+    
     $.getJSON('http://tweetledee.johanbove.info/favoritesjson.php', {
         "c": 10,
         "cache_interval": 600 // 10 minutes
@@ -11,8 +30,7 @@ $(function () {
         $target.html('');
         $.each(data, function (key, tweet) {
             //console.info("tweet", tweet);
-            // https://twitter.com/johanbove/status/605994672922738688
-            items.push('<blockquote id="tweet-' + tweet.id + '"><p>&ldquo;' + tweet.text + '&rdquo;<br>~ <a href="https://twitter.com/' + tweet.user.screen_name + '">@' + tweet.user.screen_name + '</a> (<a href="https://twitter.com/' + tweet.user.screen_name + '/status/' + tweet.id_str + '">tweet</a>)</p></blockquote>');
+            items.push('<blockquote id="tweet-' + tweet.id + '"><p>&ldquo;' + linkify(tweet.text) + '&rdquo;<br>~ <a href="https://twitter.com/' + tweet.user.screen_name + '">@' + tweet.user.screen_name + '</a> (<a href="https://twitter.com/' + tweet.user.screen_name + '/status/' + tweet.id_str + '">tweet</a>)</p></blockquote>');
         });
         $("<div/>", {
             "class": "fav-tweets",
