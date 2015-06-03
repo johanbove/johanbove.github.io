@@ -17,7 +17,7 @@ The winners were chosen by the 60 guests attending the event. 47 votes were regi
 Things I learned during the organization of this event:
 
 - Using Google Hangouts for video conferencing is really fun and feels like we're really in the future now.
-- Google Docs forms have a "results summer" view.
+- Google Docs forms have a "results summary" view.
 - Scrolling in Google Sheets can be optimized. Had some trouble with this during the event.
 - People can be super creative and funny at times.
 - We have a great team in GDG Düsseldorf.
