@@ -52,6 +52,8 @@ $(function () {
                     }).appendTo($target);
                 });
 
+                return this;
+                
             },
             
             getMyTweets: function () {
@@ -61,16 +63,18 @@ $(function () {
                     "cache_interval": 600 // 10 minutes
                 }, function (data) {
                     var items = [],
-                        $target = $('.tweets').html('');
+                        $target = $('.mytweets').html('');
                     $.each(data, function (key, tweet) {
                         //console.info("tweet", tweet);
                         items.push('<blockquote id="tweet-' + tweet.id + '"><p>&ldquo;' + linkify(tweet.text) + '&rdquo; - <a href="https://twitter.com/' + tweet.user.screen_name + '/status/' + tweet.id_str + '">view on twitter</a></p></blockquote>');
                     });
                     $("<div/>", {
-                        "class": "fav-tweets",
+                        "class": "my-tweets",
                         html: items.join("")
                     }).appendTo($target);
                 });
+                
+                return this;
 
             }
 

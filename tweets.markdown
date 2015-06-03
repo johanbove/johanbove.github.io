@@ -26,7 +26,7 @@ Sharing news, videos and other things I like and more, with the occasional opini
 </a>
 -->
 
-<div class="tweets">Loading&hellip;</div>
+<div class="mytweets">Loading&hellip;</div>
 
 ## Tweets I recently favorited
 
@@ -35,8 +35,7 @@ Sharing news, videos and other things I like and more, with the occasional opini
 <script src="/assets/js/favtweets.js"></script>
 <script>
 $(function () {
-    window.favtweets.getFavTweets();
-    window.favtweets.getMyTweets();
+    window.favtweets.getMyTweets().getFavTweets();
 });
 </script>
 
