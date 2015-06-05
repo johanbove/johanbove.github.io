@@ -529,6 +529,15 @@ sidebar {
     .box {
         padding: $spacing-unit / 3;
         margin-bottom: $spacing-unit / 2;
+        
+        &.follow-buttons {
+            a {
+                margin: $spacing-unit;
+                display: block;
+                text-align: center;
+            }
+        }
+        
     }
 
     .post-list > li {
