@@ -127,11 +127,18 @@
         font-weight: bold;
         line-height: $base-line-height;
         text-decoration: none;
+        transition: border .5s;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+        
+        &:hover,
+        &:focus {
+            border-bottom: 3px solid rgba(243, 243, 152, 1);
+        }
+        
     }
 
     @include media-query($on-palm) {
@@ -192,18 +199,25 @@
  */
 .avatar {
     border: 5px solid rgba(0, 0, 0, .1);
-    border: 2px inset rgba(255,255,255,.75);
+    //border: 2px inset rgba(255,255,255,.75);
     border-radius: $spacing-unit * 2;
     display: inline-block;
     margin-right: $spacing-unit;
     overflow: hidden;
     width: 100px;
     
-    @include media-query-min($on-laptop) {
+    transition: border .5s;
+    
+    /*@include media-query-min($on-laptop) {
 
+    } */
+    
+    &:hover,
+    &:focus {
+        border: 5px inset rgba(243,243,152,0.7);
     }
     
-} 
+}
 
 /**
  * Site footer
@@ -280,10 +294,15 @@
  */
 .page-content {
     
-    padding: $spacing-unit 0 0;
+    padding: 0;
     
     section {
         position: relative;
+        
+        &:first-child {
+            margin-top: 10px;
+        }
+        
     }
     
     section > h3 {
@@ -347,6 +366,7 @@
  * Posts
  */
 .post-header {
+    margin-top: $spacing-unit / 3;
     margin-bottom: $spacing-unit;
 }
 
