@@ -10,9 +10,9 @@ $(function () {
      */
     var Tweetledee = function () {
     
-        var DOMAIN = "http://tweetledee.johanbove.info/",
-            FAV_TWEETS = DOMAIN + "favoritesjson.php",
-            MY_TWEETS = DOMAIN + "userjson.php",
+        var TWEETLEDEE = "http://tweetledee.johanbove.info/",
+            FAV_TWEETS = TWEETLEDEE + "favoritesjson.php",
+            MY_TWEETS = TWEETLEDEE + "userjson.php",
 
         /**
          * @param {string} inputText
