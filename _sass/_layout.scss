@@ -66,6 +66,12 @@
 .site-header {
     margin-top: $spacing-unit;
     position: relative;
+    
+    > div {
+        background-image: url(//pbs.twimg.com/profile_banners/231445532/1397246205/1500x500);
+        background-position: center bottom;
+    }
+    
 }
 
 .site-title {
@@ -88,7 +94,7 @@
         letter-spacing: -1px;
         margin-bottom: 0;
         text-decoration: none;
-        text-shadow: white 1px 1px 10px;
+        text-shadow: rgba(0,0,0,1) 1px 1px 10px;
 
         &:focus, &:hover {
             color:  rgba(255,255,255,1);
