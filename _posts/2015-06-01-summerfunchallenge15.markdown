@@ -27,32 +27,19 @@ Things I learned during the organization of this event:
 
 ## Design & Presentation Track
 
-### 1st place: “OpenGrill” by Fritz Elles & Alex Kruck-Kneip (38.3% votes)
-
-- [code](https://github.com/FedericoElles/opunguriru) 
-- [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000)
-
-### 2nd place: “Refresh!” by Nenad Natošević & Ognjen Mihajlović (23.4% votes)
-
-- [code](https://bitbucket.org/Tricky/refresh-mobile) 
-- [presentation](https://docs.google.com/presentation/d/1Rpo6OKqC4PqpHIi1E7gQdSfnAdX1pc2jpCz2yf1eXd8/)
-
-### 3rd place: “FREIRAUM” by Georg Bednorz (14.9% votes)
-
-- [presentation](http://de.slideshare.net/GeorgBednorz/freiraum-georg-bednorz)
+| Rank      | Project | Votes | Links | 
+|:----------|:--------|-------|:------|
+| 1st place | “OpenGrill” by Fritz Elles & Alex Kruck-Kneip | 38.3% | [code](https://github.com/FedericoElles/opunguriru) [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000) |
+| 2nd place | “Refresh!” by Nenad Natošević & Ognjen Mihajlović | 23.4% | [code](https://bitbucket.org/Tricky/refresh-mobile) [presentation](https://docs.google.com/presentation/d/1Rpo6OKqC4PqpHIi1E7gQdSfnAdX1pc2jpCz2yf1eXd8/) |
+| 3rd place | “FREIRAUM” by Georg Bednorz | 14.9% | [presentation](http://de.slideshare.net/GeorgBednorz/freiraum-georg-bednorz) |
 
 ## Code Track
 
-### 1st place: “dim” by Frederik Schweiger (34% votes)
-
-- [presentation](https://docs.google.com/presentation/d/1TYADtKHSGvGIgDjUyzAUdrccj7qCHBoZZLE2pzcRr2o/edit?usp=sharing)
-
-### 2nd place: “FallingAndroid” by Pascal Dornfeld (21.3% votes)
-
-### 3rd place: “OpenGrill” by Fritz Elles & Alex Kruck-Kneip (12.8% votes)
-
-- [code](https://github.com/FedericoElles/opunguriru)
-- [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000)
+| Rank      | Project | Votes | Links | 
+|:----------|:--------|-------|:------|
+| 1st place | “dim” by Frederik Schweiger | 34% | [presentation](https://docs.google.com/presentation/d/1TYADtKHSGvGIgDjUyzAUdrccj7qCHBoZZLE2pzcRr2o/edit?usp=sharing) |
+| 2nd place | “FallingAndroid” by Pascal Dornfeld | 21.3% | |
+| 3rd place | “OpenGrill” by Fritz Elles & Alex Kruck-Kneip | 12.8% | [code](https://github.com/FedericoElles/opunguriru) [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000) |
 
 ## Thanks
 
