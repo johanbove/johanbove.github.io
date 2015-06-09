@@ -351,6 +351,7 @@
 }
 
 .post-content {
+    
     margin-bottom: $spacing-unit;
 
     h1 {
@@ -395,6 +396,7 @@
         &:hover {
             opacity: 1;
         }
+        margin: $spacing-unit 0;
     }
     
     li {
@@ -403,6 +405,10 @@
     
     * + blockquote {
         margin-top: $spacing-unit;
+    }
+    
+    pre {
+       margin: $spacing-unit; 
     }
     
 }
