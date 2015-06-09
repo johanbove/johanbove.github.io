@@ -12,7 +12,9 @@ Now the nice developers who built this template offered the complete source code
 
 Since my personal site works fine to build using Jekyll and I had previously checked out Grunt, I was convinced that this would be all a piece of cake. I was wrong. Unfortunately it happens that even-though all Node NPM modules should work on Windows, I ran into issues with the Windows command prompt.
 
-The issue happened when I tried building the site using the grunt command ```grunt serve:dist```.
+The issue happened when I tried building the site using the grunt command:
+
+    $grunt serve:dist
 
 The following error stopped everything midway in the build process:
 
