@@ -113,10 +113,11 @@
 }
 
 .site-nav {
-    clear: both;
-    float: left;
-    margin: 0 0 $spacing-unit / 2;
-
+    
+    padding: $spacing-unit / 2 $spacing-unit;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: -$spacing-unit;
+    
     .menu-icon {
         display: none;
     }
@@ -310,45 +311,14 @@
     }
     
     section[role="main"] > h1 {
-        color: #bababa;
+        color: $grey-color;
+        margin-bottom: $spacing-unit;
     }
     
 }
 
 .page-heading {
     font-size: 20px;
-}
-
-.post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        clear: both;
-        display: block;
-        float: left;
-        margin-bottom: $spacing-unit / 3;
-        width: 100%;
-    }
-    
-    .post-meta {
-        color: $grey-color;
-        font-size: $small-font-size;
-        float: left;
-        width: inherit;
-    }
-
-    .post-link {
-        display: block;
-        float: left;
-        margin-left: $spacing-unit / 2;
-        width: inherit;
-        border: none;
-        &:hover {
-            border: none;
-        }
-    }
-    
 }
 
 *[role="projects"] .post-list {
@@ -389,10 +359,6 @@
     
     h2 {
         font-size: 24px;
-
-        @include media-query($on-laptop) {
-            font-size: 23px;
-        }
     }
 
     * + h2 {
@@ -442,19 +408,53 @@
 }
 
 .post-list {
+    
+    margin: $spacing-unit 0;
+    list-style: none;
+    
     h2 {
         font-size: 18px;
-        float: left;
         margin: 0;
-        width: inherit;
-        .post-link {
-            font-size: 18px;
-            @include media-query($on-palm) {
-                clear: left;
-                margin-left: 0;
-            }
+    }
+    
+    > li {
+        margin-bottom: $spacing-unit / 3;
+    }
+    
+    .post-meta {
+        color: $grey-color;
+        display: block;
+    }
+
+    .post-link {
+        border: none;
+        display: block;
+        &:hover {
+            border: none;
         }
     }
+    
+    @include media-query-min($on-laptop) {
+        
+        h2 {
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-direction: row;
+            flex-direction: row;
+        }
+        
+        .post-meta {
+            -webkit-flex: 1 0 0; 
+            flex: 1 0 0;
+        }
+        
+        .post-link {
+            -webkit-flex: 4 0 0; 
+            flex: 4 0 0;
+            margin-left: $spacing-unit / 2;
+        }
+    }
+    
 }
 
 .rss-subscribe {

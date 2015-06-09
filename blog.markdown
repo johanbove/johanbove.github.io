@@ -5,7 +5,7 @@ permalink: /blog/
 desc: "Thoughts and ideas by Johan"
 ---
 
-Sharing my thoughts and experiences online for everyone, including you to know about.
+Sharing my thoughts here as a way to perform some self-reflection. Also sharing my experiences as a web developer, giving some insights back to the dev-community.
 
 <div role="blog">
 
