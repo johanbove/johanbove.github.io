@@ -28,9 +28,9 @@ At this point I thought I should document this endeavour and perhaps the Interne
 
     $grunt serve:dist > out.log
 
-Guess what? This created the *out.log* file containing the output from the process as expected, but what happened as well? Wel, the grunt build command executed without any hiccup! :yay: :smile:
+Guess what? This created the *out.log* file containing the output from the process as expected, but what happened as well? Wel, the grunt build command executed without any hiccup! :relieved: :smile:
 
-It would still be cool to figure out what exactly is causing the socket issue. I will have to get to you on that at a later time since my deeper knowledge on how NPM actually works is still under development.
+It would still be cool to figure out what exactly is causing the socket issue. I will have to return on this issue at a later time when my deeper knowledge on how NPM's inner workings tick improved.
 
 There were some other issues with the Windows Command Prompt. And for each I found a way of getting around, with big thanks to [Stackoverflow](http://stackoverflow.com/) and [Github](http://www.github.com).
 
@@ -40,7 +40,7 @@ Execute this in the command prompt to set the page encoding for the current comm
 
     $chcp 65001
     
-The other problem is related to Node's [nested node_modules](https://github.com/joyent/node/issues/6960) of [endless dependencies](https://github.com/npm/npm/issues/3697). It is possible that you end with too many nested folders which gets Windows OS stuck where it is not able to get through to all folders because of a 260 character path limit. :rolleyes:
+The other problem is related to Node's [nested node_modules](https://github.com/joyent/node/issues/6960) of [endless dependencies](https://github.com/npm/npm/issues/3697). It is possible that you end with too many nested folders which gets Windows OS stuck where it is not able to get through to all folders because of a 260 character path limit. :unamused:
 
 To circumvent this you can [create a temporary drive assignment](http://stackoverflow.com/questions/21731066/too-long-paths-because-of-nested-node-dependencies) using the command ```subst``` from within half-way the nested folders.
 
@@ -48,4 +48,4 @@ This command will effectively [create a temporary partition drive letter](http:/
 
     $subst j: .\
 
-After all these years Windows is still full of little surprises!
+After all these years Windows is still full of little surprises! :sweat_smile:
