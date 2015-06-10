@@ -8,9 +8,9 @@ So the other day I started building a website for a friend. Since I am pretty ha
 
 Thanks to the GDG Düsseldorf group I had come across the excellent template called "[Zeppelin](https://github.com/gdg-x/zeppelin-grunt)".
 
-Now the nice developers who built this template offered the complete source code including the build system for free on Github. I was eager to get started with it so I could set up the event site quickly and smoothly.
+The super devs who built this Jekyll template offer the complete source code, including the build system, for free on GitHub.
 
-Since my personal site works fine to build using Jekyll and I had previously checked out Grunt, I was convinced that this would be all a piece of cake. I was wrong. Unfortunately it happens that even-though all Node NPM modules should work on Windows, I ran into issues with the Windows command prompt.
+Since my personal site is built with Jekyll and I have some experience with Grunt, I was convinced that setting up the site and building it using Grunt would be a piece of cake. It was not. Nevertheless that all Node NPM modules should work on Windows, I ran into issues with the *Windows Command Prompt* itself.
 
 The issue happened when I tried building the site using the grunt command:
 
