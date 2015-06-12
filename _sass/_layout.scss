@@ -27,7 +27,7 @@
     position:  relative;
     &.box {
         background-color: $contentbox-color;
-        border: 1px solid #000;
+        border: 1px inset #222;
         padding: $spacing-unit / 2 $spacing-unit 0;
     }
 }
@@ -66,10 +66,13 @@
 .site-header {
     margin-top: 1px;
     position: relative;
-    
-    > div {
-        background-image: url(//pbs.twimg.com/profile_banners/231445532/1397246205/1500x500);
-        background-position: center bottom;
+    background-image: url(//pbs.twimg.com/profile_banners/231445532/1397246205/1500x500);
+    background-position: center bottom;
+    background-size: cover;
+    border-bottom: 1px inset #222;
+    .wrapper.box {
+        background-color: transparent;
+        border: none;
     }
     
 }
