@@ -9,12 +9,13 @@
   Location: Düsseldorf, Europe
 
 /* THANKS */
-  Names (& URL): Github, Adobe, Jekyll, Microsoft
+  Names (& URL): Google Developer community, Microsoft developer community, all web developer freelancers, all open-source developers, etc etc
 
 /* SITE */
   Standards: HTML5, CSS3
   Components: 
-  Software: GitHub, Brackets, Jekyll, PowerShell, Windows
+  Software: GitHub, Brackets, Jekyll, Git, Ruby, PHP
+  Images: "Starry background mountain landscape" photograph by [Dave Morrow](http://www.davemorrowphotography.com/).
 
 
 
