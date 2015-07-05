@@ -1,0 +1,166 @@
+- 
+ name: "Encode/Decoders"
+ tools:
+    -
+     name: "Base64 Encode/Decode"
+     url: "http://url-encode-decode.com/base64-encode-decode"
+     source: 1
+    -
+     name: "Binary Converter"
+     url: "http://www.danstools.com/binary-converter"
+     source: 1
+    -
+     name: "Online Diff Tool"
+     url: "http://www.danstools.com/diff-compare-merge"
+     source: 1
+    -
+     name: "HTML Entities Escape"
+     url: "http://www.danstools.com/html-escape-unescape"
+     source: 1
+    -
+     name: "MD5 Hash Generator"
+     url: "http://www.danstools.com/md5-hash-generator"
+     source: 1
+    -
+     name: "SHA-1 Hash Generator"
+     url: "http://danstools.com/md5-hash-generator/sha1-generator.php"
+     source: 1
+    -
+     name: "URL Encode/Decode"
+     url: "http://url-encode-decode.com/"
+     source: 1 
+- 
+ name: "Development"
+ tools:
+    -
+     name: "Color Picker"
+     url: "http://hexcolortool.com/"
+     source: 1
+    -
+     name: "CSS Fonts"
+     url: "http://cssfontstack.com/"
+     source: 1 
+    -
+     name: "Convert Files"
+     url: "http://files-conversion.com/"
+     source: 1
+    -
+     name: ".htaccess Generator"
+     url: "http://htaccessredirect.net/"
+     source: 1
+    -
+     name: "RegEx Testing"
+     url: "http://regextester.com/"
+     source: 1
+    -
+     name: "TimeStamp Converter"
+     url: "http://unixtimestamp.com/"
+     source: 1
+    -
+     name: "Website Speed Test"
+     url: "http://website-performance.org/"
+     source: 1 
+-
+ name: "Formatters"
+ tools:
+    -
+     name: "CSS Formatter"
+     url: "http://cleancss.com/css-beautify"
+     source: 1
+    -
+     name: "GO Formatter"
+     url: "http://cleancss.com/go-beautify"
+     source: 1
+    - 
+     name: "HTML Formatter"
+     url: "http://cleancss.com/html-beautify"
+     source: 1 
+    -
+     name: "Javascript Formatter"
+     url: "http://jspretty.com/"
+     source: 1
+    -
+     name: "Javascript Obfuscate"
+     url: "http://jsobfuscate.com/"
+     source: 1 
+    -
+     name: "JSON Formatter"
+     url: "http://cleancss.com/json-beautify"
+     source: 1
+    -
+     name: "JSON Editor"
+     url: "http://cleancss.com/json-editor"
+     source: 1
+    -
+     name: "JSON Validator"
+     url: "http://cleancss.com/json-validator"
+     source: 1
+    -
+     name: "Perl Formatter"
+     url: "http://cleancss.com/perl-beautify"
+     source: 1
+    -
+     name: "PHP Formatter"
+     url: "http://cleancss.com/php-beautify"
+     source: 1
+    -
+     name: "Python Formatter"
+     url: "http://cleancss.com/python-beautify"
+     source: 1
+    -
+     name: "Ruby Formatter"
+     url: "http://cleancss.com/ruby-beautify"
+     source: 1
+    -
+     name: "SQL Formatter"
+     url: "http://cleancss.com/sql-beautify"
+     source: 1
+    -
+     name: "XML Formatter"
+     url: "http://cleancss.com/xml-beautify"
+     source: 1 
+-
+ name: "Minifiers"
+ tools:
+    -
+     name: "CSS Minify"
+     url: "http://cleancss.com/css-minify"
+     source: 1
+    -
+     name: "Javascript Minify"
+     url: "http://jsmini.com/"
+     source: 1
+    -
+     name: "JSON Minify"
+     url: "http://cleancss.com/json-minify"
+     source: 1 
+-
+ name: "Internet"
+ tools:
+    -
+     name: "Email Validator"
+     url: "http://www.danstools.com/email-validator"
+     source: 1
+    -
+     name: "Is It Up Or Down"
+     url: "http://www.danstools.com/is-it-up-or-down"
+     source: 1
+    -
+     name: "What is my IP"
+     url: "http://www.danstools.com/what-is-my-ip"
+     source: 1 
+- 
+ name: "Images"
+ tools:
+    -
+     name: "Favicon & App Icon Generator"
+     url: "http://favicon-generator.org/"
+     source: 1
+    -
+     name: "Online Image Editor"
+     url: "http://favicon-generator.org/image-editor"
+     source: 1
+    -
+     name: "CSS Sprite Generator"
+     url: "http://spritegen.website-performance.org/"
+     source: 1
