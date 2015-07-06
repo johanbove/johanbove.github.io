@@ -28,10 +28,18 @@
     -
      name: "URL Encode/Decode"
      url: "http://url-encode-decode.com/"
-     source: 1 
+     source: 1
+    -
+     name: "Htpasswd Generator"
+     url: "http://www.htaccesstools.com/htpasswd-generator/"
+     source: 3
 - 
  name: "Development"
  tools:
+    -
+     name: "Varous tools by David Walsch"
+     url: "http://davidwalsh.name/web-development-tools"
+     source: 2
     -
      name: "Color Picker"
      url: "http://hexcolortool.com/"
