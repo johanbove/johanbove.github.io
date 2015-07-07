@@ -30,7 +30,7 @@ I decided to give it a go because it looked easy to set up and offered exactly w
 
 ## The set up was extremely easy.
 
-So I planned to use the Tweetledee application on a subdomain on my hosting account, so it would be nice an snug in it's own environment.
+So I planned to use the Tweetledee application on a subdomain on my hosting account, so it would be nice and snug in it's own environment.
 
 After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), you need to set your [Twitter App consumer keys](https://apps.twitter.com/app/new) in the designated PHP file and it should be good to go. 
 
