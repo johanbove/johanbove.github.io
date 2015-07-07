@@ -6,7 +6,9 @@ categories: blog
 
 ## What about some Tweets?
 
-[Twitter](http://www.twitter.com) does not need an introduction, right? I have [my own account](http://twitter.com/johanbove) through which I tweet anything I like to share with the World. It could be a quick thought, a cool picture or some really fascinating article, I always try to keep it interesting, at least for myself :smile:
+[Twitter](http://www.twitter.com) does not need an introduction...
+
+I have [my own account](http://twitter.com/johanbove) through which I tweet anything I like to share with the World. It could be a quick thought, a cool picture or some really fascinating article, I always try to keep it interesting, at least for myself :smile:
 
 I recently became more active on Twitter and since I have this blog, I figured it would be cool to include [my Twitter stream on my own website](/tweets.html) in a fun way.
 
@@ -22,7 +24,7 @@ The talented team of [GDG Kiev](http://lviv.gdg.org.ua/) had created this excell
 
 So I looked on-line for more information and quickly found [Tweetledee](http://chrissimpkins.github.io/tweetledee/), a PHP library made by Chris Simpkins ([@csimpkins](http://twitter.com/csimpkins)) and various contributors.
 
-I decided to give it a go because it looked easy to set up and offered exactly what I needed, plus on top of that Chris did an excellent job at writing exactly what needs to be done to have things going in a fabulous "Three Minute Install" Guide.
+I decided to give it a go because it looked easy to set up and offered exactly what I needed, plus on top of that Chris did an excellent job at writing exactly what needs to be done to have things going in [a fabulous "Three Minute Install" Guide](http://chrissimpkins.github.io/tweetledee/index.html#three-minute-install).
 
 [Get Tweetledee on Github](http://chrissimpkins.github.io/tweetledee/)
 
@@ -30,11 +32,13 @@ I decided to give it a go because it looked easy to set up and offered exactly w
 
 So I planned to use the Tweetledee application on a subdomain on my hosting account, so it would be nice an snug in it's own environment.
 
-After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), and then transfered all files using [my favourite FTP client FileZilla](https://filezilla-project.org/), to the web space in the fresh sub domain.
+After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), you need to set your Twitter App consumer keys in the designated PHP file and your done. 
+
+You can then transfer all Tweetledee files using your [favourite FTP client FileZilla](https://filezilla-project.org/) to your web space and your done.
 
 ## Why a sub domain?
 
-The sub domain helps for setting up specific security *.htaccess* rules to allow cross-side scripting headers rules which are I found important to me since I didn't want just anyone to use my set up of Tweetledee and *steal* my precious bandwidth.
+The sub domain helps for setting up specific security *.htaccess* rules to allow cross-side scripting headers rules which are quite important since you don'T want just anyone to be able to *take advantage* of your Tweetledee set-up and *steal* my precious bandwidth, right?
 
 The *.htaccess* commands: 
 
@@ -45,7 +49,7 @@ Header always set Access-Control-Allow-Origin %{origin_is}e env=origin_is
 
 By defining "allow-origin" headers in the *.htaccess* file in my sub domain I can control who gets to call up my Tweets from my Tweetledee installation.
 
-Plus additionally my hosting, Antagonist.nl, offers [*old-skool* site statistics with Webalizer](http://www.webalizer.org/) per sub domain, so this allows me to keep an eye on how much traffic to my little Tweetledee setup is dealing with and where request are coming from.
+Plus additionally my hosting, [Antagonist.nl](http://antagonist.nl), offers [*old-skool* site statistics with Webalizer](http://www.webalizer.org/) per sub domain, so this allows me to keep an eye on how much traffic to my little Tweetledee setup is dealing with and where request are coming from.
 
 ## Caching
 
