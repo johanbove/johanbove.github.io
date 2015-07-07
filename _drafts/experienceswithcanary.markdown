@@ -21,7 +21,7 @@ categories: blog
 ### Who are the people behind it?
 
 - Team in New York City.
-- Adam, Jon, ... 
+- Adam, Jon, ...
 
 ## Buying experience
 
@@ -41,7 +41,7 @@ categories: blog
 ## The application (Android only)
 
 - App was okay for installing the device but has some big problems:
-  - Can't invite extra house members (Erica)
+  - Can't invite extra house members
   - Playing the recorded video clips is terrible. Some issues:
     - time stamp does not show seconds.
     - the playhead does not move along the playing of the video clip.
