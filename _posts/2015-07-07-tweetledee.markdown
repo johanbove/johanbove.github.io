@@ -34,7 +34,7 @@ So I planned to use the Tweetledee application on a subdomain on my hosting acco
 
 After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), I had to set my newly created [Twitter App consumer keys](https://apps.twitter.com/app/new) in the designated PHP file and I was good to go. 
 
-I then transfered all Tweetledee files using your [favourite FTP client FileZilla](https://filezilla-project.org/) to your web space and *Bob's your uncle*.
+I then transfered all Tweetledee files using my [favourite FTP client FileZilla](https://filezilla-project.org/) to my web space and *Bob's your uncle*.
 
 ## Why a sub domain?
 
