@@ -402,6 +402,10 @@
             opacity: 1;
         }
         margin: $spacing-unit 0;
+        &.emoji {
+            margin: 0;
+            opacity: 1;
+        }
     }
     
     li {
