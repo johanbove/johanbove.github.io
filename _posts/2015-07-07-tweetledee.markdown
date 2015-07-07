@@ -38,7 +38,7 @@ You can then transfer all Tweetledee files using your [favourite FTP client File
 
 ## Why a sub domain?
 
-The sub domain helps for setting up specific security *.htaccess* rules to allow cross-side scripting headers rules which are quite important since you don'T want just anyone to be able to *take advantage* of your Tweetledee set-up and *steal* my precious bandwidth, right?
+The sub domain helps for setting up specific security *.htaccess* rules to allow cross-side scripting headers rules which are quite important since you don't want just anyone to be able to *take advantage* of your Tweetledee set-up and *steal* your precious bandwidth, right?
 
 The *.htaccess* commands: 
 
