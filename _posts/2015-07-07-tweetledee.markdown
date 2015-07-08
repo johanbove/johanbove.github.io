@@ -16,19 +16,17 @@ Even-though Twitter offers ways to include your tweets using Twitter's [own widg
 
 I wanted to display my latest tweets plus the tweets from other people which I favorited for future reference.
 
-To control how the tweets would show up on my site, using JavaScript, I knew I needed an application which transformed my Tweets into the [super convenient JSON](http://www.json.org/js.html) format.
+To control how the tweets would show up on my site, I knew I needed an application which would transform my Tweets into the [super convenient JSON](http://www.json.org/js.html) format so I could manipulate them using JavaScript and CSS.
 
 ## How I found Tweetledee
 
-The talented team of [GDG Kiev](http://lviv.gdg.org.ua/) had created this excellent template for [their GDG DevFest 2014](http://gdg-x.github.io/zeppelin-grunt/) event and I noticed that they had integrated Tweets into their "cover" home page. Since they were so nice to open-source [the whole site on Github](https://github.com/gdg-x/zeppelin-grunt), I quickly found out that they had implemented Tweetledee!
+The talented team of [GDG Kiev](http://lviv.gdg.org.ua/) had created this excellent template for [their GDG DevFest 2014](http://gdg-x.github.io/zeppelin-grunt/) event and I noticed that they had integrated Tweets into their "cover" home page. Since they were so nice to open-source [the whole site on Github](https://github.com/gdg-x/zeppelin-grunt), I saw they had implemented Tweetledee!
 
-So I looked on-line for more information and quickly found [Tweetledee](http://chrissimpkins.github.io/tweetledee/), a PHP library made by Chris Simpkins ([@csimpkins](http://twitter.com/csimpkins)) and various contributors.
+So I did a quick search and found the [Tweetledee Github page](http://chrissimpkins.github.io/tweetledee/). I learned that Tweetledee is a PHP library made by Chris Simpkins ([@csimpkins](http://twitter.com/csimpkins)) together with various contributors, always a good sign of project quality.
 
-I decided to give it a go because it looked easy to set up and offered exactly what I needed, plus on top of that Chris did an excellent job at writing exactly what needs to be done to have things going in [a fabulous "Three Minute Install" Guide](http://chrissimpkins.github.io/tweetledee/index.html#three-minute-install).
+It looked easy to set up and offered exactly what I needed, plus on top of that Chris did an excellent job at writing exactly what needs to be done to have things going in [a fabulous "Three Minute Install" Guide](http://chrissimpkins.github.io/tweetledee/index.html#three-minute-install), so I decided to give it a go.
 
-[Get Tweetledee on Github](http://chrissimpkins.github.io/tweetledee/)
-
-## The set up was extremely easy.
+## The set up was extremely easy
 
 So I planned to use the Tweetledee application on a subdomain on my hosting account, so it would be nice and snug in it's own environment.
 
@@ -83,3 +81,7 @@ Later I might include the lists, once I actually gotten into using them better, 
 ## Thanks!
 
 Anyhow, Chris gave me a big head-start getting the results I wanted. So a big thank you goes out to him.
+
+## Get started
+
+- [Get Tweetledee on Github](http://chrissimpkins.github.io/tweetledee/)
