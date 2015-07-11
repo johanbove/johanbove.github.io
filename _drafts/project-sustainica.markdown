@@ -12,13 +12,25 @@ A website built on top of the Zeppelin template (Github Link) which applies Jeky
 ## About Zeppelin
 
 Introduction of the templating tool and how it works.
+(Check the GitHub repository)
 
 ## Using git.geekli.st as code repository
 
 - Introduction on the code repository used.
-- Issues
+- Issues: creating, editing, emojies, assigning to users
+- Commenting
+- Commit annotation and comparison
+- Milestones
+- Labels: bug, content, feature, installation, layout, major, minor, patch, tweaks, not doing
 - Commits
-- Graphs
+- Branching & merging
+- RSS feed to e-mail through IFTTT integration.
+- Tags and releases
+- Not possible to upload files through the GitLab interface [GitLab issue](http://feedback.gitlab.com/forums/176466-general/suggestions/5867835-allow-file-upload-to-repositories-from-the-web-int)
+
+## Next: Web Hooks
+
+Currently I'm still manually FTP-ing the *deployed* site to the hosting server. I would like to automatise this process by building the site on a server which then will copy the compiled files to the FTP server.
 
 ## Software used
 
@@ -29,11 +41,22 @@ Introduction of the templating tool and how it works.
 
 ## Using Git
 
-- Windows powershell and Git for Windows
-- Tagging
+- Windows powershell and Git for Windows; fixing some issues with dealing with Git in Github Git bash console
+- Tagging: before I figured I can use NPM version I did manual ``git tag -a v1.4 -m "my version 1.4"`` [manual](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- ``git push origin master``
+
+## Google Structured Data
+
+- https://developers.google.com/structured-data/rich-snippets/events
 
 ## Using Grunt
 
-- Building the site and execution the various optimizations: SVGMIN, Imagemin, JS Uglifier, etc.
-- Deployment
+- Building the site and execution the various optimizations: SVGMIN, Imagemin, Uglifier, etc.
+- Deployment with grunt; running grunt tasks
 - Configuration file example...
+- NPM version: ``npm version major minor patch -m "Upgrade to version %s for ..."``
+
+## Things I learned
+
+- For loops, data lists and conditional statements in Shopify's Liquid template language
+- Bootstrap's grid CSS layout system
