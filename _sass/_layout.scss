@@ -1,12 +1,13 @@
 @include media-query-min($on-laptop) {
     body.fix-header {
         .site-header {
+            height: 100px;
             position: fixed;
             width: 100%;
             z-index: 1;
         }
         .page-content {
-            padding-top: 200px;
+            padding-top: 110px;
         }
     }
 }
@@ -95,11 +96,10 @@
 .site-title {
     
     display: inline-block;
-    max-width: 350px;
-    position: relative;
     
     @include media-query-min($on-laptop) {
-        top: -$spacing-unit;
+        top: 15px;
+        position: absolute;
     }
     
     a {
@@ -123,16 +123,12 @@
             color: $text-color;
         }
 
-        @include media-query($on-laptop) {
-            max-width: 50%;
-        }
-
     }
 }
 
 .site-nav {
     
-    padding: $spacing-unit / 2 $spacing-unit;
+    padding: 10px 20px;
     background-color: rgba(0, 0, 0, 0.5);
     margin-left: -$spacing-unit;
     
@@ -187,15 +183,17 @@
         }
 
         .page-link {
+            border: none;
             display: block;
             padding: 5px 10px;
         }
+        
     }
     
-    @include media-query($on-palm) {
-        .page-link {
-            border: none;
-        }
+    @include media-query-min($on-laptop) {
+        margin-left: 125px;
+        top: -80px;
+        position: relative;
     }
     
 }
