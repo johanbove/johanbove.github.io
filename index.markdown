@@ -32,6 +32,3 @@ Easiest way to connect with me is through [Google+](//plus.google.com/u/0/+Johan
 If you're interested in working with me, check-out my public resume on [LinkedIn](//de.linkedin.com/in/johanbove) or just drop me a note.
 
 [More about myself](/about)
-
-
-*By the way:* The [source of this site](https://github.com/johanbove/johanbove.github.io) can be found on [GitHub](https://github.com), so if you encounter something funny please let me know! :fire: :fireworks: :fire_engine:
