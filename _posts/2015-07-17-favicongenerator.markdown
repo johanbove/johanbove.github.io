@@ -163,26 +163,30 @@ The *manifest.json" is used to define [installable web apps for Chrome on Androi
 
 To see what's going on behind the scenes in Internet Explorer I Loaded up a simple Python HTTP web server in a command window using the command: ``python -m SimpleHTTPServer``.
 
-When you start this server in the folder of the my test site you can monitor the HTTP traffic in the console.
+When you start this server from within the folder of the your test site you can monitor the HTTP traffic in the console.
 
-This was the output when I checked my HTML page in Internet Explorer and the "touch" Internet Explorer:
+This was the output when I checked my HTML page in Internet Explorer and the "touch/modern" Internet Explorer:
 
 ```
 127.0.0.1 - - [17/Jul/2015 11:35:21] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:35:21] "GET /res/js/jquery.min.js HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:35:21] "GET /res/fonts/DINWeb.eot? HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:35:21] "GET /res/images/login-page.svg HTTP/1.1" 200 -
+
 // Initially this icon was loaded
 127.0.0.1 - - [17/Jul/2015 11:35:21] "GET /android-icon-192x192.png HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:35:21] "GET /res/images/sprite-main.svg HTTP/1.1" 200 -
+
 // Adding the site to "apps" loaded the favicon.ico
 127.0.0.1 - - [17/Jul/2015 11:37:25] "GET /favicon.ico HTTP/1.1" 200 -
-// Opened the site in Internet Explorer "metro"
+
+// Opened the site in Internet Explorer "metro/modern"
 127.0.0.1 - - [17/Jul/2015 11:39:56] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:39:56] "GET /res/js/jquery.min.js HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:39:56] "GET /res/fonts/DINWeb.eot? HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:39:56] "GET /res/images/login-page.svg HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jul/2015 11:39:56] "GET /res/images/sprite-main.svg HTTP/1.1" 200 -
+
 // This ms-icon was loaded for "add a favorit" and "pin to start"
 127.0.0.1 - - [17/Jul/2015 11:39:57] "GET /ms-icon-144x144.png HTTP/1.1" 200 -
 
