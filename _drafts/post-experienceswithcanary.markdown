@@ -8,7 +8,7 @@ categories: blog
 
 ## Introduction
 
-- [http://canary.is]()
+- [http://canary.is](http://canary.is)
 - Refer to the Indiegogo campaign. How did it all get started?
 
 ### What is the Canary home security device? What does it do?

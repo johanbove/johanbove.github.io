@@ -1,18 +1,21 @@
 ---
 layout: post
 title: "Playing with Yaml frontmatter"
-categories: blog
+desc: "Introducing Jekyll and Yaml and Liquid Templates"
+categories: presentation
 ---
 
 # Playing with Yaml frontmatter
 
 > But I should probably first learn more about [Yaml Frontmatter](http://jekyllrb.com/docs/frontmatter/)
 
-- Front matter
+- [Front matter](http://jekyllrb.com/docs/frontmatter/)
 - [Liquid Templates](https://wiki.github.com/shopify/liquid/liquid-for-designers)
 - [Collections](http://jekyllrb.com/docs/collections/)
 
 # What is Yaml?
+
+
 
 ## What happened to Clark C. Evans, maintainer of Yaml?
 
