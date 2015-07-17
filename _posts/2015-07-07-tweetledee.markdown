@@ -57,7 +57,7 @@ Next I followed the clear instructions on the Tweetledee site to create a [Twitt
 
 ## JavaScript
 
-When Tweetledee worked fine, I then continued the integration into my site by writing up [a simple JavaScript program](https://gist.github.com/johanbove/f6f88fd6b65d01c6e257) which would load my tweets through JSON requests and parse out the contents in HTML which I could then style with some CSS.
+When Tweetledee worked fine, I then continued the integration into my site by writing up [a simple JavaScript program](https://gist.github.com/johanbove/f6f88fd6b65d01c6e257) which implements [jQuery's](http://api.jquery.com/jquery.getjson/) ``jQuery.getJSON()``, to load the tweets using JSON formatted requests and parse out the contents in HTML which I could then style with some CSS.
 
 See the code below:
 
