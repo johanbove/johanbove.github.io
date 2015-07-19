@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to upload files from an USB-drive to Dropbox"
+title: "Uploading files to Dropbox from an USB-drive"
 categories: blog
 ---
 
