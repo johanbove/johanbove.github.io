@@ -6,7 +6,7 @@ categories: blog
 
 ## How to add favicons to your site
 
-To be honest, this post will not explain you in depth how [Dan](http://www.danstools.com/)'s script turns your beautiful image uploads into all those separate little files in exactly the right dimensions; I'm guessing [imageMagick](http://www.imagemagick.org/) has something to do with; No, this article will explain you what you need to do after actually using his image generator.
+To be honest, this post will not explain you in depth how [Dan](http://www.danstools.com/)'s script turns your beautiful image uploads into all those separate little files in exactly the right dimensions; I'm guessing [imageMagick](http://www.imagemagick.org/) has something to do with it; No, this article will explain you what you need to do after actually using his image generator.
 
 So if you want to make your site's favicon show up nicely in all browsers, including Windows 8`s start screen and Android Chrome's "add to homescreen", then this post should be interesting.
 
