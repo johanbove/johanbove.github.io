@@ -20,7 +20,7 @@ To control how the tweets would show up on my site, I knew I needed an applicati
 
 ## How I found Tweetledee
 
-The talented team of [GDG Kiev](http://lviv.gdg.org.ua/) had created this excellent template for [their GDG DevFest 2014](http://gdg-x.github.io/zeppelin-grunt/) event and I noticed that they had integrated Tweets into their "cover" home page. Since they were so nice to open-source [the whole site on Github](https://github.com/gdg-x/zeppelin-grunt), I saw they had implemented Tweetledee!
+The talented team of [GDG Lviv](http://lviv.gdg.org.ua/) had created this excellent template for [their GDG DevFest 2014](http://gdg-x.github.io/zeppelin-grunt/) event and I noticed that they had integrated Tweets into their "cover" home page. Since they were so nice to open-source [the whole site on Github](https://github.com/gdg-x/zeppelin-grunt), I saw they had implemented Tweetledee!
 
 So I did a quick search and found the [Tweetledee Github page](http://chrissimpkins.github.io/tweetledee/). I learned that Tweetledee is a PHP library made by Chris Simpkins ([@csimpkins](http://twitter.com/csimpkins)) together with various contributors, always a good sign of project quality.
 
