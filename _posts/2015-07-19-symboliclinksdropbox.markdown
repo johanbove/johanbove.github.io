@@ -20,7 +20,7 @@ Luckily Windows allows you to make a symbolic link between the real location of 
 
 ## The commands
 
-All commands are required to be run them with elevated priviliges, so shift-click the "cmd" application and select "run as administrator" if your current user is part of the administrators group.
+All commands are required to be executed with elevated priviliges, so shift-click the "cmd" application and select "run as administrator" if your current user is part of the administrators group.
 
 First step: make a connection from the external folder location in Windows:
 
