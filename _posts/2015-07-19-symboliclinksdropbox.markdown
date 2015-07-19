@@ -32,7 +32,7 @@ The syntax is: ``mklink [options] <Link> <Target>``, Target is the file/folder t
 
 So my command looked like this:
 
-    mklink /d "C:\Users\Johan\Dropbox\Johan\My Music" "z:\My Music"
+    mklink /d "C:\Users\Johan\Dropbox\My Files" "z:\My Files"
 
 And presto, Dropbox is now uploading the files from your external location into your Dropbox folder of choice. :crystal_ball:
 
