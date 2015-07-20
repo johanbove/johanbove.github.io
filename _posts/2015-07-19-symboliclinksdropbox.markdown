@@ -36,6 +36,21 @@ So my command looked like this:
 
 And presto, Dropbox is now uploading the files from your external location into your Dropbox folder of choice. :crystal_ball:
 
+## Deleting the symbolic link folder
+
+So when Dropbox is done uploading the files to the cloud, you might want to remove the symbolic link from your computer.
+
+There's a catch however since Dropbox will sync the deletion of the folder as soon as it detects it. So you'll need to do a couple of more steps to keep your files save.
+
+1. Go to [www.dropbox.com](www.dropbox.com) and create a new folder using the web client. You'll keep the newly uploaded files here.
+2. On your computer: use DropBox's "selective sync" to disable synchronizing this new folder.
+3. Move all the files to the new folder using the Dropbox web site: Select "Move...".
+4. You can now pause the DropBox client on your computer.
+5. Once the Dropbox client is pauzed, remove the "symbolic link" folder by simply deleting it using Windows Explorer. The physical files on the original location should be fine.
+6. Unpauze Dropbox on your local machine and let it synchronize the deletion of the symbolic link.
+
+After these steps you should have all your USB files in the cloud.
+
 ## Sources:
 
 - [http://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/](http://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/)
