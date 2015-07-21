@@ -6,7 +6,7 @@ categories: blog
 
 # Use a symbolic link to the external folder to upload files into Dropbox
 
-*Disclaimer: The following proces worked on DropBox version 3.6.8 on Windows 8.1 Pro. Execute the commands below at your own risk. There is a change you will lose data if you make a mistake. This technique probably also works with Microsoft OneDrive and Google Drive, but was not tested by me.*
+*Disclaimer: The following proces worked on DropBox version 3.6.9 on Windows 8.1 Pro. Execute the commands below at your own risk. There is a change you will lose data if you make a mistake. This technique probably also works with Microsoft OneDrive and Google Drive, but was not tested by me.*
 
 ## So how do you create such a link?
 
@@ -22,11 +22,13 @@ Luckily Windows allows you to make a symbolic link between the real location of 
 
 All commands are required to be executed with elevated priviliges, so shift-click the "cmd" application and select "run as administrator" if your current user is part of the administrators group.
 
-First step: make a connection from the external folder location in Windows:
+*First step:* make a connection from the external folder location in Windows:
 
-    net use z: \\external\location
+    net use z: "\\external\location"
 
-Next: create the symbolic link for this location to your DropBox folder:
+Tip: use double quotes on the external paths if you have spaces in your folder names!
+
+*Next:* create the symbolic link for this location to your DropBox folder:
 
 The syntax is: ``mklink [options] <Link> <Target>``, Target is the file/folder that exists, and Link is the created one that links to the target.
 
