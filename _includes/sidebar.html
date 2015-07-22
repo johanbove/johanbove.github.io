@@ -1,6 +1,5 @@
 <div class="box">    
-    <h3>From the blog</h3>    
-    <!-- Need to limit to just three -->
+    <h3>From the blog</h3>
     <ul class="post-list">
     {% for post in site.categories.blog limit:5 %}
       <li>
@@ -12,21 +11,11 @@
 
 <div class="box">    
     <h3>Respects</h3>    
-    <!--<a href="https://developers.google.com/groups/chapter/107373371386267684213/">+GDG Düsseldorf</a>-->
-    <script src="https://apis.google.com/js/platform.js" async defer></script>
-    <div class="g-community" data-href="https://plus.google.com/communities/113782579160655007812" data-theme="dark" data-width="180"></div>
+    <a href="https://plus.google.com/communities/113782579160655007812">+GDG Düsseldorf</a>   
 </div>
 
 <div class="box follow-buttons">
     <h3>Get Updates</h3>
-    <!-- https://dev.twitter.com/web/follow-button -->
-    <a class="twitter-follow-button" href="https://twitter.com/johanbove" data-size="large" data-show-count="false">Follow @johanbove</a>
-    <!-- https://developers.google.com/+/web/badge/ -->
-    <a class="googleplus-follow-button" href="//plus.google.com/u/0/114229813947703613217?prsrc=3"
-   rel="publisher" target="_top" style="text-decoration:none;display:inline-block;color:#fff;text-align:center;font:13px/16px arial,sans-serif;white-space:nowrap;border:none;">
-<img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;"/><br /><br />
-<span style="font-weight:bold;">+JohanBové</span><br /><span>on Google+</span>
-</a>
+    <a class="twitter-follow-button" href="https://twitter.com/johanbove" title="Twitter">@johanbove</a>
+    <a class="googleplus-follow-button" href="//plus.google.com/u/0/114229813947703613217?prsrc=3" title="Google+">+JohanBové</a>
 </div>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
