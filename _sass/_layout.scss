@@ -314,7 +314,7 @@
     }
     
     section[role="main"] > h1 {
-        color: $grey-color;
+        color: $brand-color;
         margin-bottom: $spacing-unit;
     }
     
@@ -547,16 +547,7 @@ sidebar {
     
     .box {
         padding: $spacing-unit / 3;
-        margin-bottom: $spacing-unit / 2;
-        
-        &.follow-buttons {
-            a {
-                margin: $spacing-unit;
-                display: block;
-                text-align: center;
-            }
-        }
-        
+        margin-bottom: $spacing-unit / 2;        
     }
 
     .post-list > li {
