@@ -114,10 +114,7 @@ $(function () {
                     
                 }
                 
-                $("<div/>", {
-                    "class": targetClass,
-                    html: items
-                }).appendTo($target);
+                $("<div/>", { "class": targetClass }).append(items).appendTo($target);
                 
             };
         
