@@ -3,7 +3,7 @@
     <ul class="post-list">
     {% for post in site.categories.blog limit:5 %}
       <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"{% if post.lang != null %} lang="{{ post.lang }}"{% endif %}>{{ post.title }}</a>
       </li>
     {% endfor %}
     </ul>    

@@ -14,7 +14,7 @@ Sharing my thoughts here as a way to perform some self-reflection. Also sharing 
       <li>
         <h2>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"{% if post.lang != null %} lang="{{ post.lang }}"{% endif %}>{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
