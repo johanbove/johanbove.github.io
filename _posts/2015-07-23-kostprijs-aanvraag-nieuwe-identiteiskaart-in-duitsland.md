@@ -3,6 +3,7 @@ layout: post
 title: "Wat kost een nieuwe Belgische identiteiskaart in Duitsland?"
 categories: blog
 lang: nl_BE
+desc: "De kostprijs voor het versturen van een brief in Duitsland is duurder geworden"
 ---
 
 ## Even een rechtzetting...
