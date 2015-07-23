@@ -7,7 +7,7 @@
             z-index: 1;
         }
         .page-content {
-            padding-top: 103px;
+            padding-top: 120px;
         }
     }
 }
@@ -40,8 +40,8 @@
 .wrapper {
     position:  relative;
     &.box {
-        background-color: $contentbox-color;
-        border: 1px solid #0E0412;
+        //background-color: $contentbox-color;
+        //order: 1px solid #0E0412;
         padding: $spacing-unit / 2 $spacing-unit 0;
     }
 }
@@ -482,14 +482,14 @@
 .page-content a,
 .site-footer a {
     @include transition(all 0.3s linear);
-    border-bottom: 2px ridge rgba(243, 243, 152, 0.5);
+    border-bottom: 2px ridge rgba(243, 243, 152, 0.25);
     border-radius: 5px;
     text-decoration: none;
     opacity: 0.95;
     padding: 2px 4px;
     
     &:hover {
-        border-bottom: 2px ridge rgba(243, 243, 152, 1);
+        border-bottom: 2px ridge rgba(243, 243, 152, 0.5);
         opacity: 1;
     }
     
