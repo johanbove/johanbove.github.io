@@ -38,6 +38,40 @@ $(function () {
             },
 
             /**
+             * @param {object} tweet
+             */
+            renderEntitiesURLS = function (tweet) {
+                var i,
+                    len,
+                    url,
+                    text = tweet.text;
+                if (tweet.entities && tweet.entities.urls) {
+                    for (i = 0, len = tweet.entities.urls.length; i < len; i += 1) {
+                        url = tweet.entities.urls[i];
+                        text = tweet.text.replaceBetween(url.indices[0], url.indices[1], url.expanded_url);
+                    }
+                }
+                return text;
+            },
+            
+            /**
+             * @param {object} tweet
+             */
+            renderEntitiesIMGS = function (tweet) {
+                var i,
+                    len,
+                    media,
+                    output = "";
+                if (tweet.entities && tweet.entities.media) {
+                    for (i = 0, len = tweet.entities.media.length; i < len; i += 1) {
+                        media = tweet.entities.media[i];
+                        output += '<img src="' + media.media_url + '" alt="' + media.display_url + '" />';
+                    }
+                }
+                return output;
+            },
+            
+            /**
              * @param {array} data
              * @param {object} options
              */
@@ -50,43 +84,9 @@ $(function () {
                     i,
                     len,
                     tweet,
-                    content,
-                    author,
-                    images,
-                    
-                    /**
-                     * @param {object} tweet
-                     */
-                    renderEntitiesURLS = function (tweet) {
-                        var i,
-                            len,
-                            url,
-                            text = tweet.text;
-                        if (tweet.entities && tweet.entities.urls) {
-                            for (i = 0, len = tweet.entities.urls.length; i < len; i += 1) {
-                                url = tweet.entities.urls[i];
-                                text = tweet.text.replaceBetween(url.indices[0], url.indices[1], url.expanded_url);
-                            }
-                        }
-                        return text;
-                    },
-                    /**
-                     * @param {object} tweet
-                     */
-                    renderEntitiesIMGS = function (tweet) {
-                        var i,
-                            len,
-                            media,
-                            output = "";
-                        if (tweet.entities && tweet.entities.media) {
-                            for (i = 0, len = tweet.entities.media.length; i < len; i += 1) {
-                                media = tweet.entities.media[i];
-                                output += '<img src="' + media.media_url + '" alt="' + media.display_url + '" />';
-                            }
-                        }
-                        return output;
-                    };
-                    
+                    $content,
+                    $author,
+                    $images;
 
                 for (i = 0, len = data.length; i < len; i += 1) {
                     
@@ -98,19 +98,19 @@ $(function () {
                     tweet.text = renderEntitiesURLS(tweet);
                     tweet.images = renderEntitiesIMGS(tweet);
                     
-                    content = $("<div/>", {
+                    $content = $("<div/>", {
                         "class": "content"
                     }).html('&ldquo;' + linkify(tweet.text) + '&rdquo;');
                     
-                    author = $("<div/>", {
+                    $author = $("<div/>", {
                         "class": "author"
                     }).html('~ <a href="https://twitter.com/' + tweet.user.screen_name + '">@' + tweet.user.screen_name + '</a> (<a href="https://twitter.com/' + tweet.user.screen_name + '/status/' + tweet.id_str + '">tweet</a>)');
                     
-                    images = $("<div/>", { "class": "images" }).html(tweet.images);
+                    $images = $("<div/>", { "class": "images" }).html(tweet.images);
                     
                     items.push($("<blockquote/>", {
                         "id": "tweet-" + tweet.id
-                    }).append(content, images, author));
+                    }).append($content, $images, $author));
                     
                 }
                 
