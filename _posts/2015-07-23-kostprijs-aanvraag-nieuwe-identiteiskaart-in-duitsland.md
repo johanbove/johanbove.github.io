@@ -45,6 +45,10 @@ De totale kostprijs voor aanvraag nieuwe Belgische identiteitskaart in Duitsland
 
 Ik heb de juiste informatie dan ook maar aan *Berlin@diplobel.fed.be* gemeld.
 
+## Nuttige informatie: Uw identiteit is waardevol !
+
+Bij verlies of diefstal van uw identiteitskaart, roep onmiddellijk het gratis nummer "DocStop" **00800 2123 2123 (24u/24)** om het document te laten blokkeren tegen bedrieglijk gebruik; in geval van diefstal, leg een verklaring bij de politie af; vraag daarna een nieuwe kaart aan. 
+
 ## Bronnen
 
 De kostprijs voor het versturen van een brief in Duitsland:
