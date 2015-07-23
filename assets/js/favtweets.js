@@ -32,7 +32,7 @@ $(function () {
                     profileLinks = /\B@([\w-]+)/gm;
                 replacedText = inputText.replace(links1, '<a href="$1" target="_blank">$1</a>');
                 replacedText = replacedText.replace(links2, '$1<a href="http://$2" target="_blank">$2</a>');
-                replacedText = replacedText.replace(hashtags, '<a href="https://twitter.com/search?q=%23$1" target="_blank">#$1</a>');
+                //replacedText = replacedText.replace(hashtags, '<a href="https://twitter.com/search?q=%23$1" target="_blank">#$1</a>');
                 replacedText = replacedText.replace(profileLinks, '<a href="https://twitter.com/$1" target="_blank">@$1</a>');
                 return replacedText;
             },
@@ -92,7 +92,7 @@ $(function () {
                     
                     tweet = data[i];
                     
-                    //console.info("tweet", tweet);
+                    console.info("tweet", tweet);
                     //console.info("entities", tweet.entities);
                     
                     tweet.text = renderEntitiesURLS(tweet);
