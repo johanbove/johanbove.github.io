@@ -17,12 +17,11 @@ body=""
 read -d '' body <<EOF
 ---
 layout: post
-title: $title
-categories: 
-  - 
+title: "$title"
+categories: blog
 ---
 
 EOF
 
 echo "$body" > $post
-#subl . $post
+brackets . $post
