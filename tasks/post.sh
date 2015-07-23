@@ -24,4 +24,4 @@ categories: blog
 EOF
 
 echo "$body" > $post
-brackets . $post
+brackets $post
