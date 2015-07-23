@@ -3,6 +3,7 @@ layout: post
 title:  "Treinramp te Wetteren in kaart"
 date:   2013-05-05 17:24:46
 categories: blog
+lang: nl_BE
 ---
 
 > This post is in Dutch because it relates to an event which happened in Flanders, Belgium
