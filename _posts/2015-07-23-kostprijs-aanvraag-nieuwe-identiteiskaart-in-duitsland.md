@@ -26,7 +26,7 @@ Hieronder een rekensommetje voor de juiste totale kostprijs voor het versturen v
 ### De juiste kostprijs
 
 | + 20,00    | Kost voor het maken van de kaart |
-| + 3,95     | Portokosten voor een aangetekende brief: "Einschreiben mit Rückschein" |
+| + 3,95     | Portokosten voor een aangetekende brief: "Einschreiben" |
 | + 0,62     | Portokosten voor het versturen van de puk brief |
 | **€ 24,57**  | |
 
@@ -36,13 +36,13 @@ Persoonlijk heb ik dan ook nog volgende kosten moeten betalen:
 
 | + 6,00     | Düsseldorf "Aufenthaltsbescheinigung" |
 | + 6,00     | Biometrische pasfotos |
-| + 3.95     | Aangetekend versturen van alle documenten naar Berlijn |
-| **€ 15,95**  | |
+| + 5,40     | Aangetekend versturen van alle documenten naar Berlijn |
+| **€ 17,40**  | |
 
 
 ### Totale Kostprijs
 
-De totale kostprijs voor aanvraag nieuwe Belgische identiteitskaart in Duitsland: **€40,52**
+De totale kostprijs voor aanvraag nieuwe Belgische identiteitskaart in Duitsland: **€41,97**
 
 Ik heb de juiste informatie dan ook maar aan *Berlin@diplobel.fed.be* gemeld.
 
