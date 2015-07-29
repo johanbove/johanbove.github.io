@@ -21,5 +21,11 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta name="application-name" content="{{ site.title }}">
+    <meta name="msapplication-TileColor" content="{{ site.themeColor }}"/>
+    <meta name="msapplication-square70x70logo" content="tiny.png"/>
+    <meta name="msapplication-square150x150logo" content="square.jpg"/>
+    <meta name="msapplication-wide310x150logo" content="wide.jpg"/>
+    <meta name="msapplication-square310x310logo" content="large.jpg"/>
+    <meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=5; cycle=1"/>
     <style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
 </head>
