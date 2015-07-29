@@ -20,5 +20,6 @@
     <meta name="theme-color" content="{{ site.themeColor }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="application-name" content="{{ site.title }}">
     <style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
 </head>
