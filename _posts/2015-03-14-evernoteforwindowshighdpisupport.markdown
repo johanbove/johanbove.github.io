@@ -16,8 +16,8 @@ Pretty impressive form of instant search results, although not perfect since it 
 
 ## Related links
 
-- [https://evernote.com/context/faq/]()
-- [https://discussion.evernote.com/topic/80261-high-dpi-and-touch-support-request-for-windows-desktop-app/]()
+- [https://evernote.com/context/faq/](https://evernote.com/context/faq/)
+- [https://discussion.evernote.com/topic/80261-high-dpi-and-touch-support-request-for-windows-desktop-app/](https://discussion.evernote.com/topic/80261-high-dpi-and-touch-support-request-for-windows-desktop-app/)
 
 ## Screenshot
 

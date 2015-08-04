@@ -42,7 +42,7 @@ With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of
 - Streaming music on [Deezer](http://www.deezer.com) and [Radio Paradise](http://www.radioparadise.com).
 - [Google Photos](http://google.com/photos) for picture management.
 - [Google+](http://plus.google.com) for the communities, eg. GDG Düsseldorf.
-- At work we use [Basecamp](http://www.basecamp.com) and [Microsoft Visual Studio Online](http://www.visualstudio,com) and I read my work email over VPN using Outlook web mail.
+- At work we use [Basecamp](http://www.basecamp.com) and [Microsoft Visual Studio Online](http://www.visualstudio.com) and I read my work email over VPN using Outlook web mail.
 
 ### Apps I tried once, but wasn't really into (yet)
 

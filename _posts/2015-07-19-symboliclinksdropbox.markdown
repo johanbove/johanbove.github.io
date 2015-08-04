@@ -44,7 +44,7 @@ So when Dropbox is done uploading the files to the cloud, you might want to remo
 
 There's a catch however since Dropbox will sync the deletion of the folder as soon as it detects it. So you'll need to do a couple of more steps to keep your files save.
 
-1. Go to [www.dropbox.com](www.dropbox.com) and create a new folder using the web client. You'll keep the newly uploaded files here.
+1. Go to [www.dropbox.com](http://www.dropbox.com) and create a new folder using the web client. You'll keep the newly uploaded files here.
 2. On your computer: use DropBox's "selective sync" to disable synchronizing this new folder.
 3. Move all the files to the new folder using the Dropbox web site: Select "Move...".
 4. You can now pause the DropBox client on your computer.

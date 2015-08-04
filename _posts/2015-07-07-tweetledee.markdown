@@ -30,7 +30,7 @@ It looked easy to set up and offered exactly what I needed, plus on top of that 
 
 So I planned to use the Tweetledee application on a subdomain on my hosting account, so it would be nice and snug in it's own environment.
 
-After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), I had to set my newly created [Twitter App consumer keys](https://apps.twitter.com/app/new) in the designated PHP file and I was good to go. 
+After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), I had to set my newly created [Twitter App consumer keys](https://apps.twitter.com/) in the designated PHP file and I was good to go. 
 
 I then transfered all Tweetledee files using my [favourite FTP client FileZilla](https://filezilla-project.org/) to my web space and *Bob's your uncle*.
 

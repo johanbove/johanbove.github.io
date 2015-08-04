@@ -32,7 +32,7 @@ The attendees voted for these projects.
 | Rank      | Project | Votes | Links | 
 |:----------|:--------|-------|:------|
 | 1st | “OpenGrill” by Fritz Elles & Alex Kruck-Kneip | 38.3% | [code](https://github.com/FedericoElles/opunguriru) [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000) |
-| 2nd | “Refresh!” by Nenad Natošević & Ognjen Mihajlović | 23.4% | [code](https://bitbucket.org/Tricky/refresh-mobile) [presentation](https://docs.google.com/presentation/d/1Rpo6OKqC4PqpHIi1E7gQdSfnAdX1pc2jpCz2yf1eXd8/) |
+| 2nd | “Refresh!” by Nenad Natošević & Ognjen Mihajlović | 23.4% | [presentation](https://docs.google.com/presentation/d/1Rpo6OKqC4PqpHIi1E7gQdSfnAdX1pc2jpCz2yf1eXd8/) |
 | 3rd | “FREIRAUM” by Georg Bednorz | 14.9% | [presentation](http://de.slideshare.net/GeorgBednorz/freiraum-georg-bednorz) |
 
 ## Best Code

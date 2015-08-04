@@ -20,7 +20,7 @@ So I understand from Richard's excellent thoughts that Node.JS is still alive an
 
 ## Getting started with Express.JS
 
-Going for the official documents first of course: [http://expressjs.com/starter/](http://expressjs.com/starter/)
+Going for the official documents first of course: [http://expressjs.com/](http://expressjs.com/)
 
 ## Application ideas to start with
 
