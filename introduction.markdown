@@ -26,6 +26,7 @@ I am perpetually online exploring the zest of the Web in all its interactive fac
 - Rides his bicycle to work whenever he can.
 - Flosses at least six times a week.
 - Is capable of applying a thesaurus to seem smarter in online profile introductions.
+- Has been building websites since 1998
 
 ## Favorite Quotes
 
