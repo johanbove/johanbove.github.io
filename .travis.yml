@@ -7,8 +7,9 @@ script: ./script/cibuild
 # branch whitelist
 branches:
   only:
-  - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
+  - master
+  #- gh-pages     # test the gh-pages branch
+  #- /pages-(.*)/ # test every branch which starts with "pages-"
 
 env:
   global:
