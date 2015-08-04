@@ -31,3 +31,4 @@ evernote_username: "joe-1"
 keybase_username: "johanbove"
 birthyear: 1980
 themeColor: "#0E0412"
+exclude: [vendor]
