@@ -17,7 +17,7 @@ I am perpetually online exploring the zest of the Web in all its interactive fac
 - I'm not a very graphical guy, as you might have guessed. Nonetheless I do like [cool pictures](http://1drv.ms/1Oxc4iF).
 - I used to DJ on a weekly basis in and around Wetteren where I was once part of the PartyOn DJ Squad.
 - I have more than [30.000 scrobbles on Last.FM](http://www.last.fm/user/Joe-1).
-- I walked over [8.000 km wearing a FitBit band](https://www.fitbit.com/user/26B3ZT).
+- I walked over [8.000 km wearing a FitBit band](https://www.fitbit.com/user/26B3ZT) and once more than 100km within 24 hours... for fun!
 
 ## My bragging rights
 
