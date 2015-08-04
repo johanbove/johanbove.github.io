@@ -38,7 +38,7 @@ With extensions and apps like Evernote, Pocket, PushBullet and Google's suite of
 - [Trello](http://www.trello.com) for project and personal planning, although I rely mostly on Evernote's "reminders" feature still.
 - [Pocket](http://getpocket.com) for news reading.
 - [Duolingo](http://www.duolingo.com) to improve my German and learn Italian.
-- [Kahn Academy]() for all sorts of studying, currently improving my math skills.
+- [Kahn Academy](https://www.khanacademy.org/) for all sorts of studying, currently improving my math skills.
 - Streaming music on [Deezer](http://www.deezer.com) and [Radio Paradise](http://www.radioparadise.com).
 - [Google Photos](http://google.com/photos) for picture management.
 - [Google+](http://plus.google.com) for the communities, eg. GDG Düsseldorf.
