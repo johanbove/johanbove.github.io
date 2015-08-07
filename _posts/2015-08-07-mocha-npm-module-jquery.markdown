@@ -4,9 +4,13 @@ title: "Mocha NPM TEST jquery module not loading"
 categories: blog
 ---
 
-# Help needed!
+# Lessons learned: keep your dependencies up-to-date
 
-This post describes an issue I am currently encountering with trying to run mocha unit tests from the command line. When I run the tests from the browser everything is fine. But when I run the same tests from the command line on my local machine using `npm test` or `mocha`, npm seems to have trouble finding the "jquery" module.
+This post describes an issue I had with trying to run mocha unit tests from the command line. When I run the tests from the browser everything is fine. But when I run the same tests from the command line on my local machine using `npm test` or `mocha`, npm seems to have trouble finding the "jquery" module.
+
+## The solution
+
+I had jQuery version *1.9.1* previously installed. I changed the dependency in *package,json* to load version *1.11.3* and performed the command `npm update`and now `require` is able to load in *jQuery*. :smiley:
 
 ## Description
 
