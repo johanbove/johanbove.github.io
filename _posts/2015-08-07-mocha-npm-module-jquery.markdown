@@ -23,7 +23,7 @@ Ran `npm list` shows *jquery* is there:
 Brackets folder view of *node_modules* shows *jquery* is there:
 [![Screenshot: brackets folder view of node_modules shows jquery is there](/images/20150807-screenshot05.png)](/images/20150807-screenshot05.png)
 
-My test depends on `var $ = require(jquery);`:
+My test depends on `var $ = require('jquery');`:
 [![Screenshot: test require(jquery)](/images/20150807-screenshot03.png)](/images/20150807-screenshot03.png)
 
 My *Mocha.opts* file:
