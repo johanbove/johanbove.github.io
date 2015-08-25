@@ -9,7 +9,7 @@ Just a couple of facts I wanted to share from the last couple of weeks. I promis
 ## Projects
 
 - Got involved with the jQplot open-source project, a JavaScript library for generating graphs. I now have two forks for it. *More to follow*
-- Created the [Sustainica website](http://www.sustainica.org), build upon the LVIV Zeppelin Jekyll template and Grunt. *More to follow*
+- Created the [Sustainica website](http://www.sustainica.org), build upon the Zeppelin Jekyll template and Grunt. *More to follow*
 - Working on these projects I gained more experience with Sass, Jekyll, Grunt, Git, GitHub and generally helping out in open-source software.
 
 ## Social
