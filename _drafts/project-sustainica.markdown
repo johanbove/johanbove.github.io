@@ -47,14 +47,14 @@ Currently I'm still manually FTP-ing the *deployed* site to the hosting server. 
 
 ## Google Structured Data
 
-- https://developers.google.com/structured-data/rich-snippets/events
+- <https://developers.google.com/structured-data/rich-snippets/events>
 
 ## Using Grunt
 
 - Building the site and execution the various optimizations: SVGMIN, Imagemin, Uglifier, etc.
 - Deployment with grunt; running grunt tasks
 - Configuration file example...
-- NPM version: ``npm version major minor patch -m "Upgrade to version %s for ..."``
+- NPM version: ``npm version [major|minor|patch] -m "Upgrade to version %s for ..."``
 
 ## Things I learned
 
