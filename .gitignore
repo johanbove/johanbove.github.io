@@ -2,5 +2,5 @@ _site
 .sass-cache
 .c9
 *.db
-Gemfile.lock
+*.lock
 images/darkbackgroundwithinterestingvectorscienceimages.jpg.crdownload
