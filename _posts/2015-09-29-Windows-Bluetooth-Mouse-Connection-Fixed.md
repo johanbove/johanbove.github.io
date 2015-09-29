@@ -5,17 +5,21 @@ desc: "Setting ChannelAvoidanceRange in the Windows registry to fix interference
 categories: blog
 ---
 
-## Is your BlueTooth mouse losing connection signal with your Surface Pro?
+## Is your BlueTooth mouse freezing occasionally?
 
-Whenever I was at home I experienced occasional dropouts with my BlueTooth mouse, a Microsoft Sculpt mouse. This did not happen at the office where I use the exact same mouse, so I figured this was due to interference at home. Living in the city there are a lot of wireless signals surrounding me, both BlueTooth and WiFi. I figured this must be causing the annoying issue.
+Whenever I am at home I experience occasional dropouts with my BlueTooth mouse, a Microsoft Sculpt mouse. This does not happen at the office where I use the exact same mouse, so I figured this is due to interference at home. Living in the city there are a lot of wireless signals surrounding me, both BlueTooth and WiFi. I figured this must be causing the annoying issue.
 
 Looking for a way to make my Surface Pro 3 and the mouse talk to each other without being interrupted by the signal interference I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx>) which explains how to set the **ChannelAvoidanceRange** in Windows. So that's what I did.
+
+## Did it fix it?
+
+Apparently the issue has not been interily fixed yet. I do still experience occasion Mouse freezes. So I will continue investigating what I can do to fix this. This post gives you a potential solution, but might not work in your situation.
 
 ## Disclaimer
 
 I'm not a Microsoft support partner / engineer. The solution offered here seems to be working for me, but it might not fix your issue. Be careful editing the Windows registry. You can easily screw-up your Windows machine editing the wrong things.
 
-## The Solution: setting a key in the Windows registry
+## A potential Solution: setting a key in the Windows registry
 
 Below you can find the description on how to set the ''ChannelAvoidanceRange'' registry key which for some reason is not set on Surface Pro machines even-though the document states that OEM'S should take care of this. I guess this was a small oversight on Microsoft's side.
 
@@ -28,8 +32,8 @@ In short, this is what I did:
 - Set the value of the key to the decimal value 40.
 - reboot the machine
 
-After the reboot I am no longer experiencing the annoying BlueTooth connection hickups.
-I will keep an eye out of course in case the connection issue returns.
+After the reboot I was no longer experiencing the annoying BlueTooth connection hickups for while.
+But unfortunately I still experience the mouse cursor freezes.
 
 
 ## The original source: How do I enable AFH in Windows?
