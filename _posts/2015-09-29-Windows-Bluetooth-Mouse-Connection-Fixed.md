@@ -2,6 +2,7 @@
 layout: post
 title: "Fixing BlueTooth interruption Woes in Windows"
 desc: "Setting ChannelAvoidanceRange in the Windows registry to fix interference"
+categories: blog
 ---
 
 ## Is your BlueTooth mouse losing connection signal with your Surface Pro?
