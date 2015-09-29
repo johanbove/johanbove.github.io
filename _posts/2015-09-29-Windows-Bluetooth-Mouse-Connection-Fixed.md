@@ -11,19 +11,21 @@ Whenever I am at home I experience occasional dropouts with my BlueTooth mouse, 
 
 Looking for a way to make my Surface Pro 3 and the mouse talk to each other without being interrupted by the signal interference I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx>) which explains how to set the **ChannelAvoidanceRange** in Windows. So that's what I did.
 
-## Did it fix it?
+## Did I fix it?
 
-Apparently the issue has not been interily fixed yet. I do still experience occasional Mouse freezes. So I will continue investigating what I can do to fix this. This post gives you a potential solution, but might not work in your situation.
+Not yet. I still experience occasional Mouse freezes. I will continue investigating what I can do to fix this. This post gives you a potential solution, but might not work in your situation.
 
-## Disclaimer
+## Potential fixes
 
-I'm not a Microsoft support partner / engineer. The solution offered here seems to be working for me, but it might not fix your issue. Be careful editing the Windows registry. You can easily screw-up your Windows machine editing the wrong things.
+- Turn off all the BlueTooth devices in your immediate area; I have a cool, great sounding, portable Urban Ears UE Boom BlueTooth speaker which I use in the living room. By switching it off it seems that my mouse - PC connection is stabler. (more time needed to verify this) 
 
 ## A potential Solution: setting a key in the Windows registry
 
+**Disclaimer:** I'm not a Microsoft support engineer. Be careful editing the Windows registry. You can easily screw-up your Windows machine editing the wrong things. Results may vary.
+
 Below you can find the description on how to set the ''ChannelAvoidanceRange'' registry key which for some reason is not set on Surface Pro machines even-though the document states that OEM'S should take care of this. I guess this was a small oversight on Microsoft's side.
 
-In short, this is what I did:
+The steps to set the registry key:
 
 - Opened up the Windows Registry (with administrator rights)
 - As always when editing the Registry: make sure you have a backup!
@@ -32,8 +34,7 @@ In short, this is what I did:
 - Set the value of the key to the decimal value 40.
 - reboot the machine
 
-After the reboot I was no longer experiencing the annoying BlueTooth connection hickups for while.
-But unfortunately I still experience the mouse cursor freezes.
+After the reboot I was no longer experiencing the annoying BlueTooth connection hickups *for a while*. But that could have had different reasons.
 
 
 ## The original source: How do I enable AFH in Windows?
