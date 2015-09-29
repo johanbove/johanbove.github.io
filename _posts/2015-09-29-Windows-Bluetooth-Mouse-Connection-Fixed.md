@@ -9,7 +9,7 @@ categories: blog
 
 Whenever I am at home I experience occasional dropouts with my BlueTooth mouse, a Microsoft Sculpt mouse. This does not happen at the office where I use the exact same mouse, so I figured this is due to interference at home. Living in the city there are a lot of wireless signals surrounding me, both BlueTooth and WiFi. I figured this must be causing the annoying issue.
 
-Looking for a way to make my Surface Pro 3 and the mouse talk to each other without being interrupted by the signal interference I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx>) which explains how to set the **ChannelAvoidanceRange** in Windows. So that's what I did.
+Looking for a way to make my Surface Pro 3 and the mouse talk to each other without being interrupted by the signal interference I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx) which explains how to set the **ChannelAvoidanceRange** in Windows. So that's what I did.
 
 ## Did I fix it?
 
