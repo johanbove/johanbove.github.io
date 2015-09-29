@@ -13,7 +13,7 @@ Looking for a way to make my Surface Pro 3 and the mouse talk to each other with
 
 ## Did it fix it?
 
-Apparently the issue has not been interily fixed yet. I do still experience occasion Mouse freezes. So I will continue investigating what I can do to fix this. This post gives you a potential solution, but might not work in your situation.
+Apparently the issue has not been interily fixed yet. I do still experience occasional Mouse freezes. So I will continue investigating what I can do to fix this. This post gives you a potential solution, but might not work in your situation.
 
 ## Disclaimer
 
