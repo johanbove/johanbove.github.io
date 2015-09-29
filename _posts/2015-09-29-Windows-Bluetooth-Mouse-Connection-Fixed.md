@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fixing BlueTooth Woes in Windows"
-desc: "Setting ChannelAvoidanceRange in the Windows registry to fix interference"
+title: "Fixing BlueTooth Woes"
+desc: "Causes of BlueTooth interference in homes"
 categories: blog
 ---
 
@@ -9,15 +9,28 @@ categories: blog
 
 Whenever I am at home I experience occasional dropouts with my BlueTooth mouse, a Microsoft Sculpt mouse. This does not happen at the office where I use the exact same mouse, so I figured this is due to interference at home. Living in the city there are a lot of wireless signals surrounding me, both BlueTooth and WiFi. I figured this must be causing the annoying issue.
 
-Looking for a way to make my Surface Pro 3 and the mouse talk to each other without being interrupted by the signal interference I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx) which explains how to set the **ChannelAvoidanceRange** in Windows. So that's what I did.
+I have a cool, great sounding, portable Urban Ears UE Boom BlueTooth speaker which I use in the living room. Switching it off seems my mouse - PC connection is a lot more stable.
+
+Looking for a way to make my Surface Pro 3 and the mouse talk to each other while playing music on the BlueTooth speaker without being interrupted by the signal interference, I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx) which explains how to set the **ChannelAvoidanceRange** in Windows.
 
 ## Did I fix it?
 
-Not yet. I still experience occasional Mouse freezes. I will continue investigating what I can do to fix this. This post gives you a potential solution, but might not work in your situation.
+- Update 13:12 - Since I turned off the UE Boom BlueTooth speaker I no longer suffered the mouse freezes; but it sucks having no music.
+- Update 11:00 - Unfortunately the registry key does not seem to fix the issue.
 
 ## Potential fixes
 
-- Turn off all the BlueTooth devices in your immediate area; I have a cool, great sounding, portable Urban Ears UE Boom BlueTooth speaker which I use in the living room. By switching it off it seems that my mouse - PC connection is stabler. (more time needed to verify this) 
+- Turn off all the BlueTooth devices in your immediate area;
+
+## UE Boom speaker is a major BlueTooth disruptor
+
+Found this post about [bluetooth interfering messing with devices on GoldTouch](http://www.goldtouch.com/stop-bluetooth-interference-messing-devices/):
+
+> *Stephan Osther says: February 1, 2015 at 6:53 AM* - I just got a UE Boom bluetooth speaker, and i am loving it. But i noticed a really big differents in my wifi speed when i am am watching Youtube on my tablet, with the speaker vs without the speaker. So i ran some wifi tests, and found out that without the speaker it gets full signal, 40/20mbit, and with the speaker it goes all the way down to from 10-5mbit or lower! It’s insane. And the distance makes a minor or no differents in the speed. (i live in a tiny apartment)
+
+## What can we do about this?
+
+Not much, except for perhaps moving the speaker further away from my desk and computer.
 
 ## A potential Solution: setting a key in the Windows registry
 
