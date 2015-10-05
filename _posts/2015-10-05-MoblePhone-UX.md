@@ -14,7 +14,7 @@ I really like my Moto X 2013 Android phone because it:
  - is pretty up-to-date running Android 5.1.
  - is not stuffed with bloatware (much - not sure what to do with Moto Alert).
 
- Yet I secretly always wanted a Windows Phone (Lumia 930) as soon as they came out because the camera's on those phones rock and Windows Phone actually kinda looks like it's from the future.
+ Yet I secretly always wanted a Windows Phone (Lumia 930) as soon as they came out because the cameras on those phones rock and Windows Phone actually *kinda* looks like its designers came from the future.
  
  I mean, that UX is so basic, it's just wonderful and superb. The phone is not perfect with some ironically issues with the Phone software; had to deal with this annoying bug when the phone wouldn't hang up after a busy signal for instance.
  
