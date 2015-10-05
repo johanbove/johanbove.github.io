@@ -11,15 +11,15 @@ However I experienced some issues synchronizing hand-written notes in OneNote wh
 
 Since a couple of weeks I have been noticing weird anomalies in Windows Explorer: multiple "Documents" folder showing up, some with files in them, others just empty.
 
-Through my work projects which are mostly NPM projects which rely on nested node_modules I often encountered the 255 character limit in Windows explorer paths.
+Through my work projects which are mostly NPM projects which rely on nested *node_modules* I often encountered the 255 character limit in Windows explorer paths.
 
-This started happening in OneDrive as well yesterday where I would first get the 255 character limit error message and then the "Welcome to OneDrive" window. :unhappy:
+This started happening in OneDrive as well yesterday where I would first get the 255 character limit error message and then the "Welcome to OneDrive" window. :sad:
 
 So what I think what was going on is that OneDrive also has issues with paths longer than 255 characters and stops syncing. It apparently disconnects the session with the OneDrive server since my files had not been synched online since a couple of days ago. And it just bogged out whenever I tried logging back into OneDrive.
 
 I therefore decided to no save files directly to the "Documents" folder within "OneDrive", copying the files from the OneDrive folder to the normal Windows "Documents" folder.
 
-Of course, I encountered multiple error messages and issues doing this. First I was stopped by a "you have not enough rights" error condition where I wast not able to set the target folder of the "My Documents" folder from within the "properties" of Explorer.
+Of course, I encountered multiple error messages and issues doing this. First I was stopped by a *"you have not enough rights"* error condition where I was not able to set the target folder of the *"My Documents"* folder from within the "properties" of Explorer.
 
 Note that I am concerned with security on my machine and have my regular user account set to "normal user" rights. Microsoft and other software makers seem to forget that not everyone using Windows has their account set to "administration" rights. A good practice I learned from dabbling with Ubuntu.
 
@@ -29,14 +29,15 @@ The issue is that I now have my files stored in two locations on the already cra
 
 At the end of the day I am a little confused here.
 
- - Does Microsoft not want its customers on Windows to use OneDrive as the main storage for the their files?
+ - Does Microsoft not want its customers on Windows to use OneDrive as the main storage for important files?
  - Are we supposed to keep the files within the local "My Documents" folder and the OneDrive "Documents" manually in sync?
- - Are we supposed to see OneDrive not as our main storage location, but onle as an **extra** remote folder to share files and make these accessible to others?
+ - Are we supposed to see OneDrive not as our main storage location, but only as an **extra** remote folder to share files and make these accessible to others?
  - Why can't we just make one of our local "My Documents" folders behave like "OneDrive" folders? Why do we need an extra location on our hard drives for OneDrive files?
+ - Why does OneDrive for Windows make it so hard to actually use it?
+ 
+ The recent "developments" in OneDrive in the Windows 10 implementation has taken away lots of its charm: we can't see an file-based overview of files synced in the cloud and on the machine any more for instance. It puzzles me as to why Microsoft removed this previously excellent feature from OneDrive.
 
-Why does OneDrive for Windows make it so hard to actually use it? The recent "developments" in OneDrive in the Windows 10 implementation has taken away lots of its charm: can't see an file-based overview of files synced in the cloud and on the machine. Why did Microsoft remove this excellent feature from OneDrive?
-
-Ever since the name changing fiasco of SkyDrive to OneDrive I believe the quality of this application and service to be very questionable.
+Ever since the name changing fiasco of SkyDrive to OneDrive in Windows 8 I believe the quality of this application and service to be very questionable.
 
 In the end: I wanted to believe in OneDrive as my cloud storage solution, but I just can't trust it due to the above mentioned issues.
 
@@ -47,7 +48,6 @@ It would also be fantastic if Microsoft would clean up the error messages in its
 There are tools for keeping folders in sync of course: SyncToy (free), Beyond Compare (commercial), WineMerge (OpenSource), but why do we need to use more tools on our machines to keep our folders in synce?
 
 **Why is OneDrive more cause for concern than being the file syncing solution Windows needs?**
-
 
 ## Screenshots
 
