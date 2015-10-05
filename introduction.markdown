@@ -7,6 +7,8 @@ desc: "More facts about Johan"
 
 I am perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.
 
+I like science, yet I am not a scientist. I like technology, yet I'm not a technician. I like music, yet I'm not a musician.
+
 [1](http://en.wikipedia.org/wiki/Rifleman%27s_Creed) This is my introduction, there are many others like it, but this one is mine.
 
 ## Facts
