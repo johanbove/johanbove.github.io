@@ -4,7 +4,7 @@ title: "My Phone is an Android Moto-X 2013 - the UX is great"
 categories: blog
 ---
 
-# So my phone is an 2013 Motorola Moto-X
+## So my phone is an 2013 Motorola Moto-X
 
 I really like my Moto X 2013 Android phone because it:
 
