@@ -1,20 +1,28 @@
 ---
 layout: default
 ---
-<div class="post"{% if page.lang != null %} lang="{{ page.lang }}"{% endif %}>
+<div class="flexcontainer post"{% if page.lang != null %} lang="{{ page.lang }}"{% endif %}>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-      <p class="post-meta"><a href="/blog">blog</a> > {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    <section role="main" class="bigitem">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+          <p class="post-meta"><a href="/blog">blog</a> > {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      </header>
 
-  <div class="post-comments">
-    <h2>Comments</h2>
-    {% include disqus.html %}    
-  </div>
+      <article class="post-content">
+        {{ content }}
+      </article>
+
+      <div class="post-comments">
+        <h2>Comments</h2>
+        {% include disqus.html %}
+      </div>
+      
+    </section>
+
+    <sidebar class="smallitem">
+        {% include sidebar.html %}
+    </sidebar>
     
 </div>

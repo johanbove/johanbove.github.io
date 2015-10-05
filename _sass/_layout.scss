@@ -227,8 +227,8 @@
  * Site footer
  */
 .site-footer {
-    padding: 0;
     text-align: center;
+    margin-top: $spacing-unit;
 }
 
 .footer-heading {
@@ -300,6 +300,18 @@
     
     padding: 0;
     
+    h1 {
+        font-size: 26px;
+    }
+    
+    h2 {
+        font-size: 25px;
+    }
+    
+    h3 {
+        font-size: 24px;
+    }
+    
     section {
         position: relative;
         
@@ -362,7 +374,7 @@
     }
     
     h2 {
-        font-size: 24px;
+        font-size: 25px;
     }
 
     * + h2 {
@@ -370,7 +382,7 @@
     }
     
     h3 {
-        font-size: 23px;
+        font-size: 24px;
 
         @include media-query($on-laptop) {
             font-size: 21px;
@@ -390,6 +402,10 @@
     }
     
     p + h2 {
+        margin-top: $spacing-unit;
+    }
+    
+    ul + p {
         margin-top: $spacing-unit;
     }
     
@@ -472,8 +488,6 @@
 
 .rss-subscribe {
     clear: both;
-    font-size: smaller;
-    text-align: right;
 }
 
 /**

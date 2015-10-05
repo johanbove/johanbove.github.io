@@ -20,6 +20,6 @@ Sharing my thoughts here as a way to perform some self-reflection. Also sharing 
     {% endfor %}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe to my RSS - feed and stay up-to-date!</a></p>
 
 </div>
