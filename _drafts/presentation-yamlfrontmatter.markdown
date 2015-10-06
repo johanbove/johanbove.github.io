@@ -15,7 +15,7 @@ categories: presentation
 
 # What is Yaml?
 
-
+A template engine based upon text data files.
 
 ## What happened to Clark C. Evans, maintainer of Yaml?
 

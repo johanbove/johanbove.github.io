@@ -1,6 +1,5 @@
 ---
 layout: project
-evernote: ""
 title: "Project: Sustainica"
 permalink: /project/sustainica
 timeframe: "2015"
