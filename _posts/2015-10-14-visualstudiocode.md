@@ -15,6 +15,7 @@ You can download your own "preview" "for free" over at <https://code.visualstudi
 - Cool fresh interface.
 - Great, familiar way of navigating around folders and open files if you're used to Visual Studio.
 - Integrated Git support! :rocket:
+- Task running right from within the editor is really sweet!
 
 ## More to follow ...
 
@@ -26,3 +27,14 @@ This post will be updated with more experiences and impressions as I go along.
 - Will it stay free?
 - What's the status of plugins adding missing features and functionality?
 - Does it support GitHub's Two-Factor authentication?
+
+## Issues
+
+### Task Runner encoding is set to IBM ...
+
+For my Jekyll grunt build to success I need to be able to set the encoding of the "Task" output window by doing:
+
+    chcp 65001
+	
+This sets the Powershell encoding to UTF-8 and the Multi-lingual Jekyll plugin I'm using in a project works.
+The issue: I don't know - yet - where to define this command so it runs everytime I run ``ctrl-shift-p`` and type ``Run Task``.
