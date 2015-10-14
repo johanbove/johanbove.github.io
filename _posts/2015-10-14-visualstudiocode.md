@@ -25,3 +25,4 @@ This post will be updated with more experiences and impressions as I go along.
 - Can I use this editor for free developer commercial applications?
 - Will it stay free?
 - What's the status of plugins adding missing features and functionality?
+- Does it support GitHub's Two-Factor authentication?
