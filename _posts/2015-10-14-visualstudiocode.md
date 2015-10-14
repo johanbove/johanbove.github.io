@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: post
+categories: blog
 title: "Jumping on the Visual Studio Code train"
 ---
 
