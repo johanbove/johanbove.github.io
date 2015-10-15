@@ -6,8 +6,9 @@ title: "Jumping on the Visual Studio Code train"
 
 ## Visual Studio Code is like Visual Studio Light
 
-Well-known web developer, [Dave Rupert](http://daverupert.com/2015/10/windows-editors-and-shells/) introduced me to this new Multi-Platform (Windows, Mac AND Ubuntu :sparkles:) editor made by Microsoft.
+Well-known web developer, [Dave Rupert](http://daverupert.com/2015/10/windows-editors-and-shells/) introduced me to this new Multi-Platform (Windows, Mac and Ubuntu :sparkles:) editor made by [Microsoft](http://www.microsoft.com).
 You can download your own "preview" "for free" over at <https://code.visualstudio.com> while supplies last.
+The preview will function [until 31/12/2016](https://code.visualstudio.com/License) (day/month/year); it is a little unclear as to what will happen after this date.
 
 ## First Impressions
 
