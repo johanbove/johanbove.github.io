@@ -1,4 +1,4 @@
-<div class="box">    
+<div class="box">
     <h3>My Blog</h3>
     <ul class="post-list">
     {% for post in site.categories.blog limit:5 %}
@@ -6,12 +6,12 @@
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"{% if post.lang != null %} lang="{{ post.lang }}"{% endif %}>{{ post.title }}</a>
       </li>
     {% endfor %}
-    </ul>    
+    </ul>
 </div>
 
-<div class="box">    
-    <h3>Respects</h3>    
-    <a href="https://plus.google.com/communities/113782579160655007812">+GDG Düsseldorf</a>   
+<div class="box">
+    <h3>Respects</h3>
+    <a href="https://plus.google.com/communities/113782579160655007812">+GDG Düsseldorf</a>
 </div>
 
 <div class="box follow-buttons">
@@ -19,4 +19,9 @@
     <a class="twitter-follow-button" href="https://twitter.com/johanbove" title="Twitter">@johanbove</a>
     <a class="googleplus-follow-button" href="//plus.google.com/u/0/114229813947703613217?prsrc=3" title="Google+">+JohanBové</a>
     <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="rss-subscribe">RSS feed</a>
+</div>
+
+<div class="box source-code">
+    <h3>Bugs, issues, suggestions?</h3>
+    <a href="https://github.com/johanbove/johanbove.github.io/issues">Let me know!</a>
 </div>
