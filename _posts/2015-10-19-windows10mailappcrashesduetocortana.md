@@ -6,7 +6,7 @@ categories: blog
 
 ## Doing Microsoft's work: debugging the Mail Windows 10 application
 
-Since a couple of days the Windows 10 Mail application crashes.
+Since a couple of days the Windows 10 Mail application crashes on interaction... again.
 
 It opens, but as soon as I interact with any element in the interface the application crashes to desktop.
 Worst of all the user is not getting any error message at all, leaving her completely in the dark as to what just happened.
