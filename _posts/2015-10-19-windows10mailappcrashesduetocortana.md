@@ -19,7 +19,7 @@ Sure off, there were multiple red exclamation mark "Error" entries in the log wi
 
 Here's a screenshot of the Windows Event Log; click it for more detail.
 
-[![Screenshot: Windows 10 Event Log Error entries](/images/20151019-windowseventviewerappserrorslog.jpg)](/images/20151019-windowseventviewerappserrorslog.png)
+[![Screenshot: Windows 10 Event Log Error entries](/images/20151019-windowseventviewerappserrorslog.jpg)](/images/20151019-windowseventviewerappserrorslog2.png)
 
 ## Event viewer log: Access is denied
 
