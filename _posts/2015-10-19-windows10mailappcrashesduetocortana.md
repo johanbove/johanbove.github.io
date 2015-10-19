@@ -116,6 +116,7 @@ Since my main Windows user account has normal user access rights, the whole syst
 ## The solution
 
 Microsoft should build their apps taking into account that Windows user's should use their PC's not with administrator rights.
+
 But that's just a guess, since I'm not using my Windows machine with admin rights due to security reasons.
 
 I'm thinking of dropping Cortana alltogether since I am NOT at all using it for anything other than telling me jokes or sending me the latest headlines of the news.
