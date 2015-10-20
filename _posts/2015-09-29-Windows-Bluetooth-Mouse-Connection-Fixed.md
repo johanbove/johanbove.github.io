@@ -13,23 +13,29 @@ I have a cool, great sounding, portable Urban Ears UE Boom BlueTooth speaker whi
 
 Looking for a way to make my Surface Pro 3 and the mouse talk to each other while playing music on the BlueTooth speaker without being interrupted by the signal interference, I came across [a MSDN document](https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx) which explains how to set the **ChannelAvoidanceRange** in Windows.
 
-## Did I fix it?
+It seems that the Bluetooth bandwidth is completely saturated with devices!
+Is the industry doing something about this?
+
+## Issue Log
 
 - Update 13:12 - Since I turned off the UE Boom BlueTooth speaker I no longer suffered the mouse freezes; but it sucks having no music.
 - Update 11:00 - Unfortunately the registry key does not seem to fix the issue.
-- Update 2015-10-20 09:35 - I am now experiencing occasional dropouts at Work now as well. #wtf
+- Update 2015-10-20 09:35 - I am now experiencing occasional dropouts at Work now as well. So there must be another device interfering. #wtf
 
-## Potential fixes
+## A quick way to fix the issue
 
 - Turn off all the BlueTooth devices in your immediate area;
 
-## UE Boom speaker is a major BlueTooth disruptor
+## Device: Android Phone and Android Wear device communicate over BlueTooth too.
+
+Today I experienced the issue at work as well while wearing an LG G Watch Android Wear watch which also talks to my Motorola Moto-X (2013) phone over Bluetooth.
+I disabled Bluetooth on the phone and turned the watch off and it seems the Bluetooth interference has stopped - for now.
+
+## Device: UE Boom speaker is a major BlueTooth disruptor
 
 Found this post about [bluetooth interfering messing with devices on GoldTouch](http://www.goldtouch.com/stop-bluetooth-interference-messing-devices/):
 
 > *Stephan Osther says: February 1, 2015 at 6:53 AM* - I just got a UE Boom bluetooth speaker, and i am loving it. But i noticed a really big differents in my wifi speed when i am am watching Youtube on my tablet, with the speaker vs without the speaker. So i ran some wifi tests, and found out that without the speaker it gets full signal, 40/20mbit, and with the speaker it goes all the way down to from 10-5mbit or lower! It’s insane. And the distance makes a minor or no differents in the speed. (i live in a tiny apartment)
-
-## What can we do about this?
 
 Not much, except for perhaps moving the speaker further away from my desk and computer.
 
@@ -50,8 +56,7 @@ The steps to set the registry key:
 
 After the reboot I was no longer experiencing the annoying BlueTooth connection hickups *for a while*. But that could have had different reasons.
 
-
-## The original source: How do I enable AFH in Windows?
+### The original source: How do I enable AFH in Windows?
 
 > Windows 8, Windows 7, and Windows Vista include a shared-spectrum model to support AFH for Bluetooth radios that are based on version 2.0 and later versions of the Bluetooth specification. However, this feature is disabled by default. For a system to support the shared spectrum model, the OEM must explicitly enable the feature and specify the width of the frequency band that should be blocked around an active Wi Fi channel. To specify the width of the frequency band, create a value of type REG_DWORD that is named ChannelAvoidanceRange under the following registry key:
 
