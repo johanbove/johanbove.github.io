@@ -121,7 +121,8 @@ Keywords:
 User:          SURFACE\Johan
 Computer:      Surface
 Description:
-Activation of app Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App failed with error: Access is denied. See the Microsoft-Windows-TWinUI/Operational log for additional information.
+Activation of app Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App failed with error: Access is denied.
+See the Microsoft-Windows-TWinUI/Operational log for additional information.
 Event Xml:
 <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
   <System>
