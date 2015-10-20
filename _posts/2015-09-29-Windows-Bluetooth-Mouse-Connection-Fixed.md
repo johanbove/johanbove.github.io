@@ -17,6 +17,7 @@ Looking for a way to make my Surface Pro 3 and the mouse talk to each other whil
 
 - Update 13:12 - Since I turned off the UE Boom BlueTooth speaker I no longer suffered the mouse freezes; but it sucks having no music.
 - Update 11:00 - Unfortunately the registry key does not seem to fix the issue.
+- Update 2015-10-20 09:35 - I am now experiencing occasional dropouts at Work now as well. #wtf
 
 ## Potential fixes
 
@@ -63,3 +64,7 @@ After the reboot I was no longer experiencing the annoying BlueTooth connection 
 > For the Windows shared-spectrum model to work effectively, Wi-Fi miniport drivers must report their channel usage to the networking connections manager. The networking stack then passes the channel-use information to the Bluetooth stack.
 
 Original Source: <https://msdn.microsoft.com/en-us/library/windows/hardware/dn133849(v=vs.85).aspx>
+
+## Resources
+
+- <http://www.bluetoothdoctor.com/>
