@@ -108,6 +108,45 @@ Event Xml:
 </Event>
 ```
 
+Another "Access is denied" entry in the event log from the **CloudExperienceHost** app:
+
+```
+Log Name:      Application
+Source:        Microsoft-Windows-Immersive-Shell
+Date:          2015-10-20 09:32:00
+Event ID:      5973
+Task Category: (5973)
+Level:         Error
+Keywords:
+User:          SURFACE\Johan
+Computer:      Surface
+Description:
+Activation of app Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App failed with error: Access is denied. See the Microsoft-Windows-TWinUI/Operational log for additional information.
+Event Xml:
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Immersive-Shell" Guid="{315A8872-923E-4EA2-9889-33CD4754BF64}" />
+    <EventID>5973</EventID>
+    <Version>0</Version>
+    <Level>2</Level>
+    <Task>5973</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x2000000000000000</Keywords>
+    <TimeCreated SystemTime="2015-10-20T07:32:00.562228300Z" />
+    <EventRecordID>85941</EventRecordID>
+    <Correlation />
+    <Execution ProcessID="5084" ThreadID="360" />
+    <Channel>Application</Channel>
+    <Computer>Surface</Computer>
+    <Security UserID="S-1-5-21-1112854955-1420992795-1371588587-1001" />
+  </System>
+  <EventData>
+    <Data Name="AppId">Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App</Data>
+    <Data Name="ErrorCode">-2147024891</Data>
+  </EventData>
+</Event>
+```
+
 ## The - probable - cause
 
 I'm suspecting that Cortana want access to my emails, since it uses the information to be the helpful assistent "she" wants to be.
