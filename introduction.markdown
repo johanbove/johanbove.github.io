@@ -11,6 +11,10 @@ I like science, yet I am not a scientist. I like technology, yet I'm not a techn
 
 [1](http://en.wikipedia.org/wiki/Rifleman%27s_Creed) This is my introduction, there are many others like it, but this one is mine.
 
+## What I do for a living
+
+- I build websites. More technically; I take care of Front-end development (HTML5, CSS, JavaScript). I am a front-end stack developer.
+
 ## Facts
 
 - I don't always share the coolest online content, but when I do, I do it - mostly - through [Google+](https://plus.google.com/+JohanBové)
