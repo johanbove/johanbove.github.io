@@ -38,8 +38,9 @@ And all of this is compatible with Windows! Yay. That sounds almost too good to 
 
 ### Questions & Challenges
 
+- Who are [the people behind Meteor](https://www.meteor.com/about/project)?
 - What I'm not keen off is that none of the example apps have "linted" JavaScript code. There's not even the `"use strict";` statement. There's probably a good reason for it.
-- There's a boat-load of documentation to read through.
+- There's a [boat-load of documentation](http://docs.meteor.com/#/full/) to go and read through.
 - Most of the articles and documentation I found seems to be dated from about a year ago. Wondering why that is?
 - As with any "example" application: the initial "Simple Todo" application only was the tip of the ginormous iceberg; building decent web apps are way more complex than that. Good thing that the "Todos" example is more complete; although it still runs with the *insecure* mode active. Wondering how to get it working with that package removed?
 
