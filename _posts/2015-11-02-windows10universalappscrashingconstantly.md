@@ -32,7 +32,8 @@ Keywords:
 User:          SURFACE\Johan
 Computer:      Surface
 Description:
-Activation of app Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI failed with error: Access is denied. See the Microsoft-Windows-TWinUI/Operational log for additional information.
+Activation of app Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI failed with error: Access is denied.
+ See the Microsoft-Windows-TWinUI/Operational log for additional information.
 Event Xml:
 <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
   <System>
@@ -69,7 +70,8 @@ Keywords:
 User:          SURFACE\Johan
 Computer:      Surface
 Description:
-Activation of app Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI failed with error: Access is denied. See the Microsoft-Windows-TWinUI/Operational log for additional information.
+Activation of app Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI failed with error: Access is denied.
+ See the Microsoft-Windows-TWinUI/Operational log for additional information.
 Event Xml:
 <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
   <System>
@@ -106,7 +108,8 @@ Keywords:
 User:          SURFACE\Johan
 Computer:      Surface
 Description:
-Activation of app Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App failed with error: Access is denied. See the Microsoft-Windows-TWinUI/Operational log for additional information.
+Activation of app Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App failed with error: Access is denied.
+ See the Microsoft-Windows-TWinUI/Operational log for additional information.
 Event Xml:
 <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
   <System>
@@ -143,7 +146,8 @@ Keywords:
 User:          SURFACE\Johan
 Computer:      Surface
 Description:
-Activation of app microsoft.windowscommunicationsapps_8wekyb3d8bbwe!ppleae38af2e007f4358a809ac99a64a67c1 failed with error: Access is denied. See the Microsoft-Windows-TWinUI/Operational log for additional information.
+Activation of app microsoft.windowscommunicationsapps_8wekyb3d8bbwe!ppleae38af2e007f4358a809ac99a64a67c1 failed with error: Access is denied.
+ See the Microsoft-Windows-TWinUI/Operational log for additional information.
 Event Xml:
 <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
   <System>
