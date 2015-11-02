@@ -12,12 +12,13 @@ The *Event Viewer* log is again filling up with the same **"Access is denied"** 
 
 I've reported this issue to Microsft both through the Feedback tool and on "answers.microsoft.com";
 
-To me, this looks like a clear structural underlying permission issue in the whole Universal Apps stack tree.
+To me, this looks like a clear structural underlying **permissions issue** in the whole Universal Apps stack tree.
 
 Also, everytime apps crash like this I feel like a dumb idiot still trying to use Microsoft's apps. What are regular users supposed to do?
 
-> @Microsoft: please focus on making your Universal Apps run stable and create a better crash handler already!
+> @Microsoft: fix the permissions issue in Windows 10 Universal Apps! Create a better crash handler already!
 
+- ["Mail App stopped working in Windows 10"](http://answers.microsoft.com/en-us/windows/forum/apps_windows_10-outlook_mail/mail-app-stopped-working-in-windows-10/19dfee06-5577-43c6-a1f9-3799fdc7d72c) - a 130 people looked for this issue since August 1st, 2015.
 
 Here are a couple of the application "error" entries from the Event log:
 
