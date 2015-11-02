@@ -4,6 +4,8 @@ categories: blog
 title: "Windows 10 Universal apps still crash with Access is Denied errors"
 ---
 
+## The frustration continues
+
 So after almost a full week of not having issues with the Windows 10 *Universal apps*, this morning I'm experiencing the same issue again;
 
 The *Calendar* and *Mail* apps start, but as soon as I want to interact with the apps, they crash to desktop. This is **incredibly frustrating**!
@@ -16,9 +18,11 @@ To me, this looks like a clear structural underlying **permissions issue** in th
 
 Also, everytime apps crash like this I feel like a dumb idiot still trying to use Microsoft's apps. What are regular users supposed to do?
 
-> @Microsoft: fix the permissions issue in Windows 10 Universal Apps! Create a better crash handler already!
+This is a thread on Answer.microsoft.com: ["Mail App stopped working in Windows 10"](http://answers.microsoft.com/en-us/windows/forum/apps_windows_10-outlook_mail/mail-app-stopped-working-in-windows-10/19dfee06-5577-43c6-a1f9-3799fdc7d72c) - Over 130 frustrated Windows users (!) looked for this issue and reported that they are having the same problem since August 1st, 2015. There is still no conclusive fix available.
 
-- ["Mail App stopped working in Windows 10"](http://answers.microsoft.com/en-us/windows/forum/apps_windows_10-outlook_mail/mail-app-stopped-working-in-windows-10/19dfee06-5577-43c6-a1f9-3799fdc7d72c) - a 130 people looked for this issue since August 1st, 2015.
+> **@Microsoft: fix the permissions issue in Windows 10 Universal Apps! Create a better crash handler already!**
+
+## Error logs
 
 Here are a couple of the application "error" entries from the Event log:
 
