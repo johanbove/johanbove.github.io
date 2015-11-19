@@ -6,15 +6,23 @@ desc: "Legal information for Germany"
 
 # Impressum
 
+**For international visitors:** This page contains information that is required by German law.
+
 ## Angaben gemäß § 5 TMG:
 
-Johan Bové  
-Telefon: +4915779333179  
-E-Mail: me@johanbove.info  
+Johan Bové
+Charlottenstrasse 32
+40210 Düsseldorf
+
+### Kontakt:
+Telefon: +4915779333179
+E-Mail: me@johanbove.info
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Johan Bové  
+Johan Bové
+Charlottenstrasse 32
+40210 Düsseldorf
 
 ## Haftungsausschluss:
 
@@ -43,6 +51,6 @@ Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in d
 Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
 
 ## Quellenangaben
- 
+
  - [eRecht24 Disclaimer](http://www.e-recht24.de/muster-disclaimer.htm)
  - [Google Analytics Datenschutzerklärung](http://www.google.com/intl/de/analytics/privacyoverview.html)
