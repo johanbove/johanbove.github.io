@@ -6,7 +6,9 @@ timeframe: "2015-2016"
 category: projects
 ---
 
-This project consists of a static website built on top of [the Zeppelin template](https://github.com/gdg-x/zeppelin). The system generates HTML, CSS and optimized images by running a program called Jekyll which is written in Ruby. The project's deployed files are compiled through Grunt tasks. The front-end code applies Bower, SCSS and various other web tools to construct a fast and modern web site. The content of the site is structured and managed using Markdown and Yaml (yml) files. The layout engine uses [Liquid Template](http://liquidmarkup.org/) (by Shopify) syntax and engine to compile simple HTML and display logic into powerfull HTML structures from simple text files.
+This project consists of a static website built on top of [the Zeppelin template](https://github.com/gdg-x/zeppelin). The system generates HTML, CSS and optimized images by running a program called Jekyll which is written in Ruby.
+
+The project's deployed files are compiled through Grunt tasks. The front-end code applies Bower, SCSS and various other web tools to construct a fast and modern web site. The content of the site is structured and managed using Markdown and Yaml (yml) files. The layout engine uses [Liquid Template](http://liquidmarkup.org/) (by Shopify) syntax and engine to compile simple HTML and display logic into powerfull HTML structures from simple text files.
 
 The template was heavily modified to adjust to the requirements of the [Sustainica event site](http://www.sustainica.org), but the major building blocks, Grunt scripts, components and file organisation, were kept.
 
@@ -53,10 +55,12 @@ In the beginning the site was build locally after editing the content and layout
 
 ### Using Git
 
-- Windows powershell and Git for Windows; fixing some issues with dealing with Git in Github Git bash console
-- Tagging: before I figured I can use NPM version I did manual ``git tag -a v1.4 -m "my version 1.4"`` [manual](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
-- ``git push origin master`` - pushes the local changes to the "origin" git remote repo.
-- ``git push ci release`` - triggers a "continuous integration" build.
+Windows PowerShell and Git for Windows; fixing some issues with dealing with Git in Github Git bash console
+Tagging: before I figured I can use NPM version I did manual ``git tag -a v1.4 -m "my version 1.4"`` [manual](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+
+``git push origin master`` - pushes the local changes to the "origin" git remote repo.
+
+``git push ci release`` - triggers a "continuous integration" build.
 
 ### Google Structured Data
 
@@ -64,43 +68,43 @@ The template introduces [Schema.org tags](http://schema.org/docs/gs.html) which 
 
 ### Using Grunt and NPM
 
-- Building the site and execution the various optimizations: [SVGMIN](https://github.com/sindresorhus/grunt-svgmin), Imagemin, Uglifier, etc.
-- Deployment with grunt; running grunt tasks
-- Configuration file example...
-- NPM version: ``npm version [major|minor|patch] -m "Upgrade to version %s for ..."``
+Building the site and execution the various optimizations: [SVGMIN](https://github.com/sindresorhus/grunt-svgmin), Imagemin, Uglifier, etc.
+Deployment with grunt; running grunt tasks, ...
+
+NPM version: ``npm version [major|minor|patch] -m "Upgrade to version %s for ..."``
 
 #### Bower Components in this project
 
-* [Bootstrap Sass](https://github.com/twbs/bootstrap-sass)
-* [Animate.css Sass](https://github.com/tgdev/animate-sass)
-* [Waves](https://github.com/publicis-indonesia/Waves)
-* [jquery.appear](https://github.com/bas2k/jquery.appear)
-* [Sticky-kit](https://github.com/leafo/sticky-kit)
-* [superslides](https://github.com/nicinabox/superslides)
-* [compass-mixins](https://github.com/Igosuki/compass-mixins)
-* [jquery-easing-original](https://libraries.io/bower/jquery-easing-original)
-* [svg4everybody](https://github.com/jonathantneal/svg4everybody)
+[Bootstrap Sass](https://github.com/twbs/bootstrap-sass)
+[Animate.css Sass](https://github.com/tgdev/animate-sass)
+[Waves](https://github.com/publicis-indonesia/Waves)
+[jquery.appear](https://github.com/bas2k/jquery.appear)
+[Sticky-kit](https://github.com/leafo/sticky-kit)
+[superslides](https://github.com/nicinabox/superslides)
+[compass-mixins](https://github.com/Igosuki/compass-mixins)
+[jquery-easing-original](https://libraries.io/bower/jquery-easing-original)
+[svg4everybody](https://github.com/jonathantneal/svg4everybody)
 
 #### NPM Bundles in this project
 
-* "bower": "~1.4.1",
-* "grunt": "~0.4.5",
-* "grunt-autoprefixer": "~2.2.0",
-* "grunt-browser-sync": "^2.0.0",
-* "grunt-build-control": "~0.3.0",
-* "grunt-contrib-clean": "~0.6.0",
-* "grunt-contrib-copy": "~0.8.0",
-* "grunt-contrib-cssmin": "~0.12.2",
-* "grunt-contrib-htmlmin": "~0.4.0",
-* "grunt-contrib-imagemin": "~0.9.4",
-* "grunt-contrib-uglify": "~0.8.0",
-* "grunt-contrib-watch": "~0.6.1",
-* "grunt-critical": "~0.1.2",
-* "grunt-jekyll": "~0.4.2",
-* "grunt-sass": "~0.18.1",
-* "grunt-svgmin": "~2.0.1",
-* "jit-grunt": "~0.9.1",
-* "time-grunt": "~1.1.0"
+"bower": "~1.4.1",
+"grunt": "~0.4.5",
+"grunt-autoprefixer": "~2.2.0",
+"grunt-browser-sync": "^2.0.0",
+"grunt-build-control": "~0.3.0",
+"grunt-contrib-clean": "~0.6.0",
+"grunt-contrib-copy": "~0.8.0",
+"grunt-contrib-cssmin": "~0.12.2",
+"grunt-contrib-htmlmin": "~0.4.0",
+"grunt-contrib-imagemin": "~0.9.4",
+"grunt-contrib-uglify": "~0.8.0",
+"grunt-contrib-watch": "~0.6.1",
+"grunt-critical": "~0.1.2",
+"grunt-jekyll": "~0.4.2",
+"grunt-sass": "~0.18.1",
+"grunt-svgmin": "~2.0.1",
+"jit-grunt": "~0.9.1",
+ "time-grunt": "~1.1.0"
 
 ## What I learned
 
