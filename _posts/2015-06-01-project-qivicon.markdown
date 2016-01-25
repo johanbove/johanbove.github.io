@@ -6,7 +6,7 @@ timeframe: "2014-2015"
 category: projects
 ---
 
-The client entrusted me to construct and structure three web applications which connect to the Qivicon platform and which fall in the category "Internet Of Things": the apps allowed users to controlling heating at home, lighting and measuring power consumption of household appliances through modern web browsers.
+The client entrusted me to construct and structure three web applications which connect to the Qivicon platform and which fall in the category "Internet Of Things": the apps allowed users to control their heating-system at home, change the state of lighting and measure power consumption of household appliances through the modern web browsers installed on either smart-phone or regular PC.
 
 The applications were build upon the MVVM programming pattern, with a true separation in the JavaScript code between the "view", the "model" and the "controller" and "services". Since we were working in a team of ten people, this separation allowed us to organize the work and changes applied to the application modules. It also meant that the application-code was fully testable using continuous integration.
 
