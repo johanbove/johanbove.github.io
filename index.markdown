@@ -30,7 +30,7 @@ Every day I browse through ship-loads of articles and tutorials to keep up with 
 
 In my professional career I worked on online job boards, e-commerce web shops, CMS systems (Drupal, WordPress), streaming media and smart-home automation platforms.
 
-I am currently employed as an IT Consultant at CGI Deutschland where I am specializing in Front End Web Development.
+I am currently employed as an Senior consultant at movento digital where I am specializing in Front End Web Development.
 
 ### To Germans, I'm an immigrant from Belgium 
 
