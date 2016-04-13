@@ -54,6 +54,6 @@ Continuing my slow progress in the world of Math. Started following the "Space" 
 
 I went to the Intel Developer's night at Microsoft in Köln some months ago and finally decided to order the RealSense camera. I felt motivated to get one now since it was cheaper before the 31 of March. The idea is that I'll try to build a cool application with it, using the JavaScript SDK, as well as combining it with Windows 10. I might be even able to integrate it with the Chip robot dog somehow, some day.
 
-### Supporting the Wowee Chip Indiegogo campaign
+### Supporting the Wowwee "Chip" Indiegogo campaign
 
 I was really impressed by this little robot dog so I decided to pre-order it from Indiegogo. The campaign was obviously a marketing stunt to try to get people's attention. It didn't really go viral, but it worked for me. I'm hoping the toy will be more than just that and I'm urging Wowwee to keep its promise to release an SDK and make the robot really programmable so we can develop interesting applications for it.
