@@ -44,16 +44,16 @@ Following the free Code School AngularJS training for now since it came highly r
 
 Keeping my work notes and planning in Atlassian's Confluence, as a replacement to OneNote which I am only using for my personal notes. I'm liking Confluence'S templates and tasks features, but am missing a way to inline tag elements in the page. I'm trying something with emoticons, but they don't seem to be searchable.
 
-# Spare Time
+## Spare Time
 
-## Khan Academy progress
+### Khan Academy progress
 
 Continuing my slow progress in the world of Math. Started following the "Space" course by NASA as well as the neat little "internet" course. Very cool material. I really love Khan Academy. Only wished for more hours in a day...
 
-## Getting the Intel RealSense camera
+### Getting the Intel RealSense camera
 
 I went to the Intel Developer's night at Microsoft in Köln some months ago and finally decided to order the RealSense camera. I felt motivated to get one now since it was cheaper before the 31 of March. The idea is that I'll try to build a cool application with it, using the JavaScript SDK, as well as combining it with Windows 10. I might be even able to integrate it with the Chip robot dog somehow, some day.
 
-## Supporting the Wowee Chip Indiegogo campaign
+### Supporting the Wowee Chip Indiegogo campaign
 
 I was really impressed by this little robot dog so I decided to pre-order it from Indiegogo. The campaign was obviously a marketing stunt to try to get people's attention. It didn't really go viral, but it worked for me. I'm hoping the toy will be more than just that and I'm urging Wowwee to keep its promise to release an SDK and make the robot really programmable so we can develop interesting applications for it.
