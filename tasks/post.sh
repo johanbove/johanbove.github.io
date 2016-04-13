@@ -7,13 +7,13 @@ else
   title="$@"
 fi
 
-d=$(date +"%Y-%m-%d")
+d = $(date + "%Y-%m-%d")
 
-slug=$(echo $title | tr '[:upper:]' '[:lower:]' | tr '[:space:]' '-')
-slug="${slug:0:${#slug}-1}"
-post="./_posts/$d-$slug.md"
+slug = $(echo $title | tr '[:upper:]' '[:lower:]' | tr '[:space:]' '-')
+slug = "${slug:0:${#slug}-1}"
+post = "./_posts/$d-$slug.md"
 
-body=""
+body = ""
 read -d '' body <<EOF
 ---
 layout: post
