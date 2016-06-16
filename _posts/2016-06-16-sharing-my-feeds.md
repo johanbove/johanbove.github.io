@@ -4,9 +4,9 @@ title: "Sharing my news sources"
 categories: blog
 ---
 
-I am a somewhat active user of both Feedly, Pocket and Twitter.
+I am a somewhat active user of both Feedly and Pocket.
 
-Since recently both great news reading tools offer the feature to share content. While I like to share interesting content I'm posting here both links to these services in the hopes it will serve you well.
+Since recently both great news reading tools offer the ability to easily share collections of content. While I like to think i'm sharing interesting articles I'm posting both services here in the hopes it will serve someone well.
 
 ## Feedly
 
