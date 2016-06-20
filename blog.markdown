@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Writings
+title: Blog
 permalink: /blog/
 desc: "Thoughts and ideas by Johan"
 ---
 
-Sharing my thoughts here as a way to perform some self-reflection. Also sharing my experiences as a web developer, giving some insights back to the dev-community.
+Most of these posts are not full-fledged articles as they might actually be snippets and references for stuff I'd like to remember and share with the Intarwebs.
 
 <div role="blog">
 
