@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Aeris Weather API demo"
+categories: blog
 ---
+
+A demo implementation of the Aeris Weather API
 
 <http://www.aerisweather.com/signup/developer/>
 <http://idratherbewriting.com/files/restapicourse/wind-aeris.html>
