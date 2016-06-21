@@ -31,8 +31,6 @@ A demo implementation of the Aeris Weather API
         });
     }
 </script>
-</head>
-<body>
 
 <button type="button" onclick="checkWind()" class="btn btn-danger">Check wind conditions</button>
 
