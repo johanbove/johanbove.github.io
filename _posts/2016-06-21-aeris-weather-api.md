@@ -36,7 +36,7 @@ A demo implementation of the Aeris Weather API
 
 <button type="button" onclick="checkWind()" class="btn btn-danger">Check wind conditions</button>
 
-<h2>Wind conditions for Santa Clara</h2>
+<h2>Wind conditions for Düsseldorf</h2>
 
 <b>Wind chill: </b><span id="wind_chill"></span> <span id="temperature"></span><br>
 <b>Wind speed: </b><span id="wind_speed"></span> <span id="speed"></span><br>
