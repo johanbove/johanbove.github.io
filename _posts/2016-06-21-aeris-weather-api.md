@@ -12,7 +12,7 @@ A demo implementation of the Aeris Weather API
 ```
 function checkWind() {
     var output = $.ajax({
-        url: 'http://api.aerisapi.com/observations/Duesseldorf?client_id=lDaWTTH36hso9l7hq5sLk&client_secret=SRHgEKsZSWge30jNX9yggYPNocPjyNK2a0PLeY9C',
+        url: 'http://api.aerisapi.com/observations/Duesseldorf?client_id={CLIENTID}&client_secret={CLIENTSECRET}',
         type: 'GET',
         data: {},
         dataType: 'json',
