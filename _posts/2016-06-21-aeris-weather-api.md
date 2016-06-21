@@ -9,11 +9,6 @@ A demo implementation of the Aeris Weather API
 <http://www.aerisweather.com/signup/developer/>
 <http://idratherbewriting.com/files/restapicourse/wind-aeris.html>
 
-<style>
-    #wind_direction, #wind_chill, #wind_speed, #temperature, #speed {color: red; font-weight: bold;}
-    body {margin:20px;}
-</style>
-
 <script>
     function checkWind() {
         var output = $.ajax({
@@ -22,7 +17,7 @@ A demo implementation of the Aeris Weather API
             data: {},
             dataType: 'json',
             success: function(data) {
-                console.log(data)
+                console.log(data);
                 $("#wind_speed").append(data.response.ob.windKPH + " KPH");
                 $("#wind_direction").append(data.response.ob.windDir);
                 $("#wind_chill").append(data.response.ob.feelslikeC + " C");
