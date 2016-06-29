@@ -50,7 +50,7 @@
  * Flexbox
  * @see: http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
  */
-.flexcontainer {    
+.flexcontainer {
  
     @include media-query-min($on-laptop) {
     
@@ -299,6 +299,8 @@
 .page-content {
     
     padding: 0;
+    max-width: 1280px;
+    margin: auto auto;
     
     h1 {
         font-size: 26px;
@@ -579,4 +581,21 @@ sidebar {
         float: none;
     }
     
+}
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.grid .block {
+    flex: 1 0;
+    min-width: 40%;
+    margin: 10px;
+}
+
+.grid .block:nth-child(2n-1) {
+    margin-right: 20px;
+    margin-left: 0;
 }
