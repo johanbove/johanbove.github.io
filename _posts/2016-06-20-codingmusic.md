@@ -4,7 +4,12 @@ title: "My coding music playlist"
 categories: blog
 ---
 
-Here is my "coding music" playlist I keep on [Deezer](http://www.deezer.com).
+As so many developers, I too enjoy listening to music when working. It helps me focus.
+
+Here is my "coding music" playlist I keep on [Deezer](http://www.deezer.com) which I often listen to in random order.
+You will find that style-wise it's pretty eclectic, lots of electronica and soundtracks, but also some piano tunes are here.
+
+Hope you'll enjoy it!
 
 <script>
 	(function(d, s, id) { 
