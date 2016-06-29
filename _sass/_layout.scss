@@ -563,7 +563,7 @@ sidebar {
     
     .box {
         padding: $spacing-unit / 3;
-        margin-bottom: $spacing-unit / 2;        
+        margin-bottom: $spacing-unit / 2;
     }
 
     .post-list > li {
@@ -583,19 +583,23 @@ sidebar {
     
 }
 
-.grid {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+@include media-query-min($on-laptop) {
+
+    .grid {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .grid .block {
+        flex: 1 0;
+        min-width: 40%;
+        margin: 10px;
+    }
+
+    .grid .block:nth-child(2n-1) {
+        margin-right: 5%;
+        margin-left: 0;
 }
 
-.grid .block {
-    flex: 1 0;
-    min-width: 40%;
-    margin: 10px;
-}
-
-.grid .block:nth-child(2n-1) {
-    margin-right: 20px;
-    margin-left: 0;
 }
