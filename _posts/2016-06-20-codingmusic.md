@@ -9,6 +9,8 @@ As so many developers, I too enjoy listening to music when working. It helps me 
 Here is my "coding music" playlist I keep on [Deezer](http://www.deezer.com) which I often listen to in random order.
 You will find that style-wise it's pretty eclectic, lots of electronica and soundtracks, but also some piano tunes are here.
 
+_Note that to listen to the full songs you'll need a Deezer subscription._
+
 Hope you'll enjoy it!
 
 <script>
