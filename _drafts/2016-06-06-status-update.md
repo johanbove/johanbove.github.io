@@ -10,9 +10,12 @@ Another month just flew by. Time for an update on what I have been up to since m
 
 ## Visiting MA, USA
 
-_Write about visiting Boston and Cambridge, with the MIT Museum._
+Family visit across the Big Pond! We loved Boston with a boat trip north over the Massachusetts Bay to the quaint town of Salem.
+Staying in Cambridge was interesting, with a fun sunday out to the inspiring MIT Museum.
 
 ## Learning EmberJS
+
+Yep, I'm doing Ember!
 
 ### Motivation
 
