@@ -29,6 +29,8 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:image" content="http://www.gravatar.com/avatar/4554cca5bb71b81cad02162b4473a226?s=300">
     
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml">
+    
     <meta name="theme-color" content="{{ site.themeColor }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
