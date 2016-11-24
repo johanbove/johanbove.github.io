@@ -40,6 +40,9 @@ Some very smart people wrote down and said some really clever things. Here are a
 
 > Basically [everything Prof. Stephen Hawking ever said](http://www.brainyquote.com/quotes/authors/s/stephen_hawking.html)
 
+> “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.”
+~ Henry Ford
+
 > “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.”
 ~ Albert Einstein
 
