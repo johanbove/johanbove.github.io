@@ -33,7 +33,7 @@ Getting current year for calculating my age.
     <div class="block">
         <h3>I'm an IT consultant</h3>
         <p>In my professional career I worked on online job boards, e-commerce web shops, CMS systems (Drupal, WordPress), streaming media and smart-home automation platforms.</p>
-        <p>I am currently employed as an Senior consultant at movento digital where I am specializing in Front End Web Development.</p>
+        <p>I am currently employed as a senior consultant at Deloitte Digital where I am specializing in Front End Web Development.</p>
     </div>
 
     <div class="block">
