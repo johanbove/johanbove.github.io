@@ -3,6 +3,7 @@ layout: page
 title: "About Me"
 permalink: /about/
 desc: "More facts about Johan"
+nav: primary
 ---
 
 I am perpetually online exploring the zest of the Web in all its interactive facets, virtual and tangible.

@@ -1,5 +1,6 @@
 ---
 layout: front
+nav: primary
 ---
 
 {%comment%}
