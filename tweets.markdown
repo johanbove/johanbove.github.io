@@ -2,6 +2,7 @@
 layout: page
 title: Tweets
 desc: "Sharing news, videos and other things I like and more, with the occasional opinionated public tweet."
+nav: primary
 ---
 
 <style>
