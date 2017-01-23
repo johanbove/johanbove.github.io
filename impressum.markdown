@@ -4,8 +4,6 @@ permalink: /impressum/
 desc: "Legal information for Germany"
 ---
 
-# Impressum
-
 **For international visitors:** This page contains information that is required by German law.
 
 ## Angaben gemäß § 5 TMG:
