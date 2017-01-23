@@ -11,8 +11,7 @@ desc: "Legal information for Germany"
 ## Angaben gemäß § 5 TMG:
 
 Johan Bové
-Charlottenstrasse 32
-40210 Düsseldorf
+40211 Düsseldorf
 
 ### Kontakt:
 Telefon: +4915779333179
@@ -21,8 +20,7 @@ E-Mail: me@johanbove.info
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Johan Bové
-Charlottenstrasse 32
-40210 Düsseldorf
+40211 Düsseldorf
 
 ## Haftungsausschluss:
 
