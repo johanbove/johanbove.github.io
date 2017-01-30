@@ -564,6 +564,9 @@ sidebar {
     .box {
         padding: $spacing-unit / 3;
         margin-bottom: $spacing-unit / 2;
+        div {
+            margin-top: $spacing-unit / 3;
+        }
     }
 
     .post-list > li {
