@@ -18,7 +18,7 @@ I like science, yet I am not a scientist. I like technology, yet I'm not a techn
 
 ## Facts
 
-- I don't always share the coolest online content, but when I do, I do it - mostly - through [Google+](https://plus.google.com/+JohanBové)
+- I don't always share the coolest online content, but when I do, I do it - mostly - through [Google+](https://plus.google.com/+JohanBové) and [Twitter](https://twitter.com/johanbove)
 - I'm was active in the [GDG Düsseldorf developers community](https://plus.google.com/communities/113782579160655007812), where I helped organize events and presentations.
 - This site was deliberately kept simple to achieve a super [high PageSpeed / Mobile Friendly site score](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fblog.johanbove.info).
 - I used to DJ on a weekly basis in and around Wetteren where I was once part of the PartyOn DJ Squad.
