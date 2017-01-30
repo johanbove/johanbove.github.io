@@ -3,6 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/
 desc: "Thoughts and ideas by Johan"
+nav: primary
 ---
 
 Most of these posts are not full-fledged articles as they might actually be snippets and references for stuff I'd like to remember and share with the Intarwebs.
