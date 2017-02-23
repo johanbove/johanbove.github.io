@@ -33,7 +33,7 @@ I like science, yet I am not a scientist. I like technology, yet I'm not a techn
 - Rides his bicycle to work whenever he can.
 - Flosses at least six times a week.
 - Is capable of applying a thesaurus to seem smarter in online profile introductions.
-- Has been building websites since 1998
+- Has been building websites since 1998 and hasn't stopped ever since.
 
 ## Favorite Quotes
 
