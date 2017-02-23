@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Opinions on Node.JS"
-categories: blog
+categories: posts
 ---
 
 So we talked about this at work the other day and we dared to raize the question: should a company invest its time and effort building server-side apps with NodeJS?

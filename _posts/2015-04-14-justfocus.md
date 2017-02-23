@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Focus"
-categories: blog
+categories: posts
 ---
 
 Letting out a virtual sigh to control my eager to be like these young, super-star ninja guru front-end developers who seem to have 28 productive hours in a day and still have time left to geek-out with their favorite pass-time and hang out with their hipster friends sipping on there Club Mate soda drinks and publish books and give talks at the coolest conferences. Here I am trying to keep up with the tsunami of Internet posts related to whatever I find interesting or funny, yet here I am with the daunting realization that the big 40 is only five years away...

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instant Jekyll Posts"
-categories: blog
+categories: posts
 ---
 
 ## Great time-saving shell script!

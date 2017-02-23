@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun with Confluence"
-categories: blog
+categories: posts
 ---
 
 Since I moved from keeping my work Journal in OneNote to Confluence I enjoy Confluence's ability to quickly and smoothly keep track of personal tasks, and the sharing possibilities are really powerful. But I do miss some functionality. 

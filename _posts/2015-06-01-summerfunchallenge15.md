@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Fun Challenge 2015"
-categories: blog
+categories: posts
 ---
 
 Organizing the 2015 Google I/O Extended in Düsseldorf was a great experience!

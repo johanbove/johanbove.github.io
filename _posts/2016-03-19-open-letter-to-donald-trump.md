@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Letter to Donald Trump"
-categories: blog
+categories: posts
 ---
 
 ## An Open Letter to Donald Trump:

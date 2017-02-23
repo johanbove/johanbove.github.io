@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning iOS development"
-categories: blog
+categories: posts
 ---
 
 I am currently [learning](http://code.tutsplus.com/tutorials/getting-started-with-objective-c--mobile-13944) all about [Objective-C and iOS development](http://code.tutsplus.com/series/learn-ios-sdk-development-from-scratch--mobile-14536).

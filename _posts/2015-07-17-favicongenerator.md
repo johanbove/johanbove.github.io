@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Dan's Favicon-Generator works"
-categories: blog
+categories: posts
 ---
 
 ## How to add favicons to your site

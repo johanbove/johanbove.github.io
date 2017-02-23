@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surface Pro 3 and Type Cover connection lost solution"
-categories: blog
+categories: posts
 ---
 
 ## Fix for an issue with the Surface Pro 3 and the Type Cover 3

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adding Tweetledee to my site"
-categories: blog
+categories: posts
 ---
 
 ## What about some Tweets?

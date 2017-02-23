@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uploading files to Dropbox from an USB-drive"
-categories: blog
+categories: posts
 ---
 
 # Use a symbolic link to the external folder to upload files into Dropbox

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evernote For Windows finally got High DPI support - sort of"
-categories: blog
+categories: posts
 ---
 
 The experience with using Evernote on Windows 8.1 running on a Surface Pro 3 computer is bad because the Surface sports a nice High DPI screen. Not being able to zoom the editor window is really painful to the eyes.

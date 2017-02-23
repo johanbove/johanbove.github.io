@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sharing my news sources"
-categories: blog
+categories: posts
 ---
 
 I am a somewhat active user of both Feedly and Pocket.

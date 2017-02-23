@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: posts
 title: "What's up - November 2015"
 ---
 

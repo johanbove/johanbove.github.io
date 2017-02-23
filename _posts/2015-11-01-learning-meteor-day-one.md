@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: posts
 title: "Learning a new technology: Meteor - Day 1"
 ---
 

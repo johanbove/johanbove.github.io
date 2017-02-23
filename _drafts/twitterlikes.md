@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twitter hearts likes"
-categories: blog
+categories: posts
 ---
 
 Since when is Twitter all about the feelz? I used the "star" system to also bookmark and mark tweets as important. That did not always mean I actually "loved" the tweet.

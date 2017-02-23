@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My coding music playlist"
-categories: blog
+categories: posts
 ---
 
 As so many developers, I too enjoy listening to music when working. It helps me focus.

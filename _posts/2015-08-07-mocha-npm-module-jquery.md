@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mocha NPM TEST jquery module not loading"
-categories: blog
+categories: posts
 ---
 
 # Lessons learned: keep your dependencies up-to-date

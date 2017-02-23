@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: posts
 title: "Progressive Web App Dev Summit 2016"
 ---
 

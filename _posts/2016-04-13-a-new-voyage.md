@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Beginnings"
-categories: blog
+categories: posts
 ---
 
 # A new beginning

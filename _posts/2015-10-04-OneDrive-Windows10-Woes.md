@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 10 and OneDrive woes"
 descr: "Issues with syncing the Documents folder in Onedrive and Windows 10"
-categories: "blog"
+categories: posts
 ---
 
 The premise: I had set up my main Windows "My Documents" folder to point to the "My Documents" folder within the OneDrive folder. The plan was to save all my files, including Pictures directly to OneDrive. This worked alright for a while.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Up - November 2016"
-categories: blog
+categories: posts
 ---
 
 All is well, did not have much time to write or actually collect anything really worth sharing outside of my usual Twitter posts; so here's just another "sign-of-life" post :smile:

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: posts
 title: "Suds And Soda"
 ---
 

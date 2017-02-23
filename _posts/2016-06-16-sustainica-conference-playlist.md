@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sustainica 2016 Conference Videos"
-categories: blog
+categories: posts
 ---
 
 Here are ten videos on sustainable business ideas recorded at [Sustainica 2016](http://www.sustainica.org/en/conference) by [The Consciousness Network](http://c.network/) in Düsseldorf.

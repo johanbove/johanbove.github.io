@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll! :-)"
 date:   2014-09-06 17:24:46
-categories: blog
+categories: posts
 ---
 
 > I've upgraded my little static website with Jekyll today. The post below is the default "getting" started post which I left here for referal purposes.

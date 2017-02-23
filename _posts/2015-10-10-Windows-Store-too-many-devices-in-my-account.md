@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Windows Store tells me I have too many devices linked with my account"
-categories: blog
+categories: posts
 ---
 
 ## How is the Windows Store defining "new devices"?

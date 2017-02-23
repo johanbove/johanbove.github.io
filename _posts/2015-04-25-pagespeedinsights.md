@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PageSpeed Achievement unlocked"
-categories: blog
+categories: posts
 ---
 
 # My PageSpeed Insights results :bowtie: :triumph:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experience with Canary"
-categories: blog
+categories: posts
 ---
 
 # Outline

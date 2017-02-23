@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing BlueTooth Woes"
 desc: "Causes of BlueTooth interference in homes"
-categories: blog
+categories: posts
 ---
 
 ## Is your BlueTooth mouse freezing occasionally?

@@ -1,6 +1,6 @@
 ---
 title: "Guides and simple rules I live by"
-categories: blog
+categories: posts
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Phone is an Android Moto-X 2013 - the UX is great"
-categories: blog
+categories: posts
 ---
 
 ## So my phone is an 2013 Motorola Moto-X

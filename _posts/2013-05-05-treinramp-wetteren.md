@@ -2,7 +2,7 @@
 layout: post
 title:  "Treinramp te Wetteren in kaart"
 date:   2013-05-05 17:24:46
-categories: blog
+categories: posts
 lang: nl_BE
 ---
 

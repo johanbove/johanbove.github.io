@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refreshing ReactJS with help of Wes Bos
-categories: blog
+categories: posts
 ---
 
 Web development evolves so quickly that the topic of the tutorial and the tools introduced will probably be outdated by the time of finishing it.

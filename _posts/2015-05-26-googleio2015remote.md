@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google I/O 2015 remote"
-categories: blog
+categories: posts
 ---
 
 Together with the GDG Düsseldorf gang I have been organizing the [Google I/O 2015 remote event in Düsseldorf](https://plus.google.com/u/0/events/ce0gksqbf0ck94511sv5sv5hb0g) at the Simvelop offices in Düsseldorf.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Up - August 2015"
-categories: blog
+categories: posts
 ---
 
 Just a couple of facts I wanted to share from the last couple of weeks. I promise i'm going to write out a couple of these projects in more detail later.

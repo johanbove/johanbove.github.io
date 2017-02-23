@@ -18,7 +18,7 @@ read -d '' body <<EOF
 ---
 layout: post
 title: "$title"
-categories: blog
+categories: posts
 ---
 
 EOF

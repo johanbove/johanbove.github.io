@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows 10 Mail app crashes due to Cortana integration"
-categories: blog
+categories: posts
 ---
 
 ## Doing Microsoft's work: debugging the Mail Windows 10 application

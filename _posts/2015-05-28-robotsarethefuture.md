@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robots are the future"
-categories: blog
+categories: posts
 ---
 
 Do you know how likely it is that your job will be replaced by robots in the near future?

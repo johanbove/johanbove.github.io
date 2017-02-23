@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best 'old-IE not-supported' notification ever?"
-categories: blog
+categories: posts
 ---
 
 Found this today on the site of [Blanko GMBH](https://blanko.de/) from Düsseldorf; it's in German, but I'll translate below:

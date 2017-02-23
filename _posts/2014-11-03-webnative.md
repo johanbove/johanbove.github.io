@@ -2,7 +2,7 @@
 layout: post
 title:  "Reaching Total Web Nativity"
 date:   2014-11-03 20:00
-categories: blog
+categories: posts
 ---
 
 > So can you replace your Mac or PC with a ChromeBook and rely solely on Web Applications to get stuff done?

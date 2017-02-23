@@ -2,7 +2,7 @@
 layout: post
 title: "Sites which have 2-step authentication"
 desc: "Why 2-step authentication is important and which services support it"
-categories: blog
+categories: posts
 ---
 
 # What is Google Authenticator?

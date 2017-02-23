@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moving to GitHub"
-categories: blog
+categories: posts
 ---
 
 It really is a lot of fun and cool to be able to build a website with a [static site generator](http://jekyllrb.com/) so I decided to move my website completely [to GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fixing OneNote Universal App on Windows 10"
-categories: blog
+categories: posts
 ---
 
 ## Universal OneNote did not work any more after the #windows10 update.

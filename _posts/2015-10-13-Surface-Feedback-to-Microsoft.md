@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: posts
 title: "Surface Pro 3 Feedback to Microsoft October 2015"
 ---
 

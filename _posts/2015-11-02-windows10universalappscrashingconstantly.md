@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: posts
 title: "Windows 10 Universal apps still crash with Access is Denied errors"
 ---
 

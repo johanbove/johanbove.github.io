@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grunt 'the socket is closed' error and how I found a workaround"
-categories: blog
+categories: posts
 ---
 
 So the other day I started building a website for a friend. Since I am pretty happy with Jekyll I decided to use the same website building technology for this new site.
