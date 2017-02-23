@@ -3,21 +3,12 @@ layout: compress
 ---
 <!doctype html>
 <html lang="{{ site.locale }}">
-
   {% include head.html %}
-
-  <body class="fix-header">
-
+  <body>
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper box">
-        {{ content }}
-      </div>
-    </div>
-
+    <main class="page-content">
+      {{ content }}
+    </main>
     {% include footer.html %}
-
   </body>
-
 </html>

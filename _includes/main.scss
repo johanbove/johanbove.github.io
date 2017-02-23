@@ -1,5 +1,5 @@
 // Our variables
-$base-font-family: sans-serif;
+$base-font-family: asap, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.35;
@@ -28,30 +28,30 @@ $on-bigscreen:     1024px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
 @mixin media-query-min($device) {
-    @media screen and (min-width: $device) {
-        @content;
-    }
+  @media screen and (min-width: $device) {
+    @content;
+  }
 }
 
 @mixin transition($value) {
-    -webkit-transition: $value;
-    transition: $value;
+  -webkit-transition: $value;
+  transition: $value;
 }
 
 @mixin transform($value) {
-    -webkit-transform: $value;
-        transform: $value;
+  -webkit-transform: $value;
+      transform: $value;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+  "base",
+  "layout",
+  "syntax-highlighting"
 ;

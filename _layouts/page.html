@@ -1,22 +1,13 @@
 ---
 layout: default
 ---
-<div class="flexcontainer post">
-
-    <section role="main" class="bigitem">
-
-      <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-      </header>
-
-      <article class="post-content">
-        {{ content }}
-      </article>
-      
-    </section>
-    
-    <sidebar class="smallitem">
-        {% include sidebar.html %}
-    </sidebar>
-
+<div class="post">
+  <section role="main">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+    <article class="post-content">
+      {{ content }}
+    </article>
+  </section>
 </div>

@@ -3,29 +3,24 @@
 <p class="chromeframe">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p>
 <![endif]-->
 <header class="site-header">
-    <div class="wrapper box">
-    
-        <figure class="avatar" title="Johan Bové">
-            <a href="/"><img src="//www.gravatar.com/avatar/4554cca5bb71b81cad02162b4473a226?s=100" alt="Johan Bové" width="100" height="100"></a>
-        </figure>
-        
-        <!-- {{ site.baseurl }} -->
-        <h1 class="site-title"><a href="/" rel="home">{{ site.title }}</a></h1>
-        
-        <nav class="site-nav">
-          <a href="#" class="menu-icon" data-proofer-ignore>
-            Menu
-          </a>
+  <figure class="avatar" title="Johan Bové">
+    <a href="/"><img src="//www.gravatar.com/avatar/4554cca5bb71b81cad02162b4473a226?s=100" alt="Johan Bové" width="100" height="100"></a>
+  </figure>
+  
+  <!-- {{ site.baseurl }} -->
+  <h1 class="site-title"><a href="/" rel="home">{{ site.title }}</a></h1>
+  
+  <nav class="site-nav">
+    <a href="#" class="menu-icon" data-proofer-ignore>
+      Menu
+    </a>
 
-          <div class="trigger">
-            {% for page in site.pages %}
-              {% if page.title and page.nav == "primary" %}
-              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </nav>
-        
-        
+    <div class="trigger">
+      {% for page in site.pages %}
+        {% if page.title and page.nav == "primary" %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
     </div>
+  </nav>
 </header>

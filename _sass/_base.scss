@@ -4,12 +4,12 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 html {
-    min-height: 100%;
+  min-height: 100%;
 }
 
 
@@ -17,47 +17,44 @@ html {
  * Basic styling
  */
 body {
-    // http://lea.verou.me/css3patterns/#carbon
-    // by http://www.zencocoon.com Atle Mo (design), Sébastien Grosjean (code)
-    /*
-    background:
-    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
-    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
-    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
-    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
-    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
-    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
-    background-color: $background-color;
-    background-size: 100px 200px;
-    */
-    
-    // Using Twitter as CDN ...
-    //background-image: url(https://pbs.twimg.com/profile_background_images/704796077/5e0ef0d2229a91b4229abf1f52ba232f.jpeg);
-    //background-position: center 40px;
-    //background-attachment: fixed;
-    //background-repeat: repeat;
-    //background-color: #010102;  //#0D0413;
-    
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#010202+0,29141b+97 */
-background: #010202; /* Old browsers */
-background: -moz-linear-gradient(top,  #29141b -50%, #010202 97%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29141b), color-stop(97%,#010202)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top, #29141b -50%,#010202 97%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top, #29141b -50%,#010202 97%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top, #29141b -50%,#010202 97%); /* IE10+ */
-background: linear-gradient(to bottom, #29141b -50%,#010202 97%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#29141b', endColorstr='#010202',GradientType=0 ); /* IE6-9 */
+  // http://lea.verou.me/css3patterns/#carbon
+  // by http://www.zencocoon.com Atle Mo (design), Sébastien Grosjean (code)
+  /*
+  background:
+  linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+  linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+  linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+  linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+  linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+  linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+  background-color: $background-color;
+  background-size: 100px 200px;
+  */
 
-    
-    color: $text-color;
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    font-weight: 300;
-    line-height: $base-line-height;
-    position: relative;
+  // Using Twitter as CDN ...
+  //background-image: url(https://pbs.twimg.com/profile_background_images/704796077/5e0ef0d2229a91b4229abf1f52ba232f.jpeg);
+  //background-position: center 40px;
+  //background-attachment: fixed;
+  //background-repeat: repeat;
+  //background-color: #010102;  //#0D0413;
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#010202+0,29141b+97 */
+  background: #010202; /* Old browsers */
+  background: -moz-linear-gradient(top,  #29141b -50%, #010202 97%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29141b), color-stop(97%,#010202)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #29141b -50%,#010202 97%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #29141b -50%,#010202 97%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #29141b -50%,#010202 97%); /* IE10+ */
+  background: linear-gradient(to bottom, #29141b -50%,#010202 97%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#29141b', endColorstr='#010202',GradientType=0 ); /* IE6-9 */
+
+  color: $text-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  font-weight: 300;
+  line-height: $base-line-height;
+  position: relative;
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm
@@ -66,44 +63,40 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
 }
-
-
 
 /**
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
 /**
  * Figures
  */
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small-font-size;
+  font-size: $small-font-size;
 }
-
-
 
 /**
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+  list-style-type: none;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
 }
 
 
@@ -112,18 +105,18 @@ li {
  * Headings
  */
 h1, h2, h3 {
-    font-weight: 400;
+  font-weight: 400;
 }
 
 h4, h5, h6 {
-    font-weight: 300;
+  font-weight: 300;
 }
 
 /**
  * Formatting
  */
 strong {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 /**
@@ -131,34 +124,35 @@ strong {
  */
 a {
 
+  color: rgba(243, 243, 152, 0.95);
+
+  &:visited {
     color: rgba(243, 243, 152, 0.95);
-    
-    &:visited {
-        color: rgba(243, 243, 152, 0.95);
-    }
-    
-    &:hover, &:focus {
-        color: rgba(255, 255, 255, 1);
-    }
-    
+  }
+
+  &:hover, &:focus {
+    color: rgba(255, 255, 255, 1);
+  }
+
 }
 
 /**
  * Blockquotes
  */
 blockquote {
-    border-left: 1px solid rgba(0, 0, 0, 0.95);
-    color: $grey-color-light;
-    font-style: italic;
-    font-size: 18px;
-    padding-left: $spacing-unit / 2;
-    > :last-child {
-        margin-bottom: $spacing-unit;
-    }
-    @include transition(all 1s ease);
-    &:hover {
-        border-left: 1px solid rgba(243, 243, 152, 0.95);
-    }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.95);
+  color: $grey-color-light;
+  font-style: italic;
+  font-size: 18px;
+  padding-left: $spacing-unit / 2;
+  text-align: center;
+  > :last-child {
+    margin-bottom: $spacing-unit;
+  }
+  @include transition(all 1s ease);
+  &:hover {
+    border-bottom: 1px solid rgba(243, 243, 152, 0.95);
+  }
 }
 
 /**
@@ -166,92 +160,85 @@ blockquote {
  */
 pre,
 code {
-    background-color: rgba(0,0,0,0.5);
-    border: 1px solid $grey-color-dark;
-    border-radius: 3px;
-    line-height: 1;
+  background-color: rgba(0,0,0,0.5);
+  border: 1px solid $grey-color-dark;
+  border-radius: 3px;
+  line-height: 1;
 }
 
 code {
-    padding: 1px 5px;
+  padding: 1px 5px;
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: auto;
+  padding: 8px 12px;
+  overflow-x: auto;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 /**
  * Table
  */
 th {
-    font-weight: 600;
-    color: darken($text-color, 40%);
+  font-weight: 600;
+  color: darken($text-color, 40%);
 }
 
 td {
-    vertical-align: top;
+  vertical-align: top;
 }
 
 /**
  * Wrapper
  */
 .wrapper {
+  /*
+  max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
+  max-width:         calc(800px - (#{$spacing-unit} * 2));
+  */
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
     /*
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(800px - (#{$spacing-unit}));
+    max-width:         calc(800px - (#{$spacing-unit}));
     */
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        /*
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
-        */
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
 }
-
-
 
 /**
  * Clearfix
  */
 %clearfix {
-
-    &:after {
-        content: "";
-        clear: both;
-        display: table;
-    }
+  &:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 }
-
-
 
 /**
  * Icons
  */
 .icon {
-
-    > svg {
-        display: inline-block;
-        height: 16px;
-        vertical-align: middle;
-        width: 16px;
-
-        path {
-            fill: $grey-color;
-        }
+  > svg {
+    display: inline-block;
+    height: 16px;
+    vertical-align: middle;
+    width: 16px;
+    path {
+      fill: $grey-color;
     }
+  }
 }
