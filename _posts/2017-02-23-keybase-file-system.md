@@ -6,19 +6,19 @@ categories: posts
 
 # Do you [Keybase.io](https://keybase.io)?
 
-Keybase is a free, open-source security app and it's a public directory of people.
+## Keybase is a free, open-source security app and it's a public directory of people.
 
 Mostly techies at the moment but Keybase promises cryptographically secure operations with people you know on the Internet: chatting, file sharing, even [publishing public documents](https://johanbove.keybase.pub).
 
-Super safe and easy with Keybase!
+It's all super safe and straightforward with Keybase!
 
-Since 8th of February 2017 Keybase even includes [a secure chat](https://keybase.io/blog/keybase-chat).
+Since February 8th, 2017 Keybase offers [secure chatting](https://keybase.io/blog/keybase-chat) through various clients.
 
-Through the Keybase File System you can safely (**warning:** beta software might sting) store away privates or securily exchange files with your peers.
+Through the **Keybase File System** (KBFS) you can safely (**warning:** beta software might sting) store away private data or securily exchange files with your trusted peers.
 
 Keybase uses concepts from the [Web Of Trust](https://keybase.io/docs/server_security/following) where through verification of multiple accounts and the social graph an online identity can be trusted and contacted as the actual person you wanted to reach.
 
-Pretty Good Privacy for the masses!
+Pretty Good Privacy for the masses! Or better, PGP on steroids.
 
 I invite you to [find me on Keybase right now](https://keybase.io/johanbove) and let's make the Internet safer!
 
