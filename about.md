@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 permalink: /about/
-desc: "More facts about Johan"
+desc: Facts about Johan"
 nav: primary
 ---
 
@@ -39,39 +39,16 @@ I like science, yet I am not a scientist. I like technology, yet I'm not a techn
 
 Some very smart people wrote down and said some really clever things. Here are a couple of my favorites.
 
-> Basically [everything Prof. Stephen Hawking ever said](http://www.brainyquote.com/quotes/authors/s/stephen_hawking.html)
-
-> “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.”
-~ Henry Ford
-
-> “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.”
-~ Albert Einstein
-
-> “Imagination is more important than knowledge.”
-~ Albert Einstein
-
-> "I have no special talents. I am only passionately curious."
-~ Albert Einstein
-
-> “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.“
-~ Robert A. Heinlein
-
-> “l’important, ce n’est pas la chute, mais l’atterissage”
-~ Mathieu Kassovitz
-
-> “On the Internet, nobody knows you’re a Dog”
-~ Peter Steiner
-
-> "Into the hands of every individual is given a marvelous power for good or evil – the silent; unconscious, unseen influence of his life. This is simply the constant radiation of what man really is, not what he pretends to be.”
-~ William George Jordan
-
-> “an escalator can never break, it can only become stairs.”
-~ Mitch Hedburg
-
-> "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous."
-~ Carl Sagan
-
-> Many more [quotes by Carl Sagan](http://www.brainyquote.com/quotes/authors/s/carl_sagan.html)
-
-> "Relativity is elegant, beautiful, empowering and humbling all at the same time"
-~ Jason Padgett
+- > Basically [everything Prof. Stephen Hawking ever said](http://www.brainyquote.com/quotes/authors/s/stephen_hawking.html)
+- > “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.” ~ Henry Ford
+- > “Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.” ~ Albert Einstein
+- > “Imagination is more important than knowledge.” ~ Albert Einstein
+- > "I have no special talents. I am only passionately curious." ~ Albert Einstein
+- > “A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.“ ~ Robert A. Heinlein
+- > “l’important, ce n’est pas la chute, mais l’atterissage” ~ Mathieu Kassovitz
+-  > “On the Internet, nobody knows you’re a Dog” ~ Peter Steiner
+- > "Into the hands of every individual is given a marvelous power for good or evil – the silent; unconscious, unseen influence of his life. This is simply the constant radiation of what man really is, not what he pretends to be.” ~ William George Jordan
+- > “an escalator can never break, it can only become stairs.” ~ Mitch Hedburg
+- > "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous." ~ Carl Sagan
+- > Many more [quotes by Carl Sagan](http://www.brainyquote.com/quotes/authors/s/carl_sagan.html)
+- > "Relativity is elegant, beautiful, empowering and humbling all at the same time" ~ Jason Padgett
