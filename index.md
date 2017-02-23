@@ -45,8 +45,9 @@ Getting current year for calculating my age.
 
     <div class="block">
         <h3>Getting in touch</h3>
-        <p>The easiest way to connect with me is through <a href="//twitter.com/johanbove">Twitter</a>. And if you're interested in working with me, check-out my public resume on <a href="//de.linkedin.com/in/johanbove">LinkedIn</a>.</p>
-        <p>Anyway, thanks for dropping by!</p>
+        <p>The easiest way to connect with me is through <a href="//twitter.com/johanbove">Twitter</a>.</p>
+        <p>And if you're interested in working with me, check-out my public resume on <a href="//de.linkedin.com/in/johanbove">LinkedIn</a>.</p>
+        <p>Anyway, thanks for dropping by :smile:</p>
     </div>
 
 </div>
