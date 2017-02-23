@@ -6,7 +6,7 @@ categories: posts
 
 # Do you [Keybase.io](https://keybase.io)?
 
-## Keybase is a free, open-source security app and it's a public directory of people.
+Keybase is a free, open-source security app and it's a public directory of people.
 
 Mostly techies at the moment but Keybase promises cryptographically secure operations with people you know on the Internet: chatting, file sharing, even [publishing public documents](https://johanbove.keybase.pub).
 

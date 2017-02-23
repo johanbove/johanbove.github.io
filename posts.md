@@ -11,6 +11,7 @@ Most of these posts are not full-fledged articles as they might actually be snip
 <div role="blog">
 
   {% comment %}
+  <!-- http://stackoverflow.com/a/19104574 -->
   <ul class="post-list">
   {% for post in site.categories.posts %}
     <li>
