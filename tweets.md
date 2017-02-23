@@ -6,12 +6,14 @@ nav: primary
 ---
 
 <style>
-    iframe#twitter-widget-0 {
-        width: 100% !important;
-    }
+  iframe#twitter-widget-0 {
+    width: 100% !important;
+  }
 </style>
 
-Sharing news, videos and other things I like and more, with the occasional opinionated public tweet. Follow me at [@johanbove](https://twitter.com/johanbove).
+Sharing news, videos and other things I like and more, with the occasional opinionated public tweet.
+
+Follow me at [@johanbove](https://twitter.com/johanbove).
 
 ## My latest Tweets
 
@@ -23,7 +25,7 @@ Sharing news, videos and other things I like and more, with the occasional opini
    data-link-color="#F3F398"
    data-tweet-limit="5"
 >
-    Loading Tweets by @johanbove&hellip;
+  Loading Tweets by @johanbove&hellip;
 </a>
 -->
 
@@ -36,7 +38,7 @@ Sharing news, videos and other things I like and more, with the occasional opini
 <script src="/assets/js/favtweets.js"></script>
 <script>
 $(function () {
-    window.favtweets.getMyTweets().getFavTweets();
+  favtweets.getMyTweets().getFavTweets();
 });
 </script>
 
