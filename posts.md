@@ -2,7 +2,9 @@
 layout: page
 title: Posts
 permalink: /posts/
-redirect_from: "/blog"
+redirect_from:
+  - /blog
+  - /blog/
 desc: "Thoughts and ideas by Johan"
 nav: primary
 ---
