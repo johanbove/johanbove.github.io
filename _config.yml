@@ -7,6 +7,7 @@ highlighter: rouge
 gems:
   - jemoji
   - jekyll-sitemap
+  - jekyll-redirect-from
 # markdown rendering
 markdown: kramdown
 # http://jekyllrb.com/docs/configuration/#kramdown
