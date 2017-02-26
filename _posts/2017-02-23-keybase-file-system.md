@@ -22,7 +22,7 @@ Pretty Good Privacy for the masses! Or better, PGP on steroids.
 
 I invite you to [find me on Keybase right now](https://keybase.io/johanbove) and let's make the Internet safer!
 
-All public announcements people on Keybase make are [verifiable signed by Keybase and hashed into the Bitcoin blockchain](https://keybase.io/docs/server_security/merkle_root_in_bitcoin_blockchain), whichs makes Keybase unforkable.
+All public announcements people on Keybase make are [verifiable signed by Keybase and hashed into the Bitcoin blockchain](https://keybase.io/docs/server_security/merkle_root_in_bitcoin_blockchain), which makes Keybase unforkable.
 
 I perhaps don't fully understand all of the crypto-speak behind it, but it sure does sound super cool.
 
