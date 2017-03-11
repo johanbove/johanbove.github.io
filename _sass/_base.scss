@@ -160,10 +160,10 @@ blockquote {
  */
 pre,
 code {
-  background-color: rgba(0,0,0,0.5);
   border: 1px solid $grey-color-dark;
   border-radius: 3px;
-  line-height: 1;
+  line-height: 1.4;
+  font-size: 12px;
 }
 
 code {
