@@ -27,7 +27,7 @@
     <meta name="twitter:creator" content="@johanbove">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:image" content="http://www.gravatar.com/avatar/4554cca5bb71b81cad02162b4473a226?s=300">
+    <meta name="twitter:image" content="{% if page.twitter_image %}{{ page.twitter_image }}{% else %}http://www.gravatar.com/avatar/4554cca5bb71b81cad02162b4473a226?s=300{% endif %}">
     
     <link rel="alternate" type="application/rss+xml" href="/feed.xml">
     
