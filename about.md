@@ -22,7 +22,7 @@ I like science, yet I am not a scientist. I like technology, yet I'm not a techn
 - I'm was active in the [GDG Düsseldorf developers community](https://plus.google.com/communities/113782579160655007812), where I helped organize events and presentations.
 - This site was deliberately kept simple to achieve a super [high PageSpeed / Mobile Friendly site score](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fblog.johanbove.info).
 - I used to DJ on a weekly basis in and around Wetteren where I was once part of the PartyOn DJ Squad.
-- I have collected more than [30.000 scrobbles and over 5000 artists on Last.FM](http://www.last.fm/user/Joe-1).
+- I have collected more than [40.000 scrobbles and almost 6000 artists on Last.FM](http://www.last.fm/user/Joe-1) since 26 Dec 2006.
 - I walked over [8.000 km wearing a FitBit band](https://www.fitbit.com/user/26B3ZT) and once more than 100km within 24 hours... for fun!
 - I'm a big fan of [Radio Paradise](http://www.radioparadise.com)
 
