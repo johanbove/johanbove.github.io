@@ -10,7 +10,7 @@ categories: post
 
 > Lighthouse can be run as [a Chrome Extension](https://chrome.google.com/webstore/detail/blipmdconlkpinefehnmjammfjpmpbjk), from the command line, or used programmatically as a Node module. You give Lighthouse a URL that you want to audit, it runs a barrage of tests against the page, and then it generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app.
 
-I cared because "I 💓 web validators" and it kicked me finally into action adding the enigmatic "manifest.json" file to my homepage.
+I cared because "I 💓 web validators" and it kicked me finally into action adding the enigmatic ["manifest.json"](https://johanbove.info/manifest.json) file to my homepage.
 
 Turns out, creating a [web app manifest](https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/), complete with taking care of offline handling with a service-worker behind the screens, is actually not that hard, thanks to a plethora of [useful documentation and tutorials](https://developers.google.com/web/tools/lighthouse/audits/manifest-exists), all of which are neatly linked right from the LightHouse report page.
 
