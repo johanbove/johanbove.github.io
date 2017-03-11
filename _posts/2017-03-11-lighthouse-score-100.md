@@ -21,7 +21,7 @@ The result:
 
 Running the test really helps you to learn how to set up the *manifest* file and optimize your site accordingly.
 
-In the end it took me about three hours to achieve the great 100/100 score by follwing the documentation and setting up the web app manifest file with a service worker in the currently available LightHouse test. Most of that time I actually spent on creating [an app icon of myself](https://johanbove.info/img/johanbove_192x192.png).
+In the end it took me about three hours to achieve the great 100/100 score by following the documentation and setting up the web app manifest file with a service worker in the currently available LightHouse test. Most of that time I actually spent on creating [an app icon of myself](https://johanbove.info/img/johanbove_192x192.png).
 
 Thanks goes out to **CSSWizardry** Magician [Harry Roberts](https://csswizardry.com/) for boasting with his site' score.
 
