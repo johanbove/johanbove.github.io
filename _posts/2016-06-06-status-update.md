@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: "Status Update May 2016"
+title: "Status Update June 2016"
 ---
 
 # Yep, the weeks are flying by!
