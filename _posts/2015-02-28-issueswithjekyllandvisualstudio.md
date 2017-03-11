@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jekyll Visual Studio and UTF-8 encoding"
+categories: posts
 ---
 
 > So you want to write Jekyll blog posts using Visual Studio. Make sure you set the correct Unicode encoding!
