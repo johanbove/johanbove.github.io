@@ -2,7 +2,7 @@
 layout: post
 title: "Achievement unlocked: Lighthouse score of 100"
 categories: post
-twitter_image: /images/20170311-lighthouseresults100.png
+twitter_image: http://blog.johanbove.info/images/20170311-lighthouseresults100.png
 ---
 
 # What is *Lighthouse* and why did I care?
