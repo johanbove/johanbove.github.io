@@ -1,7 +1,7 @@
 ---
 title: Germany Dative Prepositions
 layout: post
-categories: German
+categories: language
 ---
 
 # Dative Prepositions
