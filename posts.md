@@ -59,6 +59,6 @@ Most of these posts are not full-fledged articles as they might actually be snip
   {% endif %}
 {% endfor %}
 
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe to my RSS - feed and stay up-to-date!</a></p>
+  {% include subscribe-rss.html %}
 
 </div>
