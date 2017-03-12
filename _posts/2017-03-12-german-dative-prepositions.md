@@ -1,10 +1,11 @@
 ---
-title: Germany Dative Prepositions
+title: "German Dative Prepositions"
 layout: post
 categories: language
+permalink: /language/germany-dative-prepositions
 ---
 
-> This page is about [Duolingo's explanation](https://www.duolingo.com/skill/de/Dative-Prepositions) on how German dative prepositions work. I need to keep this close since it's difficult to remember the prepositions.
+> This page is about [Duolingo's explanation](https://www.duolingo.com/skill/de/Dative-Prepositions) on how German dative prepositions work. I need to keep this explanation close since it's difficult to remember the prepositions.
 
 ## Dative prepositions
 
