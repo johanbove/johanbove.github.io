@@ -323,6 +323,15 @@
   align-items: center;
 }
 
+.post-404 {
+  margin-top: $spacing-unit;
+}
+
+.post-comments,
+.rss-subscribe {
+  margin: $spacing-unit;
+}
+
 .post section {
   flex: 1;
   min-width: 240px;
@@ -600,4 +609,8 @@ sidebar {
 .monkey {
   margin: $spacing-unit;
   font-size: xx-large;
+}
+
+.google-search {
+  max-width: 480px;
 }
