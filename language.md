@@ -5,7 +5,7 @@ permalink: /language/
 desc: "Learning foreign languages"
 ---
 
-Living in Germany I am actively learning German, mostly by trying to speak and write as much as I can, but also by using fun applications like DuoLingo. These are my notes.
+> Living in Germany I am actively learning German, mostly by trying to speak and write as much as I can, but also by using fun applications like DuoLingo. These are my notes.
 
 <div class="language">
   <ul class="post-list">

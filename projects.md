@@ -6,7 +6,7 @@ desc: "Sharing my personal mile-stone projects"
 nav: primary
 ---
 
-As a self-made web developer I learned a lot *on-the-job*. In this section I will share my personal mile-stone projects.
+> As a self-made web developer I learned a lot *on-the-job*. In this section I will share my personal mile-stone projects.
 
 <div class="projects">
   <ul class="post-list">
