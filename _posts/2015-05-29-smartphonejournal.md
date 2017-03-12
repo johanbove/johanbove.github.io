@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I did with my smartphone this morning"
+title: "What I did do with my smartphone this morning"
 categories: journal
 ---
 
