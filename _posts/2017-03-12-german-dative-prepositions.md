@@ -4,17 +4,15 @@ layout: post
 categories: language
 ---
 
-# Dative Prepositions
-
-> [Duolingo's explanation](https://www.duolingo.com/skill/de/Dative-Prepositions) on how German dative prepositions work
+> This page is about [Duolingo's explanation](https://www.duolingo.com/skill/de/Dative-Prepositions) on how German dative prepositions work. I need to keep this close since it's difficult to remember the prepositions.
 
 ## Dative prepositions
 
-aus, aüßer, bei, gegenüber, mit, nach, seit, von, zu
+    aus, aüßer, bei, gegenüber, mit, nach, seit, von, zu
 
 ## Accusative prepositions
 
-bis, durch, für, gegen, ohne, um
+    bis, durch, für, gegen, ohne, um
 
 ## 2-way prepositions
 
@@ -22,7 +20,7 @@ Two-way prepositions take the date case or the accusative case depending on the 
 
 If there is movement or if there's movement within a certain place, use the dative case
 
-an, auf, entlang, hinter, in, neben, über, unter, vor, zwischen
+    an, auf, entlang, hinter, in, neben, über, unter, vor, zwischen
 
 No movement -> dative:
 
