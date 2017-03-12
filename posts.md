@@ -11,7 +11,7 @@ nav: primary
 
 Most of these posts are not full-fledged articles as they might actually be snippets and references for stuff I'd like to remember and share with the Intarwebs.
 
-<div role="blog">
+<div class="posts">
 
   {% comment %}
   <!-- http://stackoverflow.com/a/19104574 -->
