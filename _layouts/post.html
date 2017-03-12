@@ -5,14 +5,22 @@ layout: default
   <section role="main">
     <header class="post-header">
       <h1 class="post-title">{{ page.title }}</h1>
-        <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        <p class="post-meta">
+          <span>Published</span> {{ page.date | date: "%b %-d, %Y" }}
+          {% if page.author %} • {{ page.author }}{% endif %}
+          {% if page.meta %} • {{ page.meta }}{% endif %}
+          <span>in</span> 
+          {% for category in page.categories %}
+          <a href="{{ category | prepend: site.baseurl | prepend: '/' }}" class="link-to-category">{{ category }}</a>
+          {% endfor %}
+        </p>
     </header>
     <article class="post-content article">
       {{ content }}
     </article>
     <div class="post-comments">
-      <h3>Feedback, suggestions and comments? Let's talk!</h3>
-      <a href="https://twitter.com/intent/tweet?screen_name=johanbove" class="twitter-mention-button" data-show-count="false">Tweet to @johanbove</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      {% include feedback-twitter.html %}
     </div>
+    {% include subscribe-rss.html %}
   </section>
 </div>
