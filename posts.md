@@ -9,7 +9,7 @@ desc: "Thoughts and ideas by Johan"
 nav: primary
 ---
 
-Most of these posts are not full-fledged articles as they might actually be snippets and references for stuff I'd like to remember and share with the Intarwebs.
+> I write about various sorts of topics, mostly software and web related. Most posts are not full-fledged articles as they might actually be snippets and references for information I'd like to share with the Web.
 
 <div class="posts">
 
@@ -27,7 +27,7 @@ Most of these posts are not full-fledged articles as they might actually be snip
   </ul>
   {% endcomment %}
   
-  {% for post in site.posts  %}
+  {% for post in site.categories.posts %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
@@ -35,7 +35,7 @@ Most of these posts are not full-fledged articles as they might actually be snip
 
     {% if forloop.first %}
     <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-    <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h3>
+    <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }} {{this_year}}</h3>
     <ul>
     {% endif %}
 
@@ -47,18 +47,17 @@ Most of these posts are not full-fledged articles as they might actually be snip
       {% if this_year != next_year %}
       </ul>
       <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
-      <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
+      <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }} {{next_year}}</h3>
       <ul>
       {% else %}
         {% if this_month != next_month %}
         </ul>
-        <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
+        <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }} {{next_year}}</h3>
         <ul>
         {% endif %}
       {% endif %}
   {% endif %}
 {% endfor %}
-
-  {% include subscribe-rss.html %}
-
 </div>
+
+ {% include subscribe-rss.html %}
