@@ -2,9 +2,7 @@
 layout: page
 ---
 
-# Github
-
-My public code is [on Github](http://github.com/johanbove).
+> My public code is [on Github](http://github.com/johanbove).
 
 Here are some of my recent activities.
 
@@ -14,7 +12,7 @@ Here are some of my recent activities.
 ## My Github Gists
 <ul class="gists"></ul>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script>
 $(function () {
 
