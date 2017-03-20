@@ -18,5 +18,8 @@ Windows 10 site tile:
 Updating "pinned site" code:
 
 ```
-<meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=5; cycle=1"/>
+<meta
+  name="msapplication-notification"
+  content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://blog.johanbove.info/feed.xml&amp;id=5;cycle=1"
+/>
 ```
