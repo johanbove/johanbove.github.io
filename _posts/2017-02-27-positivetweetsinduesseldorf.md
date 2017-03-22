@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Positive Tweets from Düsseldorf
-categories: blog
+categories: posts
 ---
 
 A "Twitter Embedded Timeline" with Positive Tweets from Düsseldorf with safe search mode on.
