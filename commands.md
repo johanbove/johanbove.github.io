@@ -13,3 +13,7 @@ Serving Jekyll with drafts in Cloud9:
 New commands to start Jekyll after update:
 
     bundle exec jekyll serve
+
+Starting Jekyll on Ubuntu with rvm and drafts:
+
+    rvm all do bundle exec jekyll serve --drafts
