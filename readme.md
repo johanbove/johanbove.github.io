@@ -15,9 +15,15 @@ $ bundle install
 $ bundle exec jekyll server
 ```
 
+See also the commands file.
+
 ## A Jekyll blog
 
 - <http://blog.johanbove.info/blog/2014/09/06/welcome-to-jekyll.html>
+
+## Emoji Cheat Sheet
+
+<https://www.webpagefx.com/tools/emoji-cheat-sheet/>
 
 ## License
 
