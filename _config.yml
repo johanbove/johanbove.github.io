@@ -4,7 +4,7 @@ encoding: utf-8
 #highlighter: pygments
 highlighter: rouge
 # https://help.github.com/articles/emoji-on-github-pages/
-gems:
+plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-redirect-from
