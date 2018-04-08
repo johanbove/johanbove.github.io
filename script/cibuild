@@ -1,10 +1,10 @@
 #!  /bin/bash
 set -e # halt script on error
 
-DEPLOY_REPO="https://${DEPLOY_BLOG_TOKEN}@github.com/johanbove/johanbove.github.io.git"
+# DEPLOY_REPO="https://${DEPLOY_BLOG_TOKEN}@github.com/johanbove/johanbove.github.io.git"
 
 function main {
-    clean
+    # clean
     # get_current_site
     build_site
 }
@@ -20,7 +20,7 @@ function get_current_site {
 }
 
 function build_site {
-    echo "building site"  
+    echo "building site"
     bundle exec jekyll build
 }
 
