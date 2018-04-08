@@ -1,6 +1,8 @@
-# My personal web page
+# The personal web page or blog for Johan Bové
 
-Hosted on GitHub Pages: <http://blog.johanbove.info>
+Hosted on GitHub Pages.
+
+Public URL: <http://blog.johanbove.info>
 
 <https://travis-ci.org/johanbove/johanbove.github.io/builds>
 
