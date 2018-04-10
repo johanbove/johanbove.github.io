@@ -6,6 +6,8 @@ timeframe: "2015-2016"
 category: projects
 ---
 
+A website I created for the Sustainica 2016 Conference.
+
 This project consists of a static website built on top of [the Zeppelin template](https://github.com/gdg-x/zeppelin). The system generates HTML, CSS and optimized images by running a program called Jekyll which is written in Ruby.
 
 The project's deployed files are compiled through Grunt tasks. The front-end code applies Bower, SCSS and various other web tools to construct a fast and modern web site. The content of the site is structured and managed using Markdown and Yaml (yml) files. The layout engine uses [Liquid Template](http://liquidmarkup.org/) (by Shopify) syntax and engine to compile simple HTML and display logic into powerfull HTML structures from simple text files.
