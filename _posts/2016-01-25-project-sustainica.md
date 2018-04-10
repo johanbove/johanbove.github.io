@@ -87,7 +87,7 @@ NPM version: ``npm version [major|minor|patch] -m "Upgrade to version %s for ...
 
 #### NPM Bundles in this project
 
-``
+```
 "bower": "~1.4.1",
 "grunt": "~0.4.5",
 "grunt-autoprefixer": "~2.2.0",
@@ -106,7 +106,7 @@ NPM version: ``npm version [major|minor|patch] -m "Upgrade to version %s for ...
 "grunt-svgmin": "~2.0.1",
 "jit-grunt": "~0.9.1",
  "time-grunt": "~1.1.0"
-``
+```
 
 ## What I learned
 
