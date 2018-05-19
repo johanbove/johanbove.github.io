@@ -6,6 +6,9 @@ category: experiments
 # Fuif Kalender
 
 Zoek informatie over fuiven in Vlaanderen met deze gespecializeerde Google Zoekmotor.
+Van 2004 tot 2008 ontwikkelde ik de Partyon.be website; Ik leerde toen veel over PHP, MySQL databases en het bouwen van websites.
+
+Hieronder kan je een Google Search engine vinden die de toen bekende Fuif kalender sites doorzoekt.
 
 <script>
   (function() {
