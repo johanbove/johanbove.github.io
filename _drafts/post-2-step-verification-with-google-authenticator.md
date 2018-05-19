@@ -11,7 +11,7 @@ categories: posts
 - [Installing Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en)
 - [How does it work?](http://security.stackexchange.com/questions/35157/how-does-google-authenticator-work)
 
-# List of sites which offer Google Authenticator access
+## List of sites which offer Google Authenticator access
 
 - Google
 - Evernote
@@ -19,3 +19,4 @@ categories: posts
 - Github
 - Facebook
 - IFTTT
+- Microsoft
