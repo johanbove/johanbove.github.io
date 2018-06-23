@@ -15,7 +15,7 @@ $(function () {
      */
     var Tweetledee = function () {
     
-        var TWEETLEDEE = "http://tweetledee.johanbove.info/",
+        var TWEETLEDEE = "https://tweetledee.johanbove.info/",
             FAV_TWEETS = TWEETLEDEE + "favoritesjson.php",
             MY_TWEETS = TWEETLEDEE + "userjson.php",
 
