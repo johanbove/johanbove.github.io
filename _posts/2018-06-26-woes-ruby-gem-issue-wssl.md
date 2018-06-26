@@ -1,5 +1,6 @@
 ---
-categories: bugs
+layout: post
+categories: posts
 title: "gem install bundler issue"
 ---
 
