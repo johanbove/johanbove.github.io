@@ -4,7 +4,7 @@ title: "What's Up - Oktober 2017"
 categories: posts
 ---
 
-> Another "sign of life" post to let you know I'm still here! :smile:
+Another "sign of life" post to let you know I'm still here! :smile:
 
 ## Hello Ubuntu Bash For Windows!
 
