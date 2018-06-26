@@ -2,7 +2,7 @@
 layout: page
 ---
 
-> My public code is [on Github](http://github.com/johanbove). Here are my most recent logged activities.
+My public code is [on Github](http://github.com/johanbove). Here are my most recent logged activities.
 
 ## Changelog of this site
 <ul class="changelog"></ul>
