@@ -41,6 +41,30 @@ $ ruby -v
 $ ruby-switch --set ruby2.3
 ```
 
+## Update 2018-06-26
+
+Installing Ruby using rbenv as the Ruby set up got messed up after some later updates.
+
+From <https://gorails.com/setup/ubuntu/16.04>:
+
+```
+cd
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+
+rbenv install 2.5.1
+rbenv global 2.5.1
+ruby -v
+```
+
+## Installing Jekyll
+
 Install Jekyll and Bundler, including `activesupport`
 
 ```
