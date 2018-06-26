@@ -4,8 +4,7 @@ title: Reading Resilient Web Design
 categories: posts
 ---
 
-> A must-read book by [Jeremy Keith](https://adactio.com/) for all **Web Workers**:
-> <https://resilientwebdesign.com>
+A must-read book by [Jeremy Keith](https://adactio.com/) for all **Web Workers**: <https://resilientwebdesign.com>
 
 I found out about this book through [Marc Thiele](https://marcthiele.com/) when he mentioned it in his latest [Beyond Tellerrand](https://beyondtellerrand.com) newsletter.
 

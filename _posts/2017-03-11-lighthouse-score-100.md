@@ -7,7 +7,7 @@ twitter_image: http://blog.johanbove.info/images/20170311-lighthouseresults100.p
 
 # What is *Lighthouse* and why did I care?
 
-> [Lighthouse](https://developers.google.com/web/tools/lighthouse/) is an open-source, automated tool for improving the quality of your web apps.
+[Lighthouse](https://developers.google.com/web/tools/lighthouse/) is an open-source, automated tool for improving the quality of your web apps.
 
 > Lighthouse can be run as [a Chrome Extension](https://chrome.google.com/webstore/detail/blipmdconlkpinefehnmjammfjpmpbjk), from the command line, or used programmatically as a Node module. You give Lighthouse a URL that you want to audit, it runs a barrage of tests against the page, and then it generates a report on how well the page did. From here you can use the failing tests as indicators on what you can do to improve your app.
 
