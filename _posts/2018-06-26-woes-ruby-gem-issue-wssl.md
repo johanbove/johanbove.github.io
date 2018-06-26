@@ -2,6 +2,7 @@
 layout: post
 categories: posts
 title: "gem install bundler issue"
+twitter_image: "http://pngimg.com/uploads/ruby/ruby_PNG29.png"
 ---
 
 I can't install anything with ``gem install bundler``. Ruby barfs out this stack dump.
