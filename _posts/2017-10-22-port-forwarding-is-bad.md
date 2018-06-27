@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 category: posts
 title: "Ihre Sicherheit und Datenschutz sind uns besonders wichtig."
 ---
