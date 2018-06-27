@@ -1,5 +1,5 @@
 ---
-categories: posts
+categories: research
 title: "Decentralized Web"
 ---
 
@@ -37,6 +37,8 @@ title: "Decentralized Web"
 ## Appcoins
 
 > Appcoins may transform how new projects are launched online, making it possible to fund open-source development teams focused on developing shared protocols instead of independent companies.
+
+- <https://appcoins.io/>
 
 
 ### Hearth
