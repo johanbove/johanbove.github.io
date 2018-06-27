@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: "gem install bundler issue"
+title: "My `gem install bundler` Issue"
 twitter_image: "http://pngimg.com/uploads/ruby/ruby_PNG29.png"
 ---
 
