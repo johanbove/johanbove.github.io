@@ -7,7 +7,8 @@ title: "Ihre Sicherheit und Datenschutz sind uns besonders wichtig."
 The security experts at [EQ3](https://www.eq-3.de/produkte/homematic.html) warned for not using port forwarding and provide some more tips in making the [HomeMatic CCU](https://www.eq-3.de/produkte/homematic/zentralen-und-gateways.html) unit more secure. (in German)
 
 ---
-Lieber Anwender!
+
+## Lieber Anwender!
 
 Ihre Sicherheit und Datenschutz sind uns besonders wichtig.
 
