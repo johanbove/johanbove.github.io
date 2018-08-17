@@ -6,6 +6,7 @@
 
     <div class="inner">
         <div class="social-links">
+            {% if site.mastodon_instance %}<a href="https://{{ site.mastodon_instance }}/@{{ site.mastodon_username }}" class="mastodon">Mastodon</a>{% endif %}
             {% if site.twitter_username %}<a href="https://twitter.com/intent/user?screen_name={{ site.twitter_username }}" class="twitter">Twitter</a>{% endif %}
             {% if site.googleplus_username %}<a href="https://plus.google.com/u/0/{{ site.googleplus_username }}" class="google+">Google+</a>{% endif %}
             {% if site.skype_username %}<a href="http://de.linkedin.com/in/{{ site.skype_username }}" class="linkedin">Linkedin</a>{% endif %}
