@@ -9,7 +9,7 @@ desc: "Thoughts and ideas by Johan"
 nav: primary
 ---
 
-> I write about various sorts of topics, mostly software and web related. Most posts are not full-fledged articles as they might actually be snippets and references for information I'd like to share with the Web.
+I write about various sorts of topics, mostly software and web related. Most posts are not full-fledged articles as they might actually be snippets and references for information I'd like to share with the Web.
 
 <div class="posts">
 
@@ -34,26 +34,34 @@ nav: primary
     {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
     {% if forloop.first %}
+  <div class="year">
     <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-    <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }} {{this_year}}</h3>
-    <ul>
+    <div class="month">
+      <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }} {{this_year}}</h3>
+      <ul class="thisyear">
     {% endif %}
-
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% if forloop.last %}
-    </ul>
+      </ul>
+    </div>
+  </div>
     {% else %}
       {% if this_year != next_year %}
       </ul>
-      <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+    </div>
+  </div>
+  <div class="year">
+    <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
+    <div class="month">
       <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }} {{next_year}}</h3>
-      <ul>
+      <ul class="next_year">
       {% else %}
         {% if this_month != next_month %}
         </ul>
+      </div>
+      <div class="month">
         <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }} {{next_year}}</h3>
-        <ul>
+        <ul class="next_year">
         {% endif %}
       {% endif %}
   {% endif %}
