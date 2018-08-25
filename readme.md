@@ -99,3 +99,9 @@ The first post was in 2014.
 ## License
 
 Johan Bové released this blog system and blog content under the **[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)**.
+
+
+## Plans
+
+- [] Check out Liquid "group by" : [tutorial](https://www.siteleaf.com/blog/advanced-liquid-group-by/)
+- [] Set up a remote git repo on my private webhost as backup
