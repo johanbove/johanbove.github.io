@@ -22,7 +22,7 @@ title: "Captivating Online Matters"
 email: "hello@johanbove.info"
 description: "Johan is a front end web developer passionate about media and technology."
 #baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://blog.johanbove.info" # the base hostname & protocol for your site
+url: "https://blog.johanbove.info" # the base hostname & protocol for your site
 twitter_username: "johanbove"
 github_username: "johanbove"
 skype_username: "johanbove"
@@ -30,8 +30,8 @@ linkedin_username: "johanbove"
 googleplus_username: "+JohanBové"
 #evernote_username: "joe-1"
 keybase_username: "johanbove"
-mastodon_instance: "mastodon.social"
-mastodon_username: "johanbove"
+# mastodon_instance: "mastodon.social"
+# mastodon_username: "johanbove"
 birthyear: 1980
 themeColor: "#0E0412"
 exclude: [vendor]
