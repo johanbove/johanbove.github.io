@@ -7,6 +7,10 @@
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:image" content="//johanbove.info/img/johanbove_200x200.jpg">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="webmention" href="https://webmention.io/johanbove.info/webmention" />
+    <link rel="pingback" href="https://webmention.io/johanbove.info/xmlrpc" />
+
     {% if page.excerpt %}
     <meta property="og:type" content="article">
     <meta name="description" content="{{ page.excerpt | strip_html | truncate: 150 }}">
@@ -22,20 +26,20 @@
     <meta property="og:description" content="{{ site.description | truncate: 150 }}">
     <meta name="twitter:description" content="{{ site.description | truncate: 140 }}">
     {% endif %}
-    
+
     <meta name="twitter:site" content="@johanbove">
     <meta name="twitter:creator" content="@johanbove">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:image" content="{% if page.twitter_image %}{{ page.twitter_image }}{% else %}{% endif %}">
-    
+
     <link rel="alternate" type="application/rss+xml" href="/feed.xml">
-    
+
     <meta name="theme-color" content="{{ site.themeColor }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta name="application-name" content="{{ site.title }}">
-    
+
     <!-- Windows 8 - 10 -->
     <meta name="msapplication-TileColor" content="{{ site.themeColor }}"/>
     <meta name="msapplication-square70x70logo" content="tiny.png"/>
@@ -43,7 +47,7 @@
     <meta name="msapplication-wide310x150logo" content="wide.jpg"/>
     <meta name="msapplication-square310x310logo" content="large.jpg"/>
     <meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed={{ site.url }}/feed.xml&amp;id=5; cycle=1"/>
-    
+
     <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Asap:400,400italic,700,700italic&amp;subset=latin" media="all">-->
     <style>{% capture include_to_scssify %}{% include main.scss %}{% endcapture %}{{ include_to_scssify | scssify }}</style>
 </head>
