@@ -6,7 +6,7 @@ layout: default
     <header class="post-header">
       <h1 class="post-title p-name">{{ page.title }}</h1>
         <p class="post-meta">
-          <span>Published</span> <a href="{{ page.url }}" class="u-url"></a><time class="dt-published" datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ page.date | date: "%b %d, %Y" }}</time></a>
+          <span>Published</span> <a href="{{ page.url }}" class="u-url"><time class="dt-published" datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ page.date | date: "%b %d, %Y" }}</time></a>
           <span>in</span>
           {% for category in page.categories %}
           <a href="{{ category | prepend: site.baseurl | prepend: '/' }}" class="link-to-category p-category">{{ category }}</a>
