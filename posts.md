@@ -41,11 +41,11 @@ nav: primary
     {% endif %}
 
     <li class="h-entry">
+      <time class="dt-published" datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ post.date | date: "%b %d" }}</time>
       <a href="{{ post.url }}" class="u-url">
-        <time class="dt-published" datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ post.date | date: "%b %d" }}</time>
         <span class="p-name">{{ post.title }}</span>
-        <span>by <a href="https://johanbove.info" class="p-author h-card">Johan</a></span>
       </a>
+      <span>by <a href="https://johanbove.info" class="p-author h-card">Johan</a></span>
     </li>
 
     {% if forloop.last %}
