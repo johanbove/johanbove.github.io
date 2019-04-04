@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Sustainica 2016 Conference Videos"
 categories: posts
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Robots are the future"
 categories: posts
 ---

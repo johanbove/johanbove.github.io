@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Experience with Canary"
 categories: posts
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: Refreshing ReactJS with help of Wes Bos
 categories: posts
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Fixing BlueTooth Woes"
 desc: "Causes of BlueTooth interference in homes"
 categories: posts

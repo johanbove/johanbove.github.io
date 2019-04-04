@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Open Letter to Donald Trump"
 categories: posts
 ---

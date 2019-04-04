@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Google I/O 2015 remote"
 categories: posts
 ---

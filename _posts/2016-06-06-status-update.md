@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Status Update June 2016"
 ---

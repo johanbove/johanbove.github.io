@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Uploading files to Dropbox from an USB-drive"
 categories: posts
 ---

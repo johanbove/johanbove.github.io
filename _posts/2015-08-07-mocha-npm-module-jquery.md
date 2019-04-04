@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Mocha NPM TEST jquery module not loading"
 categories: posts
 ---

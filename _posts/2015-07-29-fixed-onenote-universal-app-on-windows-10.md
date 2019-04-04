@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Fixing OneNote Universal App on Windows 10"
 categories: posts
 ---
@@ -13,7 +14,7 @@ To do this I first had to figure out how to remove it. So I [found out](https://
 The command:
 
     get-appxpackage *microsoft.office.onenote* | remove-appxpackage
-    
-When the process is done, simply reinstall OneNote using the Windows Store.    
-    
+
+When the process is done, simply reinstall OneNote using the Windows Store.
+
 *Note:* most help threads are stating to execute this command in a PowerShell with elevated privileges (as admin). However the command will remove OneNote Universal for the admin account. There's actually no need to run this as admin. My usual Windows account has regular user rights and I was still able to execute the above command and reinstall OneNote Universal.

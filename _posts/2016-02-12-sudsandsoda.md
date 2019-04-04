@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Suds And Soda"
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "My coding music playlist"
 categories: posts
 ---
@@ -14,11 +15,11 @@ _Note that to listen to the full songs you'll need a Deezer subscription._
 Hope you'll enjoy it!
 
 <script>
-	(function(d, s, id) { 
+	(function(d, s, id) {
 	var js, djs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return; 
-	js = d.createElement(s); js.id = id; 
-	js.src = "https://cdn-files.deezer.com/js/widget/loader.js"; 
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "https://cdn-files.deezer.com/js/widget/loader.js";
 	 djs.parentNode.insertBefore(js, djs);
 }(document, "script", "deezer-widget-loader"));</script>
 

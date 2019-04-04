@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Fronteers 2016"
 ---

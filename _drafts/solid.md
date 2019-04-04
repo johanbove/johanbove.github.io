@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "SOLID"
 desc: Decentralizing the Web
 ---

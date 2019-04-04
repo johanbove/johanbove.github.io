@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Instant Jekyll Posts"
 categories: posts
 ---

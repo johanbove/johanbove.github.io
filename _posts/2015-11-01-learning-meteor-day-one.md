@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Learning a new technology: Meteor - Day 1"
 ---

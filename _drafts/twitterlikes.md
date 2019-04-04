@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Twitter hearts likes"
 categories: rant
 ---

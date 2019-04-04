@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Best 'old-IE not-supported' notification ever?"
 categories: posts
 ---

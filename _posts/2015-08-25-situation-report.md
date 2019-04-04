@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "What's Up - August 2015"
 categories: posts
 ---

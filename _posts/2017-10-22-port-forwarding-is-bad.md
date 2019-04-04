@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 category: posts
 title: "Ihre Sicherheit und Datenschutz sind uns besonders wichtig."
 ---
@@ -48,7 +49,7 @@ Falls Sie heute noch Port Forwarding für eine CCU oder andere Geräten verwende
 
 Um die Sicherheit gegen unbefugtes Anmelden weiter zu verbessern, empfehlen wir ebenfalls die Funktion "Automatisches Anmelden" in der Benutzerverwaltung zu deaktivieren.
 
-Viele Grüße  
+Viele Grüße
 Ihr eQ-3 Support Team
 
 ---

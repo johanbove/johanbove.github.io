@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: Reading Resilient Web Design
 categories: posts
 ---

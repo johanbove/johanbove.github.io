@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Progressive Web App Dev Summit 2016"
 ---

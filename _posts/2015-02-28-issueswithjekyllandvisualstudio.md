@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Jekyll Visual Studio and UTF-8 encoding"
 categories: posts
 ---
@@ -24,6 +25,7 @@ Create a new markdown file in Visual Studio 2013 with default settings and try p
 {% highlight ruby %}
 ---
 layout: post
+author: Johan
 ---
 > Testing 001
 {% endhighlight %}

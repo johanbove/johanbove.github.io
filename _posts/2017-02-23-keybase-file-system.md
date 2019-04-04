@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: Introducing Keybase
 categories: posts
 ---

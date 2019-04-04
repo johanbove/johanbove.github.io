@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Windows 10 BSOD VIDEO_TDR_FAILURE on my Surface Pro 3"
 ---

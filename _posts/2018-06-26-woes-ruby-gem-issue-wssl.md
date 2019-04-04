@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "My `gem install bundler` Issue"
 twitter_image: "http://pngimg.com/uploads/ruby/ruby_PNG29.png"
@@ -25,7 +26,7 @@ Yay!
 
 I can't install anything with ``gem install bundler``. Ruby barfs out this stack dump.
 
-Reinstalled **rbenv** and tried both with installing Ruby v2.3.3 and v2.5.1. Both output the same error. 
+Reinstalled **rbenv** and tried both with installing Ruby v2.3.3 and v2.5.1. Both output the same error.
 
 I'm on Windows 10 Version 1803 (Build 17134.112).
 

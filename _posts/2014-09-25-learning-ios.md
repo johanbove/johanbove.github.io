@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title:  "Learning iOS development"
 categories: posts
 ---
@@ -83,15 +84,15 @@ int main(void)
 
     // helloWorld() returns the length of the given name
     int nameLength = helloWorld(myName);
-    
+
     // Console output
     NSLog(@"The length of your name multiplied by five is %d.\n", multiplyByFive(nameLength));
 
     // Outputting album info
-    
+
     albumInfo(myAlbum);
     albumInfo(yourAlbum);
-    
+
     return 0;
 }
 
@@ -117,7 +118,7 @@ int helloWorld(NSString *theName)
     NSLog(@"Hello %@! Your name is %d characters long.\n", theName, [theName length]);
     return [theName length];
 }
-{% endhighlight %} 
+{% endhighlight %}
 
 
 Next steps and research took me to the [Write Objective C code](https://developer.apple.com/library/mac/referencelibrary/GettingStarted/RoadMapOSX/books/WriteObjective-CCode/WriteObjective-CCode/WriteObjective-CCode.html) pages.

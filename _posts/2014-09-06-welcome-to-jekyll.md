@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title:  "Welcome to Jekyll! :-)"
 date:   2014-09-06 17:24:46
 categories: posts

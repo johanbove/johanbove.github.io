@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Just Focus"
 categories: posts
 ---

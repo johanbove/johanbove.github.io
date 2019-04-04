@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "What's Up - November 2016"
 categories: posts
 ---

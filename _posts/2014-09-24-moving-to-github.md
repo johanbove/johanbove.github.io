@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title:  "Moving to GitHub"
 categories: posts
 ---
@@ -16,7 +17,7 @@ After a couple of _blogging-misfires_ in the past, which are gladly buried under
 
 This post was completely written in [Brackets](http://brackets.io/?lang=en), a cool new open-source code editor for web designers and front-end developers founded by Adobe and [made with JavaScript](http://www.youtube.com/watch?v=VKitqLpJtAY&list=PL4BC6BE6AA61BE69D). It supports some useful extensions, like [Markdown Preview](https://github.com/gruehle/MarkdownPreview) and [Spell-Check](https://github.com/couzteau/SpellCheck).
 
-> Brackets was founded by Adobe as a community guided, open source project to push web development editors to the next level. 
+> Brackets was founded by Adobe as a community guided, open source project to push web development editors to the next level.
 
 If you happen to read this and also know me in real life, then don't worry. Whenever I will write something personal I'll make sure no - real - names will be used. I might call you Grumpy or Jack or something cool like [Son Goku](http://en.wikipedia.org/wiki/Goku).
 

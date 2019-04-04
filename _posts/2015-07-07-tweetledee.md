@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Adding Tweetledee to my site"
 categories: posts
 ---
@@ -30,7 +31,7 @@ It looked easy to set up and offered exactly what I needed, plus on top of that 
 
 So I planned to use the Tweetledee application on a subdomain on my hosting account, so it would be nice and snug in it's own environment.
 
-After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), I had to set my newly created [Twitter App consumer keys](https://apps.twitter.com/) in the designated PHP file and I was good to go. 
+After I downloaded [the latest version of Tweetledee](https://github.com/chrissimpkins/tweetledee/releases), I had to set my newly created [Twitter App consumer keys](https://apps.twitter.com/) in the designated PHP file and I was good to go.
 
 I then transfered all Tweetledee files using my [favourite FTP client FileZilla](https://filezilla-project.org/) to my web space and *Bob's your uncle*.
 
@@ -38,10 +39,10 @@ I then transfered all Tweetledee files using my [favourite FTP client FileZilla]
 
 The sub domain helps for setting up specific security *.htaccess* rules to allow cross-side scripting headers rules which are quite important since you don't want just anyone to be able to *take advantage* of your Tweetledee set-up and *steal* your precious bandwidth, right?
 
-The *.htaccess* commands: 
+The *.htaccess* commands:
 
 ```
-SetEnvIf Origin "^http(s)?://(.+\.)?(johanbove\.info)$" origin_is=$0 
+SetEnvIf Origin "^http(s)?://(.+\.)?(johanbove\.info)$" origin_is=$0
 Header always set Access-Control-Allow-Origin %{origin_is}e env=origin_is
 ```
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Summer Fun Challenge 2015"
 categories: posts
 ---
@@ -29,7 +30,7 @@ The attendees voted for these projects.
 
 ## Best Design & Presentation
 
-| Rank      | Project | Votes | Links | 
+| Rank      | Project | Votes | Links |
 |:----------|:--------|-------|:------|
 | 1st | “OpenGrill” by Fritz Elles & Alex Kruck-Kneip | 38.3% | [code](https://github.com/FedericoElles/opunguriru) [presentation](https://docs.google.com/presentation/d/1l-nmOoInxsZju7evPHSm-5Efgv1opOMTJ1xVik6K4XM/pub?start=false&loop=false&delayms=3000) |
 | 2nd | “Refresh!” by Nenad Natošević & Ognjen Mihajlović | 23.4% | [presentation](https://docs.google.com/presentation/d/1Rpo6OKqC4PqpHIi1E7gQdSfnAdX1pc2jpCz2yf1eXd8/) |
@@ -37,7 +38,7 @@ The attendees voted for these projects.
 
 ## Best Code
 
-| Rank      | Project | Votes | Links | 
+| Rank      | Project | Votes | Links |
 |:----------|:--------|-------|:------|
 | 1st | “dim” by Frederik Schweiger | 34% | [presentation](https://docs.google.com/presentation/d/1TYADtKHSGvGIgDjUyzAUdrccj7qCHBoZZLE2pzcRr2o/edit?usp=sharing) |
 | 2nd | “FallingAndroid” by Pascal Dornfeld | 21.3% | |

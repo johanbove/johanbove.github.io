@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "How Dan's Favicon-Generator works"
 categories: posts
 ---

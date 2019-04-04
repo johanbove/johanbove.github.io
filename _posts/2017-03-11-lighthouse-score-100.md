@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Achievement unlocked: Lighthouse score of 100"
 categories: post
 twitter_image: http://blog.johanbove.info/images/20170311-lighthouseresults100.png

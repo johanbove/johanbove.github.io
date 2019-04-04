@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Windows 10 and OneDrive woes"
 descr: "Issues with syncing the Documents folder in Onedrive and Windows 10"
 categories: posts
@@ -34,7 +35,7 @@ At the end of the day I am a little confused here.
  - Are we supposed to see OneDrive not as our main storage location, but only as an **extra** remote folder to share files and make these accessible to others?
  - Why can't we just make one of our local "My Documents" folders behave like "OneDrive" folders? Why do we need an extra location on our hard drives for OneDrive files?
  - Why does OneDrive for Windows make it so hard to actually use it?
- 
+
  The recent "developments" in OneDrive in the Windows 10 implementation has taken away lots of its charm: we can't see an file-based overview of files synced in the cloud and on the machine any more for instance. It puzzles me as to why Microsoft removed this previously excellent feature from OneDrive.
 
 Ever since the name changing fiasco of SkyDrive to OneDrive in Windows 8 I believe the quality of this application and service to be very questionable.

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "How to use Trello like a boss"
 categories: presentations
 ---

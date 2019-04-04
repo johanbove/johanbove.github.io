@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Anti Amazon"
 desc: "Getting away from Amazon"
 ---

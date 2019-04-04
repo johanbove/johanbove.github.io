@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 date: 2018-11-10 11:43:00
 title: "Initiatve Q"

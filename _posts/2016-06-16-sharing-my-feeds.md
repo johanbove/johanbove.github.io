@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Sharing my news sources"
 categories: posts
 ---

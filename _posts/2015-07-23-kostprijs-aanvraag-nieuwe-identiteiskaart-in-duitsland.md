@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Wat kost een nieuwe Belgische identiteiskaart in Duitsland?"
 categories: posts
 lang: nl_BE
@@ -50,7 +51,7 @@ Ik heb de juiste informatie dan ook maar aan *Berlin@diplobel.fed.be* gemeld.
 
     TEL 00800 2123 2123
 
-Bel onmiddellijk (24 op 24 uur) dit gratis nummer om uw identiteitskaart te laten blokkeren bij verlies of diefstal. Leg een verklaring af bij de politie in geval van diefstal! 
+Bel onmiddellijk (24 op 24 uur) dit gratis nummer om uw identiteitskaart te laten blokkeren bij verlies of diefstal. Leg een verklaring af bij de politie in geval van diefstal!
 
 ## Bronnen
 

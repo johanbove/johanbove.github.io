@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 categories: posts
 title: "Jumping on the Visual Studio Code train"
 ---

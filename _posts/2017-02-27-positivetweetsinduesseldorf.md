@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: Positive Tweets from Düsseldorf
 categories: posts
 ---

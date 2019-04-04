@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "New Beginnings"
 categories: posts
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "The Windows Store tells me I have too many devices linked with my account"
 categories: posts
 ---

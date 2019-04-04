@@ -1,10 +1,11 @@
 ---
 layout: post
+author: Johan
 title: "Fun with Confluence"
 categories: posts
 ---
 
-Since I moved from keeping my work Journal in OneNote to Confluence I enjoy Confluence's ability to quickly and smoothly keep track of personal tasks, and the sharing possibilities are really powerful. But I do miss some functionality. 
+Since I moved from keeping my work Journal in OneNote to Confluence I enjoy Confluence's ability to quickly and smoothly keep track of personal tasks, and the sharing possibilities are really powerful. But I do miss some functionality.
 
 One being the fact that one cannot tag or label inline content, a OneNote feature which I loved to quickly trace back certain snippets and even create "tag reports". Confluence's JQL search, albeit powerful to look up text and content, is not capable of looking up emoticons.
 

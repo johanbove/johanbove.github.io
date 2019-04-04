@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Surface Pro 3 and Type Cover connection lost solution"
 categories: posts
 ---

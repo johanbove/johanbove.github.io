@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Playing with Yaml frontmatter"
 desc: "Introducing Jekyll and Yaml and Liquid Templates"
 categories: presentation

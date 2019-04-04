@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Evernote For Windows finally got High DPI support - sort of"
 categories: posts
 ---

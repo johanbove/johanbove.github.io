@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "Woes of the Inkscape EPS importing"
 desc: "Importing EPS files into Inkscape SVG Matrix issues"
 ---

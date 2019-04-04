@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Johan
 title: "PageSpeed Achievement unlocked"
 categories: posts
 ---
