@@ -1,4 +1,5 @@
 ---
+author: "Johan"
 layout: page
 title: Posts
 permalink: /posts/
@@ -9,7 +10,7 @@ desc: "Thoughts and ideas by Johan"
 nav: primary
 ---
 
-> I write about various sorts of topics, mostly software and web related. Most posts are not full-fledged articles as they might actually be snippets and references for information I'd like to share with the Web.
+> <a href="https://johanbove.info" class="p-author h-card">I</a> write about various sorts of topics, mostly software and web related. Most posts are not full-fledged articles as they might actually be snippets and references for information I'd like to share with the Web.
 
 <div class="posts">
 
@@ -17,16 +18,16 @@ nav: primary
   <!-- http://stackoverflow.com/a/19104574 -->
   <ul class="post-list">
   {% for post in site.categories.posts %}
-    <li>
+    <li class="h-entry">
       <h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"{% if post.lang != null %} lang="{{ post.lang }}"{% endif %}>{{ post.title }}</a>
+        <span class="post-meta"><time class="dt-published" datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
+        <a class="post-link u-url" href="{{ post.url | prepend: site.baseurl }}"{% if post.lang != null %} lang="{{ post.lang }}"{% endif %}><span class="p-name">{{ post.title }}</span></a>
       </h2>
     </li>
   {% endfor %}
   </ul>
   {% endcomment %}
-  
+
   {% for post in site.categories.posts %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
@@ -39,7 +40,9 @@ nav: primary
     <ul>
     {% endif %}
 
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li class="h-entry">
+      <a href="{{ post.url }}" class="u-url">[<time class="dt-published" datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ post.date | date: "%b %d" }}</time>] <span class="p-name">{{ post.title }}</span></a>
+    </li>
 
     {% if forloop.last %}
     </ul>
