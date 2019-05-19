@@ -248,11 +248,14 @@ td {
   border-radius: 15px;
   padding: $spacing-unit;
   text-align: center;
-  margin: $spacing-unit;
-  padding: $spacing-unit;
   font-size: larger;
   font-weight: bolder;
   p {
     text-align: inherit;
   }
+}
+
+.post-content .notificiation p {
+  text-align: center;
+  margin: 0;
 }
