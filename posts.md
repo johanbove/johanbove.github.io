@@ -10,6 +10,10 @@ desc: "Thoughts and ideas by Johan"
 nav: primary
 ---
 
+<div class="notification">
+  <p><strong>This blog is archived. I've moved my statuses and post publications to my <a href="https://social.johanbove.info">social.johanbove.info</a> site.</strong></p>
+</div>
+
 > <a href="https://johanbove.info" class="p-author h-card">I</a> write about various sorts of topics, mostly software and web related. Most posts are not full-fledged articles as they might actually be snippets and references for information I'd like to share with the Web.
 
 <div class="posts">
