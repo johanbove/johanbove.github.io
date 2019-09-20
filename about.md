@@ -11,7 +11,7 @@ I build websites. More technically; I take care of Front-end development (HTML5,
 ## Facts
 
 - I don't always share the coolest online content, but when I do, I do it - mostly - through [Google+](https://plus.google.com/+JohanBové) and [Twitter](https://twitter.com/johanbove)
-- I'm was active in the [GDG Düsseldorf developers community](https://plus.google.com/communities/113782579160655007812), where I helped organize events and presentations.
+- I was active in the [GDG Düsseldorf developers community](https://plus.google.com/communities/113782579160655007812), where I helped organize events and presentations.
 - This site was deliberately kept simple to achieve a super [high PageSpeed / Mobile Friendly site score](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fblog.johanbove.info).
 - I used to DJ on a weekly basis in and around Wetteren where I was once part of the PartyOn DJ Squad.
 - I have collected more than [40.000 scrobbles and almost 6000 artists on Last.FM](http://www.last.fm/user/Joe-1) since 26 Dec 2006.
